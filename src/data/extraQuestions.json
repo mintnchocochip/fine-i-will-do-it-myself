@@ -1,0 +1,5721 @@
+{
+  "week3": [
+    {
+      "text": "What is the primary theme of Lecture #11, as indicated in the title slide?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustainable Development Goals only"
+        },
+        {
+          "letter": "B",
+          "text": "Global Citizenship in Isolation"
+        },
+        {
+          "letter": "C",
+          "text": "ESD & Global Citizenship"
+        },
+        {
+          "letter": "D",
+          "text": "Rekhi Centre of Excellence"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The title slide clearly states 'ESD & Global Citizenship'.",
+      "id": "week3_extra_1776741621416_0"
+    },
+    {
+      "text": "Which institution is Professor Atasi Mohanty affiliated with, according to the title slide?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "UNESCO"
+        },
+        {
+          "letter": "B",
+          "text": "Oxfam"
+        },
+        {
+          "letter": "C",
+          "text": "IIT Kharagpur"
+        },
+        {
+          "letter": "D",
+          "text": "Mahatma Gandhi Institute"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The slide lists 'IIT Kharagpur' as Prof. Atasi Mohanty's affiliation.",
+      "id": "week3_extra_1776741621417_1"
+    },
+    {
+      "text": "The title slide (Lecture #11) presents a visual representation of several Sustainable Development Goals (SDGs). How many distinct SDGs are depicted in total on this slide?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17"
+        },
+        {
+          "letter": "B",
+          "text": "15"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "5"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The slide displays 15 distinct SDG icons (1 through 15).",
+      "id": "week3_extra_1776741621417_2"
+    },
+    {
+      "text": "According to the lecture, what is the umbrella term for social, political, environmental, and economic actions of globally minded individuals and communities on a worldwide scale?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "National Development"
+        },
+        {
+          "letter": "B",
+          "text": "Local Governance"
+        },
+        {
+          "letter": "C",
+          "text": "Global Citizenship"
+        },
+        {
+          "letter": "D",
+          "text": "Economic Globalization"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 2 defines 'Global citizenship' as this umbrella term.",
+      "id": "week3_extra_1776741621417_3"
+    },
+    {
+      "text": "The concept of Global Citizenship suggests that individuals are members of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Single societies with isolated concerns."
+        },
+        {
+          "letter": "B",
+          "text": "Multiple, diverse, local and non-local networks."
+        },
+        {
+          "letter": "C",
+          "text": "Primarily economic unions."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusive cultural groups."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 2 states that global citizenship refers to 'the belief that individuals are members of multiple, diverse, local and non-local networks'.",
+      "id": "week3_extra_1776741621417_4"
+    },
+    {
+      "text": "Which of the following is NOT explicitly mentioned as a core value of Global Citizenship in the 'Our Values' section of Slide 3?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empathy"
+        },
+        {
+          "letter": "B",
+          "text": "Financial gain"
+        },
+        {
+          "letter": "C",
+          "text": "Striving for excellence"
+        },
+        {
+          "letter": "D",
+          "text": "Acting sustainably"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Financial gain' is not listed among the values like Empathy, Respect, Striving for Excellence, Acting Sustainably, Living Diversity, Enjoying Participation.",
+      "id": "week3_extra_1776741621417_5"
+    },
+    {
+      "text": "According to Oxfam, what is a key belief central to global citizenship?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only governments can make a difference."
+        },
+        {
+          "letter": "B",
+          "text": "We can all make a difference."
+        },
+        {
+          "letter": "C",
+          "text": "Difference-making is limited to economists."
+        },
+        {
+          "letter": "D",
+          "text": "Technology alone will solve global problems."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 4 states, 'And it's about the belief that we can all make a difference (Oxfam)'.",
+      "id": "week3_extra_1776741621417_6"
+    },
+    {
+      "text": "UNESCO's work in Global Citizenship is notably guided by which specific target of the Sustainable Development Goals?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SDG 1.1 (End poverty everywhere)"
+        },
+        {
+          "letter": "B",
+          "text": "SDG 7.2 (Increase global percentage of renewable energy)"
+        },
+        {
+          "letter": "C",
+          "text": "SDG 4.7 (Education for sustainable development and global citizenship)"
+        },
+        {
+          "letter": "D",
+          "text": "SDG 13.1 (Strengthen resilience to climate-related hazards)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 6 mentions UNESCO's work is guided by 'Target 4.7 of the Sustainable Development Goals (SDG 4 on Education)'.",
+      "id": "week3_extra_1776741621417_7"
+    },
+    {
+      "text": "Target 4.7 of SDG 4, as mentioned in the lecture, calls on countries to ensure learners are provided with knowledge and skills to promote sustainable development, including all of the following EXCEPT:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Human rights"
+        },
+        {
+          "letter": "B",
+          "text": "Global economic dominance"
+        },
+        {
+          "letter": "C",
+          "text": "Gender equality"
+        },
+        {
+          "letter": "D",
+          "text": "Promotion of a culture of peace and non-violence"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 6 lists human rights, gender equality, peace, non-violence, cultural diversity, global citizenship, but not 'global economic dominance'.",
+      "id": "week3_extra_1776741621417_8"
+    },
+    {
+      "text": "Global citizenship helps people reckon with their differences to work together for a sustainable future for humanity, and it also stimulates:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Economic competition"
+        },
+        {
+          "letter": "B",
+          "text": "Healthy debate and strengthens creative problem-solving skills"
+        },
+        {
+          "letter": "C",
+          "text": "Political isolationism"
+        },
+        {
+          "letter": "D",
+          "text": "Technological advancement exclusively"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 8 states, 'It stimulates healthy debate and strengthens creative problem-solving skills.'",
+      "id": "week3_extra_1776741621417_9"
+    },
+    {
+      "text": "One of the key benefits of global citizenship highlighted in the lecture is that it fosters the skill of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Public speaking"
+        },
+        {
+          "letter": "B",
+          "text": "Negotiating contracts"
+        },
+        {
+          "letter": "C",
+          "text": "Listening"
+        },
+        {
+          "letter": "D",
+          "text": "Financial planning"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 9 states, 'It fosters the skill of listening.'",
+      "id": "week3_extra_1776741621417_10"
+    },
+    {
+      "text": "According to the lecture, a global citizen actively collaborates with diverse people to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promote national interests only."
+        },
+        {
+          "letter": "B",
+          "text": "Improve the state of the world."
+        },
+        {
+          "letter": "C",
+          "text": "Develop new technologies."
+        },
+        {
+          "letter": "D",
+          "text": "Analyze economic trends."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 10 mentions global citizens 'And actively collaborate with diverse people (even virtually!) to improve the state of the world.'",
+      "id": "week3_extra_1776741621417_11"
+    },
+    {
+      "text": "Global Citizenship Education (GCED) aims to empower learners of all ages to assume active roles, both locally and globally, in building more peaceful, tolerant, inclusive and:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wealthy societies"
+        },
+        {
+          "letter": "B",
+          "text": "Secure societies"
+        },
+        {
+          "letter": "C",
+          "text": "Technologically advanced societies"
+        },
+        {
+          "letter": "D",
+          "text": "Homogenous societies"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 11 states GCED aims for 'more peaceful, tolerant, inclusive and secure societies.'",
+      "id": "week3_extra_1776741621417_12"
+    },
+    {
+      "text": "Global Citizenship Education (GCED) is based on which three domains of learning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physical, mental, spiritual"
+        },
+        {
+          "letter": "B",
+          "text": "Cognitive, socio-emotional, behavioral"
+        },
+        {
+          "letter": "C",
+          "text": "Academic, vocational, practical"
+        },
+        {
+          "letter": "D",
+          "text": "Individual, community, global"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 11 lists, 'GCED is based on the three domains of learning - cognitive, socio-emotional and behavioral.'",
+      "id": "week3_extra_1776741621417_13"
+    },
+    {
+      "text": "Which domain of GCED learning focuses on knowledge and thinking skills necessary to better understand the world and its complexities?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Behavioral"
+        },
+        {
+          "letter": "B",
+          "text": "Socio-emotional"
+        },
+        {
+          "letter": "C",
+          "text": "Cognitive"
+        },
+        {
+          "letter": "D",
+          "text": "Affective"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 11 defines 'Cognitive' as 'knowledge and thinking skills necessary to better understand the world and its complexities.'",
+      "id": "week3_extra_1776741621417_14"
+    },
+    {
+      "text": "The Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP) is described as UNESCO's first Category 1 education-related institute in which region?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "European Union"
+        },
+        {
+          "letter": "B",
+          "text": "North America"
+        },
+        {
+          "letter": "C",
+          "text": "Africa"
+        },
+        {
+          "letter": "D",
+          "text": "Asia-Pacific"
+        }
+      ],
+      "answer": "D",
+      "feedback": "Slide 16 states MGIEP is 'in the Asia-Pacific region'.",
+      "id": "week3_extra_1776741621417_15"
+    },
+    {
+      "text": "While other targets under SDG 4 focus on expanding educational opportunities and equipping learners with skills for employment, what does SDG 4.7 rearticulate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A purely economic agenda for education."
+        },
+        {
+          "letter": "B",
+          "text": "A humanistic agenda for education."
+        },
+        {
+          "letter": "C",
+          "text": "A technological agenda for education."
+        },
+        {
+          "letter": "D",
+          "text": "A research-focused agenda for education."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 16 states, 'SDG 4.7 rearticulates a humanistic agenda for education'.",
+      "id": "week3_extra_1776741621417_16"
+    },
+    {
+      "text": "UNESCO-MGIEP has called for integrating Social and Emotional Learning (SEL) in education systems and for a conceptual framework based on insights from which two fields?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Economics and Sociology"
+        },
+        {
+          "letter": "B",
+          "text": "Neuroscience and Cognitive Psychology"
+        },
+        {
+          "letter": "C",
+          "text": "Political Science and History"
+        },
+        {
+          "letter": "D",
+          "text": "Engineering and Mathematics"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 17 mentions 'neuroscience and cognitive psychology' as the basis for the framework.",
+      "id": "week3_extra_1776741621417_17"
+    },
+    {
+      "text": "According to the lecture, which of the following competencies is NOT explicitly mentioned as being associated with SDG 4.7 and necessary for advancing national economic growth?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Critical thinking"
+        },
+        {
+          "letter": "B",
+          "text": "Empathy"
+        },
+        {
+          "letter": "C",
+          "text": "Collaboration"
+        },
+        {
+          "letter": "D",
+          "text": "Memorization"
+        }
+      ],
+      "answer": "D",
+      "feedback": "Slide 17 lists 'critical thinking, empathy, and collaboration' but not memorization.",
+      "id": "week3_extra_1776741621417_18"
+    },
+    {
+      "text": "The behavioral domain of GCED learning is described as the means of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizing facts and figures."
+        },
+        {
+          "letter": "B",
+          "text": "Acting, conducting and engagement of the learning domains on local and global issues."
+        },
+        {
+          "letter": "C",
+          "text": "Developing abstract theories."
+        },
+        {
+          "letter": "D",
+          "text": "Participating in isolated academic debates."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 19 states 'Behavioral - the means of acting, conducting and engagement of the learning domains of GCED in a more effectively and responsibly on local and global issues'.",
+      "id": "week3_extra_1776741621417_19"
+    },
+    {
+      "text": "Regarding the behavioral domain of GCED, the lecture uses a metaphor to describe knowledge that is acquired but not put to action. What is this metaphor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A flowing river"
+        },
+        {
+          "letter": "B",
+          "text": "A blooming flower"
+        },
+        {
+          "letter": "C",
+          "text": "A fruitless tree"
+        },
+        {
+          "letter": "D",
+          "text": "A bright star"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 19 says, 'knowledge that is acquired but not put to action can be ascribed as fruitless tree.'",
+      "id": "week3_extra_1776741621417_20"
+    },
+    {
+      "text": "UNESCO Doha trains teachers in GCED topics and learning objectives, focusing on developing skills such as curiosity, creative and caring thinking, critical reflection, questioning, discussion, dialogue, and what other key action?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Individual competition"
+        },
+        {
+          "letter": "B",
+          "text": "Collaborative action"
+        },
+        {
+          "letter": "C",
+          "text": "Passive observation"
+        },
+        {
+          "letter": "D",
+          "text": "Rote learning"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 20 mentions 'curiosity, creative and caring thinking, critical reflection, questioning, discussion, dialogue and collaborative action'.",
+      "id": "week3_extra_1776741621417_21"
+    },
+    {
+      "text": "What is Oxfam's perspective on the scope of Education for Global Citizenship?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It should be limited to school classrooms."
+        },
+        {
+          "letter": "B",
+          "text": "It is a framework for learning, reaching beyond school to the wider community."
+        },
+        {
+          "letter": "C",
+          "text": "It focuses solely on economic development."
+        },
+        {
+          "letter": "D",
+          "text": "It is only for specific age groups."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 21 says, 'Education for global citizenship is a framework for learning, reaching beyond school to the wider community.'",
+      "id": "week3_extra_1776741621417_22"
+    },
+    {
+      "text": "Which of the following is NOT listed as a benefit of Global Citizenship for young people?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Build their own understanding of world events."
+        },
+        {
+          "letter": "B",
+          "text": "Avoid engaging with local communities."
+        },
+        {
+          "letter": "C",
+          "text": "Challenge ignorance and intolerance."
+        },
+        {
+          "letter": "D",
+          "text": "See that they have power to act and influence the world."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 22 lists 'Get involved in their local, national and global communities,' which contradicts 'Avoid engaging with local communities.'",
+      "id": "week3_extra_1776741621417_23"
+    },
+    {
+      "text": "According to the lecture, what is cultural heritage considered to be in relation to a country's identity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A potential economic burden."
+        },
+        {
+          "letter": "B",
+          "text": "A factor that strengthens a country and defines its citizens' shared identity."
+        },
+        {
+          "letter": "C",
+          "text": "A historical relic with no modern relevance."
+        },
+        {
+          "letter": "D",
+          "text": "A barrier to global integration."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 23 states, 'Cultural heritage strengthens a country, defines its citizens' shared identity and makes the land an attractive place to live.'",
+      "id": "week3_extra_1776741621417_24"
+    },
+    {
+      "text": "Target 11.4 of the SDGs, as mentioned in the lecture, specifically calls for strengthening efforts to protect and safeguard what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Global financial markets"
+        },
+        {
+          "letter": "B",
+          "text": "Digital information"
+        },
+        {
+          "letter": "C",
+          "text": "The world's cultural and natural heritage"
+        },
+        {
+          "letter": "D",
+          "text": "Outer space exploration"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 23 states, 'Target 11.4 calls for strengthening efforts to protect and safeguard the world's cultural and natural heritage.'",
+      "id": "week3_extra_1776741621417_25"
+    },
+    {
+      "text": "Heritage buildings can be adaptively reused to reduce what, according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The number of new constructions."
+        },
+        {
+          "letter": "B",
+          "text": "The carbon footprint of the building sector."
+        },
+        {
+          "letter": "C",
+          "text": "The cost of demolition."
+        },
+        {
+          "letter": "D",
+          "text": "The need for traditional craftsmanship."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 24 states, 'Heritage buildings can be adaptively reused, conserving their embodied energy and heritage values, which in turn reduces the carbon footprint of the building sector.'",
+      "id": "week3_extra_1776741621417_26"
+    },
+    {
+      "text": "Which of the following SDGs are specifically mentioned as being supported by Cultural Heritage empowering vulnerable groups and fostering social cohesion and peace?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SDG 1, 2, 3, 6"
+        },
+        {
+          "letter": "B",
+          "text": "SDG 10, 11, 14, 15, 16"
+        },
+        {
+          "letter": "C",
+          "text": "SDG 7, 9, 12, 13"
+        },
+        {
+          "letter": "D",
+          "text": "SDG 4, 5, 8, 17"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 25 states '(SDG 10, 11, 14, 15, 16)' in relation to cultural heritage empowering vulnerable groups and fostering social cohesion.",
+      "id": "week3_extra_1776741621417_27"
+    },
+    {
+      "text": "Cultural heritage is highlighted as a resource that embodies what, accumulated over centuries and transmitted through generations?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ephemeral trends"
+        },
+        {
+          "letter": "B",
+          "text": "Immeasurable knowledge"
+        },
+        {
+          "letter": "C",
+          "text": "Modern technologies"
+        },
+        {
+          "letter": "D",
+          "text": "Financial assets"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 26 mentions, 'Immeasurable knowledge accumulated over centuries and transmitted through generations is embodied in heritage sites and communities.'",
+      "id": "week3_extra_1776741621417_28"
+    },
+    {
+      "text": "UNESCO's work promotes cultural diversity and its Culture Conventions are key to the implementation of which global agenda?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Millennium Development Goals"
+        },
+        {
+          "letter": "B",
+          "text": "The 2030 Agenda for Sustainable Development"
+        },
+        {
+          "letter": "C",
+          "text": "The Paris Agreement on Climate Change"
+        },
+        {
+          "letter": "D",
+          "text": "The Kyoto Protocol"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 28 states, 'UNESCO's work promoting cultural diversity, and UNESCO's Culture Conventions, are key to the implementation of the 2030 Agenda for Sustainable Development.'",
+      "id": "week3_extra_1776741621417_29"
+    },
+    {
+      "text": "Culture is described as an essential component of human development, representing a source of identity, innovation and what else for all?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conflict"
+        },
+        {
+          "letter": "B",
+          "text": "Competition"
+        },
+        {
+          "letter": "C",
+          "text": "Creativity"
+        },
+        {
+          "letter": "D",
+          "text": "Consumption"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 29 states culture represents 'a source of identity, innovation and creativity for all'.",
+      "id": "week3_extra_1776741621417_30"
+    },
+    {
+      "text": "According to the lecture, a 'strong sustainability culture' exists if people share a belief in sustainability's importance and behave in ways that support it. Which of the following is NOT one of the five recommended actions to foster such a culture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Understand the sustainability imperative"
+        },
+        {
+          "letter": "B",
+          "text": "Establish and follow a sustainability vision"
+        },
+        {
+          "letter": "C",
+          "text": "Outsource sustainability initiatives"
+        },
+        {
+          "letter": "D",
+          "text": "Embed sustainability in decision-making processes"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 30 lists 'Understand the sustainability imperative,' 'Establish and follow a sustainability vision,' 'Face reality, without sugarcoating,' 'Embed sustainability in decision-making processes,' and 'Engage fully.' Outsource is not listed.",
+      "id": "week3_extra_1776741621417_31"
+    },
+    {
+      "text": "How is Education for Sustainable Development (ESD) defined in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Education focused solely on environmental protection."
+        },
+        {
+          "letter": "B",
+          "text": "Education encouraging changes in knowledge, skills, values and attitudes for a more sustainable and just society for all."
+        },
+        {
+          "letter": "C",
+          "text": "Education for economic growth exclusively."
+        },
+        {
+          "letter": "D",
+          "text": "Education limited to scientific research."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 31 defines ESD as 'education that encourages changes in knowledge, skills, values and attitudes to enable a more sustainable and just society for all.'",
+      "id": "week3_extra_1776741621417_32"
+    },
+    {
+      "text": "The Education Team assists Member States in mainstreaming ESD and promotes which initiative in the Gulf and other European countries?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Clean Energy Initiative"
+        },
+        {
+          "letter": "B",
+          "text": "The Green Schools Initiative"
+        },
+        {
+          "letter": "C",
+          "text": "The Digital Learning Initiative"
+        },
+        {
+          "letter": "D",
+          "text": "The Global Research Initiative"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 32 states the Education Team 'continues to promote the Green Schools Initiative in the Gulf and other European countries also.'",
+      "id": "week3_extra_1776741621417_33"
+    },
+    {
+      "text": "The lecture emphasizes that achieving sustainable development requires what fundamental change?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased reliance on technology."
+        },
+        {
+          "letter": "B",
+          "text": "A paradigm shift in the way people think and act."
+        },
+        {
+          "letter": "C",
+          "text": "More financial investment only."
+        },
+        {
+          "letter": "D",
+          "text": "Isolation from global issues."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 35 states, 'Achieving sustainable development requires a paradigm shift, a change in the way people think and act.'",
+      "id": "week3_extra_1776741621417_34"
+    },
+    {
+      "text": "What does Green TVET primarily encompass?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only technical skills for new green sectors."
+        },
+        {
+          "letter": "B",
+          "text": "Pre-employment education and training, workplace learning, and further training addressing environmental, economic, and social sustainability."
+        },
+        {
+          "letter": "C",
+          "text": "Theoretical knowledge about climate change."
+        },
+        {
+          "letter": "D",
+          "text": "Short-term projects for waste management."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 36 defines Green TVET as 'pre-employment education and training, learning in the workplace and further training that address environmental, economic and social sustainability.'",
+      "id": "week3_extra_1776741621417_35"
+    },
+    {
+      "text": "Green TVET means more than just developing technical skills for green employment. It also means developing what kind of skills?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Highly specialized engineering skills."
+        },
+        {
+          "letter": "B",
+          "text": "'Soft' green skills."
+        },
+        {
+          "letter": "C",
+          "text": "Advanced scientific research skills."
+        },
+        {
+          "letter": "D",
+          "text": "Marketing and sales skills."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 37 states Green TVET 'also means developing 'soft' green skills.'",
+      "id": "week3_extra_1776741621417_36"
+    },
+    {
+      "text": "In the 'STEP-BY-STEP GUIDE FOR IMPLEMENTING ESD IN TVET INSTITUTIONS' diagram, what is the first step in the process?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planning for the Greening of TVET"
+        },
+        {
+          "letter": "B",
+          "text": "Implementing the Institutional Greening Plan"
+        },
+        {
+          "letter": "C",
+          "text": "Understanding the Process"
+        },
+        {
+          "letter": "D",
+          "text": "Monitoring Progress and Assessing Results"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The diagram clearly labels 'STEP 1' as 'UNDERSTANDING THE PROCESS'.",
+      "id": "week3_extra_1776741621417_37"
+    },
+    {
+      "text": "Which of the following is NOT one of the 'FIVE APPROACHES TO SUSTAINABILITY IN TVET INSTITUTIONS' outlined in the diagram?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greening the Campus"
+        },
+        {
+          "letter": "B",
+          "text": "Greening the Administration"
+        },
+        {
+          "letter": "C",
+          "text": "Greening Research"
+        },
+        {
+          "letter": "D",
+          "text": "Greening Institutional Culture"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The five approaches listed are Greening the Campus, Greening the Curriculum and Training, Greening Research, Greening the Community and Workplace, and Greening Institutional Culture.",
+      "id": "week3_extra_1776741621417_38"
+    },
+    {
+      "text": "In the 'Skills for Sustainable Development' Venn diagram, ESD is at the center, overlapping with skills from the 'World of Life (Personal)' and which other major category?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "World of Academia"
+        },
+        {
+          "letter": "B",
+          "text": "World of Leisure"
+        },
+        {
+          "letter": "C",
+          "text": "World of Work (Professional)"
+        },
+        {
+          "letter": "D",
+          "text": "World of Politics"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The diagram shows 'World of Life (Personal)' and 'World of Work (Professional)' as the two major categories overlapping with ESD.",
+      "id": "week3_extra_1776741621417_39"
+    },
+    {
+      "text": "One reason to invest in Green TVET is that it helps production move towards what kind of practices?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cost-cutting practices only."
+        },
+        {
+          "letter": "B",
+          "text": "Environmentally conscious practices."
+        },
+        {
+          "letter": "C",
+          "text": "Automated practices."
+        },
+        {
+          "letter": "D",
+          "text": "Traditional practices."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 41 states, 'Because Green TVET helps production move to more environmentally conscious practices.'",
+      "id": "week3_extra_1776741621417_40"
+    },
+    {
+      "text": "Which UNESCO entity assists Member States in greening TVET with special attention to teacher education, curriculum development, and learning resources?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "UNESCO-MGIEP"
+        },
+        {
+          "letter": "B",
+          "text": "UNESCO-IHE"
+        },
+        {
+          "letter": "C",
+          "text": "UNESCO International Centre for Technical and Vocational Education and Training (UNEVOC)"
+        },
+        {
+          "letter": "D",
+          "text": "UNESCO World Heritage Centre"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 42 explicitly mentions 'The UNESCO International Centre for Technical and Vocational Education and Training (UNEVOC)'.",
+      "id": "week3_extra_1776741621417_41"
+    },
+    {
+      "text": "As per the UN Expert Committee's first recommended action, what should be an integral part of training for leaders in business, industry, trade unions, non-profit organizations, and public services?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financial management"
+        },
+        {
+          "letter": "B",
+          "text": "ESD"
+        },
+        {
+          "letter": "C",
+          "text": "Marketing strategies"
+        },
+        {
+          "letter": "D",
+          "text": "Human resource management"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 43 states, 'Make ESD an integral part of training of leaders in business, industry, trade union, nonprofit and voluntary organizations, and the public services.'",
+      "id": "week3_extra_1776741621417_42"
+    },
+    {
+      "text": "What is one of the key recommendations under 'Promote technical skills for a transition to a greener economy'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing all forms of education."
+        },
+        {
+          "letter": "B",
+          "text": "Training TVET teachers and trainers in fast-growing green sectors."
+        },
+        {
+          "letter": "C",
+          "text": "Focusing solely on liberal arts education."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminating traditional technologies."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 44 recommends, 'Train TVET teachers and trainers in fast-growing green sectors.'",
+      "id": "week3_extra_1776741621417_43"
+    },
+    {
+      "text": "To ensure TVET's relevance to industry needs, who should be involved in designing TVET, according to the recommendations?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only government officials."
+        },
+        {
+          "letter": "B",
+          "text": "The private sector, trade unions and employers' associations."
+        },
+        {
+          "letter": "C",
+          "text": "Academic researchers only."
+        },
+        {
+          "letter": "D",
+          "text": "International organizations exclusively."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 45 recommends, 'Involve the private sector, trade unions and employers' associations in designing TVET to ensure its relevance to industry needs.'",
+      "id": "week3_extra_1776741621417_44"
+    },
+    {
+      "text": "Under the recommendation to 'Promote basic skills and cross-cutting, generic green skills,' what is identified as the foundation of eligibility, employability, and further learning throughout life?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Advanced degrees"
+        },
+        {
+          "letter": "B",
+          "text": "Basic skills (e.g., literacy, numeracy)"
+        },
+        {
+          "letter": "C",
+          "text": "Digital skills only"
+        },
+        {
+          "letter": "D",
+          "text": "Foreign language proficiency"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 46 states, 'Promote basic skills (e.g. literacy, numeracy) as the foundation of eligibility, employability and further learning throughout life.'",
+      "id": "week3_extra_1776741621417_45"
+    },
+    {
+      "text": "What type of skills education is recommended to promote the launch of new enterprises and self-employment directly and indirectly related to the green economy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrepreneurship skills"
+        },
+        {
+          "letter": "B",
+          "text": "Negotiation skills"
+        },
+        {
+          "letter": "C",
+          "text": "Public relations skills"
+        },
+        {
+          "letter": "D",
+          "text": "Advanced scientific skills"
+        }
+      ],
+      "answer": "A",
+      "feedback": "Slide 47 recommends, 'Enhance education for entrepreneurship skills to promote the launch of new enterprises and self-employment directly and indirectly related to the green economy.'",
+      "id": "week3_extra_1776741621417_46"
+    },
+    {
+      "text": "To increase the reputation and attractiveness of 'greened' sectors like waste management, recycling, and agriculture, what is suggested?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing automation in these sectors."
+        },
+        {
+          "letter": "B",
+          "text": "Improving the working conditions in these sectors."
+        },
+        {
+          "letter": "C",
+          "text": "Shifting focus to other sectors."
+        },
+        {
+          "letter": "D",
+          "text": "Reducing public awareness campaigns."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 48 recommends, 'Increase the reputation and attractiveness of key sectors to be greened such as waste management, recycling and agriculture, by improving the working conditions in these sectors.'",
+      "id": "week3_extra_1776741621417_47"
+    },
+    {
+      "text": "Designing and implementing ESD policies should involve inter-ministerial and inter-sectorial approaches that also include which of the following groups?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only international financial institutions."
+        },
+        {
+          "letter": "B",
+          "text": "The private sector, civil society, local communities and the scientific community."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusively education policy makers."
+        },
+        {
+          "letter": "D",
+          "text": "Military organizations."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 49 recommends involving 'the private sector, civil society, local communities and the scientific community.'",
+      "id": "week3_extra_1776741621417_48"
+    },
+    {
+      "text": "Green jobs contribute to preserving or restoring environmental quality, and also ensuring what for workers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimal wages"
+        },
+        {
+          "letter": "B",
+          "text": "Adequate wages, safe working conditions, and workers' rights"
+        },
+        {
+          "letter": "C",
+          "text": "Temporary contracts"
+        },
+        {
+          "letter": "D",
+          "text": "Limited training opportunities"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 50 states green jobs contribute to 'ensuring adequate wages, safe working conditions, and workers' rights.'",
+      "id": "week3_extra_1776741621417_49"
+    },
+    {
+      "text": "According to the ILO global study mentioned, green jobs are not confined to new green sectors; sweeping changes in skills profiles are expected within what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entirely new industries."
+        },
+        {
+          "letter": "B",
+          "text": "Existing occupations."
+        },
+        {
+          "letter": "C",
+          "text": "Only highly specialized technical fields."
+        },
+        {
+          "letter": "D",
+          "text": "Academic research roles."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 52 states the ILO study indicates 'sweeping changes will take place in skills profiles within existing occupations.'",
+      "id": "week3_extra_1776741621417_50"
+    },
+    {
+      "text": "What underpins the creative, entrepreneurial, and innovative skills enhanced by Green TVET, according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Purely technological advancements."
+        },
+        {
+          "letter": "B",
+          "text": "Critical reflection on attitudes and values that is at the heart of ESD."
+        },
+        {
+          "letter": "C",
+          "text": "Strict adherence to traditional methods."
+        },
+        {
+          "letter": "D",
+          "text": "Focus on individual achievement only."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 53 states, 'These skills need to be underpinned by the critical reflection on attitudes and values that is at the heart of ESD.'",
+      "id": "week3_extra_1776741621417_51"
+    },
+    {
+      "text": "What are the four interconnected and mutually dependent goals of a 'green economy' as outlined in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased consumption, reduced trade, technological isolation, cultural preservation."
+        },
+        {
+          "letter": "B",
+          "text": "Increasing economic growth, alleviating poverty, increasing social inclusion/equity, and reducing greenhouse gas emissions."
+        },
+        {
+          "letter": "C",
+          "text": "Financial deregulation, unlimited resource extraction, competitive advantage, global dominance."
+        },
+        {
+          "letter": "D",
+          "text": "Decreased education, increased unemployment, limited social services, higher pollution."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 54 lists the four goals as 'increasing economic growth, alleviating poverty by reducing unemployment, increasing social inclusion and equity, and reducing greenhouse gas emissions.'",
+      "id": "week3_extra_1776741621417_52"
+    },
+    {
+      "text": "Transitioning to a 'green economy' is described as a long-term strategy for sustainable development and poverty alleviation, rather than what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A global collaboration initiative."
+        },
+        {
+          "letter": "B",
+          "text": "A short-term response to current global crises."
+        },
+        {
+          "letter": "C",
+          "text": "A purely scientific endeavor."
+        },
+        {
+          "letter": "D",
+          "text": "A top-down governmental mandate."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 54 states, 'Transition to a 'green economy' is more than a short-term response to current global crises. It can be a long-term strategy for sustainable development and poverty alleviation.'",
+      "id": "week3_extra_1776741621417_53"
+    },
+    {
+      "text": "According to the lecture, skills development strategies for the green economy need to adapt to the evolution of employment sectors and prepare teachers and trainers to effectively transfer what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only new technological tools."
+        },
+        {
+          "letter": "B",
+          "text": "Their knowledge and skills."
+        },
+        {
+          "letter": "C",
+          "text": "Economic theories."
+        },
+        {
+          "letter": "D",
+          "text": "Cultural traditions."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 55 mentions 'prepare teachers and trainers who can effectively transfer their knowledge and skills'.",
+      "id": "week3_extra_1776741621417_54"
+    },
+    {
+      "text": "In Step 1 of implementing ESD in TVET Institutions, 'CLARIFYING THE GREENING CONCEPT' is described as what kind of process?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A one-time event."
+        },
+        {
+          "letter": "B",
+          "text": "An external consultation."
+        },
+        {
+          "letter": "C",
+          "text": "A continuing process."
+        },
+        {
+          "letter": "D",
+          "text": "A research-only endeavor."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 56 describes 'CLARIFYING THE GREENING CONCEPT' as 'A continuing process.'",
+      "id": "week3_extra_1776741621417_55"
+    },
+    {
+      "text": "Which of the following is an approach to integrate sustainability under 'ADAPTING A WHOLE-INSTITUTION APPROACH' for Green TVET?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greening the institution's cafeteria menu only."
+        },
+        {
+          "letter": "B",
+          "text": "Greening the campus."
+        },
+        {
+          "letter": "C",
+          "text": "Greening sports activities exclusively."
+        },
+        {
+          "letter": "D",
+          "text": "Greening student social events."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 57 lists 'Greening the campus' as one of the approaches.",
+      "id": "week3_extra_1776741621417_56"
+    },
+    {
+      "text": "One of the 'FIVE APPROACHES TO SUSTAINABILITY IN TVET INSTITUTIONS' is 'Greening the Curriculum and Training.' What is its aim?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To solely reduce the amount of content taught."
+        },
+        {
+          "letter": "B",
+          "text": "To embed environment-related contents and green skills in the curriculum and training."
+        },
+        {
+          "letter": "C",
+          "text": "To eliminate all traditional subjects."
+        },
+        {
+          "letter": "D",
+          "text": "To focus exclusively on online courses."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Slide 58 (and 59) states the aim is 'to embed environment-related contents and green skills in the curriculum and training.'",
+      "id": "week3_extra_1776741621417_57"
+    },
+    {
+      "text": "Under 'Step 2: Planning for the greening of TVET,' what is a key aspect of '2.2 DEVELOPING A VISION'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excluding stakeholders."
+        },
+        {
+          "letter": "B",
+          "text": "Avoiding goal-setting."
+        },
+        {
+          "letter": "C",
+          "text": "Building-blocks for institutional greening plan."
+        },
+        {
+          "letter": "D",
+          "text": "Focusing only on short-term gains."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Slide 60 lists 'Building-blocks for institutional greening plan' under '2.2 DEVELOPING A VISION'.",
+      "id": "week3_extra_1776741621417_58"
+    }
+  ],
+  "week9": [
+    {
+      "text": "What is one of the key methods in Education for Sustainable Development (ESD) that involves engaging in service-learning projects and campaigns for various sustainability topics?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vision-building exercises"
+        },
+        {
+          "letter": "B",
+          "text": "Collaborative real-world projects"
+        },
+        {
+          "letter": "C",
+          "text": "Analysis of complex systems"
+        },
+        {
+          "letter": "D",
+          "text": "Critical and reflective thinking"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Collaborative real-world projects, such as service-learning projects and campaigns, are a key method in ESD.",
+      "id": "week9_extra_1776742295188_0"
+    },
+    {
+      "text": "According to the lecture, Education for Sustainable Development (ESD) will require individuals to acquire 'key competencies' that align with notions of what type of learning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rote learning"
+        },
+        {
+          "letter": "B",
+          "text": "Experiential learning"
+        },
+        {
+          "letter": "C",
+          "text": "Transformational learning"
+        },
+        {
+          "letter": "D",
+          "text": "Instrumental learning"
+        }
+      ],
+      "answer": "C",
+      "feedback": "ESD will require individuals to acquire 'key competencies' aligning with notions of transformational learning.",
+      "id": "week9_extra_1776742295188_1"
+    },
+    {
+      "text": "Which key competency area in ESD focuses on presencing, self-awareness, stress management, and capacity for inner peace?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interpersonal"
+        },
+        {
+          "letter": "B",
+          "text": "Strategic"
+        },
+        {
+          "letter": "C",
+          "text": "Intrapersonal"
+        },
+        {
+          "letter": "D",
+          "text": "Systems thinking"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Intrapersonal competencies include presencing, self-awareness, stress management, and capacity for inner peace.",
+      "id": "week9_extra_1776742295188_2"
+    },
+    {
+      "text": "The competency of 'Visioning, developing scenarios, backcasting, recognizing heritage, intergenerational equity' falls under which key competency area in ESD?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Systems thinking"
+        },
+        {
+          "letter": "B",
+          "text": "Future thinking"
+        },
+        {
+          "letter": "C",
+          "text": "Normative and cultural"
+        },
+        {
+          "letter": "D",
+          "text": "Strategic"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Visioning, developing scenarios, backcasting, recognizing heritage, and intergenerational equity are competencies under Future thinking.",
+      "id": "week9_extra_1776742295188_3"
+    },
+    {
+      "text": "According to Haan et al. and Barth et al., what is 'Presencing' as an intrapersonal competency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ability to influence others through communication."
+        },
+        {
+          "letter": "B",
+          "text": "The ability to stay present to your internal environment while engaging with your external environment."
+        },
+        {
+          "letter": "C",
+          "text": "The capacity to resolve all contradictory thoughts and feelings immediately."
+        },
+        {
+          "letter": "D",
+          "text": "The skill to analyze complex systems effectively."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Presencing is defined as the ability to stay present to your internal environment at the same time as engaging with your external environment.",
+      "id": "week9_extra_1776742295188_4"
+    },
+    {
+      "text": "Which of the following is NOT explicitly mentioned as an area against which competencies are assessed under SDG 4.7 (ESD & Global Citizenship)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Human rights"
+        },
+        {
+          "letter": "B",
+          "text": "Economic growth"
+        },
+        {
+          "letter": "C",
+          "text": "Gender equality"
+        },
+        {
+          "letter": "D",
+          "text": "Global citizenship"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Economic growth is not explicitly listed as one of the areas for competency assessment under SDG 4.7; the listed areas are human rights, gender equality, culture of peace and non-violence, global citizenship, and cultural diversity.",
+      "id": "week9_extra_1776742295188_5"
+    },
+    {
+      "text": "The lecture mentions activating competencies through multiple intelligences, proposed by which theorist?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jean Piaget"
+        },
+        {
+          "letter": "B",
+          "text": "B.F. Skinner"
+        },
+        {
+          "letter": "C",
+          "text": "Howard Gardner"
+        },
+        {
+          "letter": "D",
+          "text": "Lev Vygotsky"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The multiple intelligences are proposed by Howard Gardner.",
+      "id": "week9_extra_1776742295188_6"
+    },
+    {
+      "text": "Which of Gardner's multiple intelligences describes the capacity to recognize, create, reproduce, and reflect on music?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linguistic"
+        },
+        {
+          "letter": "B",
+          "text": "Spatial"
+        },
+        {
+          "letter": "C",
+          "text": "Musical"
+        },
+        {
+          "letter": "D",
+          "text": "Bodily-kinesthetic"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Musical intelligence is the capacity to recognize, create, reproduce, and reflect on music.",
+      "id": "week9_extra_1776742295188_7"
+    },
+    {
+      "text": "Understanding nature and organic processes is characteristic of which of Gardner's multiple intelligences?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naturalist"
+        },
+        {
+          "letter": "B",
+          "text": "Logical-reasoning"
+        },
+        {
+          "letter": "C",
+          "text": "Intrapersonal"
+        },
+        {
+          "letter": "D",
+          "text": "Interpersonal"
+        }
+      ],
+      "answer": "A",
+      "feedback": "Naturalist intelligence involves understanding nature and organic processes.",
+      "id": "week9_extra_1776742295188_8"
+    },
+    {
+      "text": "The ESD assessment framework is described as part of an iterative action/reflection cycle. Which of the following is NOT listed as a component of this cycle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planning"
+        },
+        {
+          "letter": "B",
+          "text": "Implementing"
+        },
+        {
+          "letter": "C",
+          "text": "Memorization"
+        },
+        {
+          "letter": "D",
+          "text": "Reflection"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The framework includes planning, implementing, learning, reflection, and re-planning, but not memorization as a core component of the cycle.",
+      "id": "week9_extra_1776742295188_9"
+    },
+    {
+      "text": "In the action-reflection cycle of learning and assessment (Figure 2), what step immediately follows 'Design and planning'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monitoring and reflection"
+        },
+        {
+          "letter": "B",
+          "text": "Encouraging and supporting"
+        },
+        {
+          "letter": "C",
+          "text": "Putting it into action"
+        },
+        {
+          "letter": "D",
+          "text": "Embedding sustainability"
+        }
+      ],
+      "answer": "C",
+      "feedback": "According to Figure 2, 'Putting it into action' follows 'Design and planning'.",
+      "id": "week9_extra_1776742295188_10"
+    },
+    {
+      "text": "Education for Sustainability (EFS) is integrated with what broader practices to form a comprehensive active learning cycle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rote memorization culture"
+        },
+        {
+          "letter": "B",
+          "text": "Standardized testing culture"
+        },
+        {
+          "letter": "C",
+          "text": "Regenerative culture"
+        },
+        {
+          "letter": "D",
+          "text": "Industrial culture"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Education for Sustainability forms part of our wider practices for regenerative culture.",
+      "id": "week9_extra_1776742295188_11"
+    },
+    {
+      "text": "According to the UNESCO framework for ESD, which aspect involves employing interactive, project-based, and learner-centred pedagogy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Societal transformation"
+        },
+        {
+          "letter": "B",
+          "text": "Learning outcomes"
+        },
+        {
+          "letter": "C",
+          "text": "Learning content"
+        },
+        {
+          "letter": "D",
+          "text": "Pedagogy and learning environment"
+        }
+      ],
+      "answer": "D",
+      "feedback": "Pedagogy and learning environment focuses on employing interactive, project-based, and learner-centred pedagogy.",
+      "id": "week9_extra_1776742295188_12"
+    },
+    {
+      "text": "UN General Assembly Resolution 72/222 (2017) reaffirms Education for Sustainable Development (ESD) as an integral element of which Sustainable Development Goal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SDG 1 (No Poverty)"
+        },
+        {
+          "letter": "B",
+          "text": "SDG 4 (Quality Education)"
+        },
+        {
+          "letter": "C",
+          "text": "SDG 13 (Climate Action)"
+        },
+        {
+          "letter": "D",
+          "text": "SDG 17 (Partnerships for the Goals)"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The resolution reaffirms ESD as an integral element of SDG 4 on quality education.",
+      "id": "week9_extra_1776742295188_13"
+    },
+    {
+      "text": "The diagram on ESD for 2030 highlights three learning dimensions. Which of the following is NOT one of them?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cognitive learning dimension"
+        },
+        {
+          "letter": "B",
+          "text": "Social and emotional learning dimension"
+        },
+        {
+          "letter": "C",
+          "text": "Financial learning dimension"
+        },
+        {
+          "letter": "D",
+          "text": "Behavioural learning dimension"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The three learning dimensions are Cognitive, Social and emotional, and Behavioural. Financial learning dimension is not listed.",
+      "id": "week9_extra_1776742295188_14"
+    },
+    {
+      "text": "The lecture emphasizes that ESD must focus on 'the big transformation.' What does this transformation primarily imply?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minor adjustments to existing policies."
+        },
+        {
+          "letter": "B",
+          "text": "Changes in individual action intertwined with reorganization of societal structures."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusive reliance on technological solutions."
+        },
+        {
+          "letter": "D",
+          "text": "Maintaining the status quo to ensure stability."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The idea of big transformation implies changes in individual action intertwined with reorganization of societal structures.",
+      "id": "week9_extra_1776742295188_15"
+    },
+    {
+      "text": "What is stated as necessary for 'big transformation' that involves people stepping outside the safety of the status quo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compliance and conformity"
+        },
+        {
+          "letter": "B",
+          "text": "Courage, persistence, and determination"
+        },
+        {
+          "letter": "C",
+          "text": "Passive observation and analysis"
+        },
+        {
+          "letter": "D",
+          "text": "Strict adherence to established norms"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Transformation necessitates a certain level of disruption, requiring courage, persistence, and determination.",
+      "id": "week9_extra_1776742295188_16"
+    },
+    {
+      "text": "One of the key reflections for ESD for 2030 is 'Transformative action.' What does ESD in action equate to in this context?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Policy implementation"
+        },
+        {
+          "letter": "B",
+          "text": "Citizenship in action"
+        },
+        {
+          "letter": "C",
+          "text": "Economic development"
+        },
+        {
+          "letter": "D",
+          "text": "Technological advancement"
+        }
+      ],
+      "answer": "B",
+      "feedback": "ESD in action is citizenship in action.",
+      "id": "week9_extra_1776742295188_17"
+    },
+    {
+      "text": "Regarding the 'Technological future' as a reflection for ESD 2030, what values become ever more relevant?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Economic efficiency and market competitiveness"
+        },
+        {
+          "letter": "B",
+          "text": "Critical thinking and sustainability values"
+        },
+        {
+          "letter": "C",
+          "text": "Data privacy and digital literacy"
+        },
+        {
+          "letter": "D",
+          "text": "Automation and artificial intelligence"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Critical thinking and sustainability values become ever more relevant, especially with new technological challenges and risks.",
+      "id": "week9_extra_1776742295188_18"
+    },
+    {
+      "text": "According to O'Sullivan (2003), what does transformative learning primarily involve?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acquiring new facts and figures."
+        },
+        {
+          "letter": "B",
+          "text": "Experiencing a deep, structural shift in the basic premises of thought, feelings, and actions."
+        },
+        {
+          "letter": "C",
+          "text": "Adapting to new technologies in education."
+        },
+        {
+          "letter": "D",
+          "text": "Memorizing historical events and their causes."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Transformative learning involves experiencing a deep, structural shift in the basic premises of thought, feelings, and actions.",
+      "id": "week9_extra_1776742295188_19"
+    },
+    {
+      "text": "Mezirow (1997) defines transformative learning as the process of becoming critically aware of how and why assumptions constrain our perception. What is the ultimate goal of changing these structures of habitual expectation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To become more resistant to change."
+        },
+        {
+          "letter": "B",
+          "text": "To make perceptions more rigid."
+        },
+        {
+          "letter": "C",
+          "text": "To make possible a more inclusive, discriminating, and integrating perspective."
+        },
+        {
+          "letter": "D",
+          "text": "To reinforce existing worldviews."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Changing these structures of habitual expectation make possible a more inclusive, discriminating and integrating perspective.",
+      "id": "week9_extra_1776742295188_20"
+    },
+    {
+      "text": "When did transformative learning as an orientation begin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1950s"
+        },
+        {
+          "letter": "B",
+          "text": "1978"
+        },
+        {
+          "letter": "C",
+          "text": "1990s"
+        },
+        {
+          "letter": "D",
+          "text": "2005"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Transformative learning started in 1978.",
+      "id": "week9_extra_1776742295188_21"
+    },
+    {
+      "text": "What are the two major focuses of transformative learning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instrumental and Expressive learning"
+        },
+        {
+          "letter": "B",
+          "text": "Instrumental and Communicative learning"
+        },
+        {
+          "letter": "C",
+          "text": "Cognitive and Emotional learning"
+        },
+        {
+          "letter": "D",
+          "text": "Active and Passive learning"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Transformative learning has two major focuses: Instrumental learning and Communicative learning.",
+      "id": "week9_extra_1776742295188_22"
+    },
+    {
+      "text": "Which of the following is listed as the initial step in the perspective transformation process?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Self examination"
+        },
+        {
+          "letter": "B",
+          "text": "Building confidence"
+        },
+        {
+          "letter": "C",
+          "text": "Disorienting Dilemma"
+        },
+        {
+          "letter": "D",
+          "text": "Explaining options of new behavior"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The first step in the perspective transformation process is Disorienting Dilemma.",
+      "id": "week9_extra_1776742295188_23"
+    },
+    {
+      "text": "The three main pillars of transformative learning include analysis of current situation, process of change towards responsible action, and what other key element?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vision to look like an alternative to the prevailing model."
+        },
+        {
+          "letter": "B",
+          "text": "Memorization of historical facts."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducing existing knowledge."
+        },
+        {
+          "letter": "D",
+          "text": "Compliance with authority."
+        }
+      ],
+      "answer": "A",
+      "feedback": "The three main pillars are: 1. Analysis of current situation, 2. Vision to look like an alternative to the prevailing model, and 3. The process of change towards responsible action.",
+      "id": "week9_extra_1776742295188_24"
+    },
+    {
+      "text": "What is the primary goal of transformative education regarding problems and challenges?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To simplify problems so they are easily solvable."
+        },
+        {
+          "letter": "B",
+          "text": "To enable students to understand the problem and empower them with knowledge to counter challenges."
+        },
+        {
+          "letter": "C",
+          "text": "To delegate problem-solving entirely to experts."
+        },
+        {
+          "letter": "D",
+          "text": "To avoid confronting complex challenges altogether."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The goal is to enable students to understand the problem and at the same time empower them with the knowledge to counter the challenges.",
+      "id": "week9_extra_1776742295188_25"
+    },
+    {
+      "text": "In the phases of transformative learning, what happens after 'Self-examination'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planning a course of action"
+        },
+        {
+          "letter": "B",
+          "text": "Critical Assessment of assumptions"
+        },
+        {
+          "letter": "C",
+          "text": "Acquisition of knowledge"
+        },
+        {
+          "letter": "D",
+          "text": "Exploring and trying new roles"
+        }
+      ],
+      "answer": "B",
+      "feedback": "After self-examination, students move to critical assessment of assumptions.",
+      "id": "week9_extra_1776742295188_26"
+    },
+    {
+      "text": "In Mezirow's 10 Phases of transformative learning, what step directly follows 'A critical assessment'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exploration"
+        },
+        {
+          "letter": "B",
+          "text": "Recognition"
+        },
+        {
+          "letter": "C",
+          "text": "Planning of a course of action"
+        },
+        {
+          "letter": "D",
+          "text": "Provisional trying of roles"
+        }
+      ],
+      "answer": "B",
+      "feedback": "According to Mezirow's 10 phases, Recognition follows A critical assessment.",
+      "id": "week9_extra_1776742295188_27"
+    },
+    {
+      "text": "Which of the following is one of the six assumptions often stated as principles of adult education (andragogy)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passive reception of knowledge"
+        },
+        {
+          "letter": "B",
+          "text": "Need to know why"
+        },
+        {
+          "letter": "C",
+          "text": "External motivation only"
+        },
+        {
+          "letter": "D",
+          "text": "Teacher-centered learning"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Need to know why' is one of the principles of andragogy.",
+      "id": "week9_extra_1776742295188_28"
+    },
+    {
+      "text": "According to the lecture, what is considered a critical aspect of fostering transformative learning, especially in an online environment, due to its many advantages?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rote memorization"
+        },
+        {
+          "letter": "B",
+          "text": "Individual assignments only"
+        },
+        {
+          "letter": "C",
+          "text": "Discourse (discussion)"
+        },
+        {
+          "letter": "D",
+          "text": "Standardized testing"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Discourse (discussion) has been found to be a critical aspect of transformative learning, with many advantages in an online setting.",
+      "id": "week9_extra_1776742295188_29"
+    },
+    {
+      "text": "How can Learning and Development (L&D) leaders promote autonomous thinking and growth in transformative learning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By serving as direct instructors."
+        },
+        {
+          "letter": "B",
+          "text": "By acting as guides and facilitators."
+        },
+        {
+          "letter": "C",
+          "text": "By enforcing strict adherence to curricula."
+        },
+        {
+          "letter": "D",
+          "text": "By minimizing learner interaction."
+        }
+      ],
+      "answer": "B",
+      "feedback": "L&D leaders should serve as guides and facilitators rather than direct instructors to promote autonomous thinking and growth.",
+      "id": "week9_extra_1776742295188_30"
+    },
+    {
+      "text": "What is highlighted by the UNECE-ESD Competency Framework (2011) as what educators need for teaching sustainability?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Standardized curricula and strict assessment."
+        },
+        {
+          "letter": "B",
+          "text": "Holistic approaches, enlightening change, and achieving transformation."
+        },
+        {
+          "letter": "C",
+          "text": "Emphasis on rote learning and memorization."
+        },
+        {
+          "letter": "D",
+          "text": "Focus on competitive individual performance."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The UNECE-ESD Competency Framework highlights the need for holistic approaches, enlightening change, and achieving transformation.",
+      "id": "week9_extra_1776742295188_31"
+    },
+    {
+      "text": "According to the National Knowledge Commission of India (2007), what should universities once again become a hub for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vocational training exclusively"
+        },
+        {
+          "letter": "B",
+          "text": "Research, capturing synergies between teaching and research"
+        },
+        {
+          "letter": "C",
+          "text": "Industrial production"
+        },
+        {
+          "letter": "D",
+          "text": "Religious studies"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The National Knowledge Commission of India (2007) stated that universities must become the hub of research once again to capture synergies between teaching and research.",
+      "id": "week9_extra_1776742295188_32"
+    },
+    {
+      "text": "What is 'Participatory Sustainable Development' defined as?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A process where experts dictate development initiatives."
+        },
+        {
+          "letter": "B",
+          "text": "A process where people influence and share control over development initiatives, decisions, and resources that affect them."
+        },
+        {
+          "letter": "C",
+          "text": "A system focused solely on economic growth."
+        },
+        {
+          "letter": "D",
+          "text": "A method for top-down policy implementation."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Participatory Sustainable Development is a process through which people influence and share control over development initiatives, decisions and resources that affect them.",
+      "id": "week9_extra_1776742295188_33"
+    },
+    {
+      "text": "The New Education Policy (NEP 2020) emphasizes what over expecting students to score high and memorize content?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Strict disciplinary action"
+        },
+        {
+          "letter": "B",
+          "text": "Creativity, innovation, and personality development"
+        },
+        {
+          "letter": "C",
+          "text": "Loner school hours"
+        },
+        {
+          "letter": "D",
+          "text": "More frequent examinations"
+        }
+      ],
+      "answer": "B",
+      "feedback": "NEP 2020 puts more emphasis on creativity, innovation, and personality development rather than expecting students to score high and memorize content.",
+      "id": "week9_extra_1776742295188_34"
+    },
+    {
+      "text": "What new school structure is introduced by the NEP 2020, replacing the 10+2 board examination structure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8+4"
+        },
+        {
+          "letter": "B",
+          "text": "5+3+3+4"
+        },
+        {
+          "letter": "C",
+          "text": "6+6"
+        },
+        {
+          "letter": "D",
+          "text": "10+2+3"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The new school structure under NEP 2020 will be 5+3+3+4.",
+      "id": "week9_extra_1776742295188_35"
+    },
+    {
+      "text": "One of the transformations in the teaching-learning process under NEP 2020 focuses on core essentials. What kind of learning does this promote?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rote memorization"
+        },
+        {
+          "letter": "B",
+          "text": "Practical application-based and experiential learning"
+        },
+        {
+          "letter": "C",
+          "text": "Passive listening"
+        },
+        {
+          "letter": "D",
+          "text": "Textbook-only learning"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The focus will be on practical application-based learning, experiential learning, creative thinking, and critical skills.",
+      "id": "week9_extra_1776742295188_36"
+    },
+    {
+      "text": "Under NEP 2020, what is the policy regarding separation of subjects or fields like arts, humanities, sciences, and vocational streams?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hard separation will be enforced."
+        },
+        {
+          "letter": "B",
+          "text": "There will be no hard separation, with integration across the curriculum."
+        },
+        {
+          "letter": "C",
+          "text": "Only vocational streams will be integrated."
+        },
+        {
+          "letter": "D",
+          "text": "Only arts and humanities will be integrated."
+        }
+      ],
+      "answer": "B",
+      "feedback": "NEP 2020 states there will be no hard separation among 'curricular', 'extracurricular', or 'co-curricular', or between 'vocational' or 'academic' streams, promoting integration.",
+      "id": "week9_extra_1776742295188_37"
+    },
+    {
+      "text": "What is the name of the common regulatory body to be established for the entire higher education system (excluding medical and legal pedagogy) under NEP 2020?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "UGC (University Grants Commission)"
+        },
+        {
+          "letter": "B",
+          "text": "AICTE (All India Council for Technical Education)"
+        },
+        {
+          "letter": "C",
+          "text": "HECI (Higher Education Commission of India)"
+        },
+        {
+          "letter": "D",
+          "text": "MCI (Medical Council of India)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The Higher Education Commission of India (HECI) will be established as a single overarching umbrella body for higher education.",
+      "id": "week9_extra_1776742295188_38"
+    },
+    {
+      "text": "What is the overarching goal of the National Research Foundation (NRF) to be established under NEP 2020?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To centralize all research funding under government control."
+        },
+        {
+          "letter": "B",
+          "text": "To facilitate a culture of research to penetrate through universities."
+        },
+        {
+          "letter": "C",
+          "text": "To limit research to a few elite institutions."
+        },
+        {
+          "letter": "D",
+          "text": "To prioritize applied research over fundamental research."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The overarching goal of the NRF will be to facilitate a culture of research to penetrate through universities.",
+      "id": "week9_extra_1776742295188_39"
+    },
+    {
+      "text": "According to Hinck and Burton (2015), what can service-learning environments generate that may or may not result in transformative learning?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consistent comfort and ease."
+        },
+        {
+          "letter": "B",
+          "text": "A level of disequilibrium or anxiety."
+        },
+        {
+          "letter": "C",
+          "text": "Immediate understanding and acceptance."
+        },
+        {
+          "letter": "D",
+          "text": "Reduced cognitive load."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Service-learning environments are complex learning contexts that generate a level of disequilibrium or anxiety.",
+      "id": "week9_extra_1776742295188_40"
+    },
+    {
+      "text": "In the conceptual model of Sustainable Education for India presented in the lecture, what is identified as 'Driver 1'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planet (Educational Eco-System)"
+        },
+        {
+          "letter": "B",
+          "text": "People (Education: HR)"
+        },
+        {
+          "letter": "C",
+          "text": "Profit (Education Policy MHRD)"
+        },
+        {
+          "letter": "D",
+          "text": "Technology (Infrastructure)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Driver 1 is Profit (Education Policy MHRD).",
+      "id": "week9_extra_1776742295188_41"
+    },
+    {
+      "text": "The conceptual model of Sustainable Education for India includes 'Viability,' 'Quality,' and 'Feasibility' as dimensions. Which driver is primarily associated with 'Quality'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Driver 1 (Profit/Education Policy MHRD)"
+        },
+        {
+          "letter": "B",
+          "text": "Driver 2 (People/Education: HR)"
+        },
+        {
+          "letter": "C",
+          "text": "Driver 3 (Planet/Educational Eco-System)"
+        },
+        {
+          "letter": "D",
+          "text": "Driver 4 (Technology Infrastructure)"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Driver 2 (People/Education: HR) is associated with Quality.",
+      "id": "week9_extra_1776742295188_42"
+    },
+    {
+      "text": "What is the first of the Sustainable Education Goals mentioned in the conceptual sustainable education triangle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Effective Management"
+        },
+        {
+          "letter": "B",
+          "text": "Community Development"
+        },
+        {
+          "letter": "C",
+          "text": "Inclusive Education"
+        },
+        {
+          "letter": "D",
+          "text": "Global Competence"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The Sustainable Education Goals are: 1. Inclusive Education, 2. Effective Management, 3. Community Development.",
+      "id": "week9_extra_1776742295188_43"
+    },
+    {
+      "text": "In the conceptual dilemma model of sustainable education, the intersection of 'Profit (Economic)' and 'People (Social)' is labeled as what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viable"
+        },
+        {
+          "letter": "B",
+          "text": "Feasible"
+        },
+        {
+          "letter": "C",
+          "text": "Quality"
+        },
+        {
+          "letter": "D",
+          "text": "Sustainable"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The intersection of Profit (Economic) and People (Social) is labeled as Quality.",
+      "id": "week9_extra_1776742295188_44"
+    },
+    {
+      "text": "According to Mohanty (2019) model, which driver is described as the 'Ministry of Human Resource Development (MHRD)' acting as the major policymaker and economic resource provider?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Driver 2 (People)"
+        },
+        {
+          "letter": "B",
+          "text": "Driver 3 (Planet)"
+        },
+        {
+          "letter": "C",
+          "text": "Driver 1 (Profit)"
+        },
+        {
+          "letter": "D",
+          "text": "Driver 4 (Technology)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Driver 1 (Profit) is the MHRD, acting as the major policymaker and economic resource provider.",
+      "id": "week9_extra_1776742295188_45"
+    },
+    {
+      "text": "What is the objective/focus of Driver 3 (Planet) in the sustainable education model?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ensuring learning outcomes through effective curriculum."
+        },
+        {
+          "letter": "B",
+          "text": "Enhancing educational human resource competencies."
+        },
+        {
+          "letter": "C",
+          "text": "Strengthening the educational eco-system through good infrastructure and technology access."
+        },
+        {
+          "letter": "D",
+          "text": "Promoting gender equality in education."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The objective of Driver 3 (Planet) is 'Strengthening the educational eco-system through good infrastructure and technology access.'",
+      "id": "week9_extra_1776742295188_46"
+    },
+    {
+      "text": "In the TPACK model, what does the intersection of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK) represent?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Technological Content Knowledge (TCK)"
+        },
+        {
+          "letter": "B",
+          "text": "Pedagogical Content Knowledge (PCK)"
+        },
+        {
+          "letter": "C",
+          "text": "Technological Pedagogical Content Knowledge (TPACK)"
+        },
+        {
+          "letter": "D",
+          "text": "Technological Pedagogical Knowledge (TPK)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The intersection of all three knowledge domains (TK, PK, CK) represents TPACK (Technological Pedagogical Content Knowledge).",
+      "id": "week9_extra_1776742295188_47"
+    },
+    {
+      "text": "The diagram on transformative learning includes a cycle of Concrete Experience, Reflective Observation, Abstract Conceptualization, and Active Experimentation. This cycle is attributed to whom?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezirow"
+        },
+        {
+          "letter": "B",
+          "text": "Gardner"
+        },
+        {
+          "letter": "C",
+          "text": "Kolb"
+        },
+        {
+          "letter": "D",
+          "text": "Cranton"
+        }
+      ],
+      "answer": "C",
+      "feedback": "This cycle is known as Kolb's Experiential Learning Cycle.",
+      "id": "week9_extra_1776742295188_48"
+    },
+    {
+      "text": "According to the conclusion, beyond educating students on sustainability topics, what leadership role should Higher Education Institutions (HEIs) take?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimizing their engagement with local communities."
+        },
+        {
+          "letter": "B",
+          "text": "Prioritizing economic gain over environmental concerns."
+        },
+        {
+          "letter": "C",
+          "text": "Incorporating sustainable practices into their services and operations and transforming local and regional communities."
+        },
+        {
+          "letter": "D",
+          "text": "Focusing solely on theoretical research without practical application."
+        }
+      ],
+      "answer": "C",
+      "feedback": "HEIs should take on a leadership role in incorporating sustainable practices into their services and operations and in transforming their local and regional communities into more sustainable communities.",
+      "id": "week9_extra_1776742295188_49"
+    }
+  ],
+  "week11": [
+    {
+      "text": "What are the five key elements identified for becoming a sustainable leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Systems thinking, External collaboration, Social innovation, Sustainability literacy, Active values"
+        },
+        {
+          "letter": "B",
+          "text": "Strategic planning, Financial acumen, Ethical conduct, Stakeholder engagement, Environmental protection"
+        },
+        {
+          "letter": "C",
+          "text": "Crisis management, Public relations, Market analysis, Technological adoption, Employee welfare"
+        },
+        {
+          "letter": "D",
+          "text": "Personal ambition, Charismatic presence, Short-term gains, Risk avoidance, Competitive advantage"
+        }
+      ],
+      "answer": "A",
+      "feedback": "The five key elements listed are Systems thinking, External collaboration, Social innovation, Sustainability literacy, and Active values.",
+      "id": "week11_extra_1776742505395_0"
+    },
+    {
+      "text": "According to the text, what is NOT considered a universal curriculum for becoming a sustainable leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traits, actions, and practices"
+        },
+        {
+          "letter": "B",
+          "text": "Personality and temperament of the leader"
+        },
+        {
+          "letter": "C",
+          "text": "The context in which the leader is operating"
+        },
+        {
+          "letter": "D",
+          "text": "A standardized global training program"
+        }
+      ],
+      "answer": "D",
+      "feedback": "The text states there is no universal curriculum, and traits, actions, and practices vary depending on the leader's personality, temperament, and context.",
+      "id": "week11_extra_1776742505395_1"
+    },
+    {
+      "text": "Which of the following is listed as a 'Trait' of a sustainable leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consensual decision making"
+        },
+        {
+          "letter": "B",
+          "text": "Empowering and trusting"
+        },
+        {
+          "letter": "C",
+          "text": "Systemic holistic thinker"
+        },
+        {
+          "letter": "D",
+          "text": "Radical"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Systemic holistic thinker is listed under Traits, while the others are listed under Styles.",
+      "id": "week11_extra_1776742505395_2"
+    },
+    {
+      "text": "According to the radar chart on 'Traits', which characteristic scores the highest for a sustainable leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Systemic and Holistic thinking"
+        },
+        {
+          "letter": "B",
+          "text": "Collaborative approach"
+        },
+        {
+          "letter": "C",
+          "text": "Long term objectives"
+        },
+        {
+          "letter": "D",
+          "text": "Search for wellness"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The Collaborative approach scores 10, which is the highest on the radar chart for Traits.",
+      "id": "week11_extra_1776742505395_3"
+    },
+    {
+      "text": "Which leadership style emphasizes 'transcending self-interest to serve the needs of others'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altruistic"
+        },
+        {
+          "letter": "B",
+          "text": "Empowering and trusting"
+        },
+        {
+          "letter": "C",
+          "text": "Servant"
+        },
+        {
+          "letter": "D",
+          "text": "Visionary and creative"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The description for the 'Servant' style is 'transcending self-interest to serve the needs of others'.",
+      "id": "week11_extra_1776742505395_4"
+    },
+    {
+      "text": "A sustainable leader's 'Skills' include which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Awareness of ecological contexts"
+        },
+        {
+          "letter": "B",
+          "text": "Interdisciplinary connectedness"
+        },
+        {
+          "letter": "C",
+          "text": "Manage complexity and unpredictability"
+        },
+        {
+          "letter": "D",
+          "text": "Organizational influences and impacts"
+        }
+      ],
+      "answer": "C",
+      "feedback": "'Manage complexity and unpredictability' is listed under Skills, while the others are under Knowledge.",
+      "id": "week11_extra_1776742505395_5"
+    },
+    {
+      "text": "In the context of sustainability performance and communication, what is described as 'greenwashing'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good communication + good performance"
+        },
+        {
+          "letter": "B",
+          "text": "Poor communication + good performance"
+        },
+        {
+          "letter": "C",
+          "text": "Good communication + poor performance"
+        },
+        {
+          "letter": "D",
+          "text": "Poor communication + poor performance"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The chart indicates 'good communication + poor performance = greenwashing'.",
+      "id": "week11_extra_1776742505395_6"
+    },
+    {
+      "text": "What outcome is associated with 'poor communication + good performance' in the sustainability matrix?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustainability leadership and positive reputation"
+        },
+        {
+          "letter": "B",
+          "text": "Stakeholders are under-informed"
+        },
+        {
+          "letter": "C",
+          "text": "Greenwashing"
+        },
+        {
+          "letter": "D",
+          "text": "Lurking in the dark"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The chart states 'poor communication + good performance = stakeholders are under-informed'.",
+      "id": "week11_extra_1776742505395_7"
+    },
+    {
+      "text": "Which of the following is categorized as an 'Internal Leadership Action' for a sustainable leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross sector partnerships"
+        },
+        {
+          "letter": "B",
+          "text": "Stakeholder transparency"
+        },
+        {
+          "letter": "C",
+          "text": "Performance accountability"
+        },
+        {
+          "letter": "D",
+          "text": "Sustainable products and service"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Performance accountability is listed under Internal Leadership Actions. The others are External Leadership Actions.",
+      "id": "week11_extra_1776742505395_8"
+    },
+    {
+      "text": "A sustainable leader's 'Leadership Practices' include which of these?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fostering systemic innovation"
+        },
+        {
+          "letter": "B",
+          "text": "Developing a skilled, loyal, and highly engaged workforce"
+        },
+        {
+          "letter": "C",
+          "text": "Proactively striving for amicable labor relations"
+        },
+        {
+          "letter": "D",
+          "text": "Taking a long-term perspective in making decisions"
+        }
+      ],
+      "answer": "C",
+      "feedback": "'Proactively striving for amicable labor relations' is a Leadership Practice. The others are Habits.",
+      "id": "week11_extra_1776742505395_9"
+    },
+    {
+      "text": "What is a key 'Habit' of a sustainable leader related to decision-making?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Initiating communications with multiple stakeholders"
+        },
+        {
+          "letter": "B",
+          "text": "Taking a long-term perspective in making decisions"
+        },
+        {
+          "letter": "C",
+          "text": "Shifting compensation programs toward metrics that valued contributions"
+        },
+        {
+          "letter": "D",
+          "text": "Promoting environmental and social responsibility"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Taking a long-term perspective in making decisions' is listed under Habits.",
+      "id": "week11_extra_1776742505395_10"
+    },
+    {
+      "text": "Which of the following is a 'Driver' for integrating sustainability with business strategy and operations?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Optimized resource consumption"
+        },
+        {
+          "letter": "B",
+          "text": "Sustainable product index"
+        },
+        {
+          "letter": "C",
+          "text": "Shareholder responsible investment"
+        },
+        {
+          "letter": "D",
+          "text": "Forge PPPs-projects"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Shareholder responsible investment is listed under Investor/Society/Customers drivers. The others are Outcomes.",
+      "id": "week11_extra_1776742505395_11"
+    },
+    {
+      "text": "Under the 'Actions' category, what is a focus area for 'Monitor & Control'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emissions and offsets"
+        },
+        {
+          "letter": "B",
+          "text": "Natural resource consumption"
+        },
+        {
+          "letter": "C",
+          "text": "3R: Re-Use / Re-Cycle / Reduce"
+        },
+        {
+          "letter": "D",
+          "text": "Sustainable material & process"
+        }
+      ],
+      "answer": "A",
+      "feedback": "Emissions - Offsets - CDM/JI projects / Carbon credits are listed under Monitor & Control.",
+      "id": "week11_extra_1776742505395_12"
+    },
+    {
+      "text": "What is one of the 'Business Benefits' related to 'Performance Leadership'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased Competitiveness"
+        },
+        {
+          "letter": "B",
+          "text": "Resource Optimization"
+        },
+        {
+          "letter": "C",
+          "text": "Compliance to regulations and responsiveness to social accountability"
+        },
+        {
+          "letter": "D",
+          "text": "Repositioning with Clean Technologies"
+        }
+      ],
+      "answer": "C",
+      "feedback": "'Compliance to regulations and responsiveness to social accountability' is listed under Performance Leadership.",
+      "id": "week11_extra_1776742505395_13"
+    },
+    {
+      "text": "According to the 'Components and Dimensions of Sustainable Leadership' table, what dimension is associated with 'Power of Personality'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Social"
+        },
+        {
+          "letter": "B",
+          "text": "Environmental"
+        },
+        {
+          "letter": "C",
+          "text": "Institutional"
+        },
+        {
+          "letter": "D",
+          "text": "Economic"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Power of Personality is linked to the Institutional dimension.",
+      "id": "week11_extra_1776742505395_14"
+    },
+    {
+      "text": "Which component of sustainable leadership is described as 'objective-oriented and strives for concrete results'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Power of Personality"
+        },
+        {
+          "letter": "B",
+          "text": "Interaction with Followers"
+        },
+        {
+          "letter": "C",
+          "text": "Values, Mission, Vision"
+        },
+        {
+          "letter": "D",
+          "text": "Results"
+        }
+      ],
+      "answer": "D",
+      "feedback": "The 'Results' component is described as 'objective-oriented and strives for concrete results'.",
+      "id": "week11_extra_1776742505395_15"
+    },
+    {
+      "text": "What type of intelligence is associated with 'Heart' and characterized by 'Enthusiasm (work satisfaction)'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physical intelligence"
+        },
+        {
+          "letter": "B",
+          "text": "Rational intelligence"
+        },
+        {
+          "letter": "C",
+          "text": "Emotional intelligence"
+        },
+        {
+          "letter": "D",
+          "text": "Spiritual intelligence"
+        }
+      ],
+      "answer": "C",
+      "feedback": "'Heart' is associated with Emotional intelligence, and its characteristic is 'Enthusiasm (work satisfaction)'.",
+      "id": "week11_extra_1776742505395_16"
+    },
+    {
+      "text": "In the Sustainable Leadership Pyramid, which of the following is a 'Performance Outcome'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ethical behaviour"
+        },
+        {
+          "letter": "B",
+          "text": "Employee engagement"
+        },
+        {
+          "letter": "C",
+          "text": "Long-term shareholder value"
+        },
+        {
+          "letter": "D",
+          "text": "Knowledge sharing and retention"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Long-term shareholder value is listed as a Performance Outcome.",
+      "id": "week11_extra_1776742505395_17"
+    },
+    {
+      "text": "According to the Sustainability Priorities diagram, which aspect falls under the 'Economic' category?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soundscape Management"
+        },
+        {
+          "letter": "B",
+          "text": "Energy/GHG Emissions"
+        },
+        {
+          "letter": "C",
+          "text": "Responsible Procurement"
+        },
+        {
+          "letter": "D",
+          "text": "Community"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Responsible Procurement is listed under the Economic category.",
+      "id": "week11_extra_1776742505395_18"
+    },
+    {
+      "text": "What is a social priority for sustainability mentioned in the Venn diagram?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water management"
+        },
+        {
+          "letter": "B",
+          "text": "Residual materials"
+        },
+        {
+          "letter": "C",
+          "text": "Service Culture"
+        },
+        {
+          "letter": "D",
+          "text": "Engine of Economic Development"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Service Culture is listed under Social priorities.",
+      "id": "week11_extra_1776742505395_19"
+    },
+    {
+      "text": "In the product-market matrix, what strategy involves 'existing products' and 'new markets'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Market penetration"
+        },
+        {
+          "letter": "B",
+          "text": "Product development"
+        },
+        {
+          "letter": "C",
+          "text": "Market extension"
+        },
+        {
+          "letter": "D",
+          "text": "Diversification"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Market extension corresponds to existing products in new markets.",
+      "id": "week11_extra_1776742505395_20"
+    },
+    {
+      "text": "Which concept connects Environmental entrepreneurship, Ecological equity, and Economic entrepreneurship in the 'Three branches of sustainability entrepreneurship' diagram?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futurity"
+        },
+        {
+          "letter": "B",
+          "text": "Intergenerational equity"
+        },
+        {
+          "letter": "C",
+          "text": "Sufficiency"
+        },
+        {
+          "letter": "D",
+          "text": "Environmental stability"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Sufficiency links Environmental entrepreneurship, Ecological equity, and Economic entrepreneurship.",
+      "id": "week11_extra_1776742505395_21"
+    },
+    {
+      "text": "What does 'Economic sustainability' in the Sustainable Leadership image entail?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Focusing solely on environmental protection"
+        },
+        {
+          "letter": "B",
+          "text": "Cooperating to improve your economic environment"
+        },
+        {
+          "letter": "Ignoring financial stability for social causes"
+        },
+        {
+          "letter": "D",
+          "text": "Prioritizing short-term gains"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Cooperate to improve your economic environment' is one of the points for Economic sustainability.",
+      "id": "week11_extra_1776742505395_22"
+    },
+    {
+      "text": "According to the Sustainable Leadership Monitor, what is a 'Challenge' related to ESG data?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visualisation of ESG data and analytics"
+        },
+        {
+          "letter": "B",
+          "text": "Reporting ESG data meaningfully"
+        },
+        {
+          "letter": "C",
+          "text": "Transparency and consistency across ESG standards"
+        },
+        {
+          "letter": "D",
+          "text": "Provision of hard data to underpin long-term decisions"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Reporting ESG data meaningfully' is listed as a Challenge.",
+      "id": "week11_extra_1776742505395_23"
+    },
+    {
+      "text": "What is a 'Solution' provided by the Sustainable Leadership Monitor to address challenges?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complying with increasing political and regulatory pressures"
+        },
+        {
+          "letter": "B",
+          "text": "Identifying long-term opportunities and risks"
+        },
+        {
+          "letter": "C",
+          "text": "Tracking past performance to inform future projections"
+        },
+        {
+          "letter": "D",
+          "text": "Communicating the importance of a long-term view"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Tracking past performance to inform future projections is a listed solution.",
+      "id": "week11_extra_1776742505395_24"
+    },
+    {
+      "text": "Which of the following is identified as a 'Sustainable leader competency'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Educational level"
+        },
+        {
+          "letter": "B",
+          "text": "Systems thinking"
+        },
+        {
+          "letter": "C",
+          "text": "Lead efforts to fulfill company vision"
+        },
+        {
+          "letter": "D",
+          "text": "CEO tenure"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Systems thinking is a sustainable leader competency. The others are demographic characteristics or behaviors.",
+      "id": "week11_extra_1776742505395_25"
+    },
+    {
+      "text": "A 'Sustainable leader behavior' includes which of the following actions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "International assignment experience"
+        },
+        {
+          "letter": "B",
+          "text": "Relationship building"
+        },
+        {
+          "letter": "C",
+          "text": "Develop operationalization strategy"
+        },
+        {
+          "letter": "D",
+          "text": "Sustainable mindset"
+        }
+      ],
+      "answer": "C",
+      "feedback": "'Develop operationalization strategy' is a sustainable leader behavior.",
+      "id": "week11_extra_1776742505395_26"
+    },
+    {
+      "text": "What is one aspect leaders need to be aware of regarding their responsibility, according to the slide?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Their personal financial investments"
+        },
+        {
+          "letter": "B",
+          "text": "Their responsibility toward future generations"
+        },
+        {
+          "letter": "C",
+          "text": "Their short-term operational profits"
+        },
+        {
+          "letter": "D",
+          "text": "Their competitors' strategies"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'What responsibility they have toward future generations' is explicitly listed.",
+      "id": "week11_extra_1776742505395_27"
+    },
+    {
+      "text": "According to the SDG wheel for Sustainable Leadership, which SDG is explicitly associated with 'Life Below Water'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SDG 13"
+        },
+        {
+          "letter": "B",
+          "text": "SDG 14"
+        },
+        {
+          "letter": "C",
+          "text": "SDG 15"
+        },
+        {
+          "letter": "D",
+          "text": "SDG 16"
+        }
+      ],
+      "answer": "B",
+      "feedback": "SDG 14 is 'Life Below Water'.",
+      "id": "week11_extra_1776742505395_28"
+    },
+    {
+      "text": "What is NOT listed as a core value at LEAD India for building leadership for a sustainable future?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empathy"
+        },
+        {
+          "letter": "B",
+          "text": "Competitiveness"
+        },
+        {
+          "letter": "C",
+          "text": "Inclusiveness"
+        },
+        {
+          "letter": "D",
+          "text": "Accountability"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Competitiveness is not listed as a core value; Empathy, Equity, Inclusiveness, Accountability, Combining traditional knowledge with scientific methods, and Temperance are.",
+      "id": "week11_extra_1776742505395_29"
+    },
+    {
+      "text": "In Theory 'U', what is the action associated with 'Co-initiating'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observe and connect"
+        },
+        {
+          "letter": "B",
+          "text": "Uncover common intent"
+        },
+        {
+          "letter": "C",
+          "text": "Prototyping the new"
+        },
+        {
+          "letter": "D",
+          "text": "Embody the new in ecosystem"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Co-initiating is associated with 'Uncover common intent'.",
+      "id": "week11_extra_1776742505395_30"
+    },
+    {
+      "text": "Which of the following is a 'Skill' required for 'Becoming a LEADer of tomorrow'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustainable development across sectors"
+        },
+        {
+          "letter": "B",
+          "text": "Best practices for balancing environment and development"
+        },
+        {
+          "letter": "C",
+          "text": "Effective communication"
+        },
+        {
+          "letter": "D",
+          "text": "What are my values?"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Effective communication is listed under Skills. The others are Knowledge or Self Awareness.",
+      "id": "week11_extra_1776742505395_31"
+    },
+    {
+      "text": "What is identified as a prerequisite for a global leader to be truly effective?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Extensive international travel experience"
+        },
+        {
+          "letter": "B",
+          "text": "A self-actualized or transformed self"
+        },
+        {
+          "letter": "C",
+          "text": "Mastery of multiple foreign languages"
+        },
+        {
+          "letter": "D",
+          "text": "A strong network of global contacts"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The slide states that a prerequisite for a global leader is to have a self-actualized or a transformed self.",
+      "id": "week11_extra_1776742505395_32"
+    },
+    {
+      "text": "Which of these is a component of Global Leadership Training?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Strategic Business Planning"
+        },
+        {
+          "letter": "B",
+          "text": "Cultural Sensitivity Training"
+        },
+        {
+          "letter": "C",
+          "text": "Advanced Financial Management"
+        },
+        {
+          "letter": "D",
+          "text": "Market Trend Analysis"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Cultural Sensitivity Training is explicitly listed as a component.",
+      "id": "week11_extra_1776742505395_33"
+    },
+    {
+      "text": "In Global Leaders Competencies, what is an 'Attitude' that aids in becoming a global leader?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Key qualities fostered by others"
+        },
+        {
+          "letter": "B",
+          "text": "Willingness to learn from failure"
+        },
+        {
+          "letter": "C",
+          "text": "Managing communities"
+        },
+        {
+          "letter": "D",
+          "text": "Building contacts for support"
+        }
+      ],
+      "answer": "B",
+      "feedback": "'Willingness to learn from failure' is an Attitude.",
+      "id": "week11_extra_1776742505395_34"
+    },
+    {
+      "text": "Which competency falls under 'Managing Self' for global leaders?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teaming Skills"
+        },
+        {
+          "letter": "B",
+          "text": "Resilience"
+        },
+        {
+          "letter": "C",
+          "text": "Business Savvy"
+        },
+        {
+          "letter": "D",
+          "text": "Valuing People"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Resilience is listed under Managing Self.",
+      "id": "week11_extra_1776742505395_35"
+    },
+    {
+      "text": "What is a competency under 'Business and Organizational acumen' for global leaders?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross-Cultural Communication"
+        },
+        {
+          "letter": "B",
+          "text": "Flexibility"
+        },
+        {
+          "letter": "C",
+          "text": "Managing communities"
+        },
+        {
+          "letter": "D",
+          "text": "Empowering Others"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Managing communities is listed under Business and Organizational acumen.",
+      "id": "week11_extra_1776742505395_36"
+    },
+    {
+      "text": "What is emphasized as crucial for learning and growing as a leader in the 'Few key elements' section?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formal classroom training"
+        },
+        {
+          "letter": "B",
+          "text": "Real-life situations"
+        },
+        {
+          "letter": "C",
+          "text": "Theoretical knowledge"
+        },
+        {
+          "letter": "D",
+          "text": "Academic certifications"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The slide states 'Most learning and growing as a leader takes place in real-life situations.'",
+      "id": "week11_extra_1776742505395_37"
+    },
+    {
+      "text": "In the 'Sustainability: A Competitive Advantage' diagram, what characteristic is associated with the central 'SUSTAINABILITY' section?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactive management"
+        },
+        {
+          "letter": "B",
+          "text": "Departmental mentality"
+        },
+        {
+          "letter": "C",
+          "text": "Long-term growth"
+        },
+        {
+          "letter": "D",
+          "text": "Compliance"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Long-term growth is a characteristic of the central 'SUSTAINABILITY' section.",
+      "id": "week11_extra_1776742505395_38"
+    },
+    {
+      "text": "According to the Venn diagram, what is a characteristic of 'PEOPLE/PROCESS' overlap?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fire fighting"
+        },
+        {
+          "letter": "B",
+          "text": "Self interest"
+        },
+        {
+          "letter": "C",
+          "text": "Employee Loyalty"
+        },
+        {
+          "letter": "D",
+          "text": "Non-competitive"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Employee Loyalty is listed under the PEOPLE/PROCESS overlap.",
+      "id": "week11_extra_1776742505395_39"
+    },
+    {
+      "text": "In the Cambridge Sustainability Leadership Model, which of these is an 'External Leadership Action'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informed decisions"
+        },
+        {
+          "letter": "B",
+          "text": "Management incentives"
+        },
+        {
+          "letter": "C",
+          "text": "Sustainability awareness"
+        },
+        {
+          "letter": "D",
+          "text": "Performance accountability"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Sustainability awareness is listed under External Leadership Actions.",
+      "id": "week11_extra_1776742505395_40"
+    },
+    {
+      "text": "What type of intelligence is associated with characteristics like 'Decisive' and 'Intellectually flexible'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotional Intelligence (EIQ)"
+        },
+        {
+          "letter": "B",
+          "text": "Narrative Intelligence (NIQ)"
+        },
+        {
+          "letter": "C",
+          "text": "Intelligence Quotient (IQ)"
+        },
+        {
+          "letter": "D",
+          "text": "Ethical Intelligence (EtIQ)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "IQ is associated with Decisive, Intellectually flexible, Competent, Reliable, Decision making, and Critical Thinking.",
+      "id": "week11_extra_1776742505395_41"
+    },
+    {
+      "text": "Which characteristic is associated with 'Ethical Intelligence (EtIQ)'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quick on your feet"
+        },
+        {
+          "letter": "B",
+          "text": "Motivated"
+        },
+        {
+          "letter": "C",
+          "text": "Integrity"
+        },
+        {
+          "letter": "D",
+          "text": "Critical Thinking"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Integrity is a characteristic of Ethical Intelligence.",
+      "id": "week11_extra_1776742505395_42"
+    },
+    {
+      "text": "According to Maxwell (2018), at which level of leadership do people follow because they 'want to'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Level 1 (Rights)"
+        },
+        {
+          "letter": "B",
+          "text": "Level 2 (Relationships)"
+        },
+        {
+          "letter": "C",
+          "text": "Level 3 (Results)"
+        },
+        {
+          "letter": "D",
+          "text": "Level 4 (Reproduction)"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Level 2 (Relationships) is where people follow because they want to.",
+      "id": "week11_extra_1776742505395_43"
+    },
+    {
+      "text": "In the cultural context diagram, what is the broadest level of culture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Team Culture"
+        },
+        {
+          "letter": "B",
+          "text": "Organizational Culture"
+        },
+        {
+          "letter": "C",
+          "text": "National Culture"
+        },
+        {
+          "letter": "D",
+          "text": "Regional Culture"
+        }
+      ],
+      "answer": "D",
+      "feedback": "Regional Culture is the outermost and broadest layer in the diagram.",
+      "id": "week11_extra_1776742505395_44"
+    },
+    {
+      "text": "According to the definition on the slide, what do leaders provide to followers to help them transcend self-interests?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financial incentives"
+        },
+        {
+          "letter": "B",
+          "text": "Impetus"
+        },
+        {
+          "letter": "C",
+          "text": "Strict rules"
+        },
+        {
+          "letter": "D",
+          "text": "Personal favors"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Leaders provide 'impetus to the followers so that they can transcend their self interests'.",
+      "id": "week11_extra_1776742505395_45"
+    },
+    {
+      "text": "According to the campus sustainability infographic, what is the goal for 'zero waste'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2014"
+        },
+        {
+          "letter": "B",
+          "text": "2015"
+        },
+        {
+          "letter": "C",
+          "text": "2050"
+        },
+        {
+          "letter": "D",
+          "text": "2075"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The 'zero waste' goal is set for 2050.",
+      "id": "week11_extra_1776742505395_46"
+    },
+    {
+      "text": "Which of the following is an 'Individual Enabler' for sustainability leadership?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Strategic Commitment"
+        },
+        {
+          "letter": "B",
+          "text": "Rewards and Recognition"
+        },
+        {
+          "letter": "C",
+          "text": "Perceived control"
+        },
+        {
+          "letter": "D",
+          "text": "Processes"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Perceived control is listed under Individual Enablers.",
+      "id": "week11_extra_1776742505395_47"
+    },
+    {
+      "text": "The World Economic Forum (2019) describes global leaders as possessing a high degree of what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financial acumen"
+        },
+        {
+          "letter": "B",
+          "text": "Political influence"
+        },
+        {
+          "letter": "C",
+          "text": "Intellectual curiosity and service-oriented humility"
+        },
+        {
+          "letter": "D",
+          "text": "Aggressive competitiveness"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The WEF describes them as having a 'high degree of intellectual curiosity and service-oriented humility'.",
+      "id": "week11_extra_1776742505395_48"
+    },
+    {
+      "text": "Which of the following is NOT one of the 5 Core Competencies of sustainability leadership listed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Systems Thinking"
+        },
+        {
+          "letter": "B",
+          "text": "Strategic Planning"
+        },
+        {
+          "letter": "C",
+          "text": "External Collaboration"
+        },
+        {
+          "letter": "D",
+          "text": "Active Values"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Strategic Planning is not listed among the 5 core competencies; Systems Thinking, External Collaboration, Active Values, Sustainability Literacy, and Social Innovation are.",
+      "id": "week11_extra_1776742505395_49"
+    },
+    {
+      "text": "Transformational leadership serves to enhance motivation, morale, and job performance through connecting follower's identity to a project and what else?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Individual financial gain"
+        },
+        {
+          "letter": "B",
+          "text": "Political affiliations"
+        },
+        {
+          "letter": "C",
+          "text": "The collective identity of the organization"
+        },
+        {
+          "letter": "D",
+          "text": "External market trends"
+        }
+      ],
+      "answer": "C",
+      "feedback": "Transformational leadership connects the follower's sense of identity and self to a project and to the collective identity of the organization.",
+      "id": "week11_extra_1776742505395_50"
+    },
+    {
+      "text": "Which attribute is NOT listed as characteristic of a 'Transformed Individual'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More efficient perception of reality"
+        },
+        {
+          "letter": "B",
+          "text": "Autonomy"
+        },
+        {
+          "letter": "C",
+          "text": "Strong sense of material wealth"
+        },
+        {
+          "letter": "D",
+          "text": "Democratic character structure"
+        }
+      ],
+      "answer": "C",
+      "feedback": "A strong sense of material wealth is not listed as a characteristic of a transformed individual.",
+      "id": "week11_extra_1776742505395_51"
+    }
+  ],
+  "week12": [
+    {
+      "text": "According to the lecture, what is the core definition of 'natural resources'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resources that exist in the absence of human intervention."
+        },
+        {
+          "letter": "B",
+          "text": "Resources created by sustainable human practices."
+        },
+        {
+          "letter": "C",
+          "text": "Resources that are easy for humans to process and acquire."
+        },
+        {
+          "letter": "D",
+          "text": "Resources found exclusively in pristine wilderness areas."
+        }
+      ],
+      "answer": "A",
+      "feedback": "The lecture defines natural resources as those that exist in the absence of human intervention.",
+      "id": "week12_extra_1776742668688_0"
+    },
+    {
+      "text": "Which of the following is NOT explicitly advocated for by SDG 12, according to the provided text?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To increase ecological footprint for economic growth."
+        },
+        {
+          "letter": "B",
+          "text": "Efficient management of shared natural resources."
+        },
+        {
+          "letter": "C",
+          "text": "Encouraging industries to recycle and reduce waste."
+        },
+        {
+          "letter": "D",
+          "text": "Creating more efficient production and supply chains for food security."
+        }
+      ],
+      "answer": "A",
+      "feedback": "SDG 12 advocates for reducing, not increasing, the ecological footprint.",
+      "id": "week12_extra_1776742668688_1"
+    },
+    {
+      "text": "What percentage of the world's food is wasted every year, while almost 2 billion people go hungry or undernourished?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.3 billion tonnes"
+        },
+        {
+          "letter": "B",
+          "text": "22%"
+        },
+        {
+          "letter": "C",
+          "text": "3%"
+        },
+        {
+          "letter": "D",
+          "text": "20%"
+        }
+      ],
+      "answer": "A",
+      "feedback": "The lecture states that 1.3 billion tonnes of food is wasted every year.",
+      "id": "week12_extra_1776742668688_2"
+    },
+    {
+      "text": "What proportion of electricity produced daily is derived from Coal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23 million Metric Ton"
+        },
+        {
+          "letter": "B",
+          "text": "66%"
+        },
+        {
+          "letter": "C",
+          "text": "97,103,871 barrels"
+        },
+        {
+          "letter": "D",
+          "text": "11 Million Pounds"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The lecture mentions that 66% of electricity is produced daily from Coal.",
+      "id": "week12_extra_1776742668688_3"
+    },
+    {
+      "text": "According to the Central Water Commission (CWC) report cited in the lecture, what proportion of India's major rivers are contaminated by one or more heavy metals?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two-thirds"
+        },
+        {
+          "letter": "B",
+          "text": "Half"
+        },
+        {
+          "letter": "C",
+          "text": "One-fifth"
+        },
+        {
+          "letter": "D",
+          "text": "Three-quarters"
+        }
+      ],
+      "answer": "A",
+      "feedback": "The CWC has reported that the samples from two-thirds of the water quality stations spanning India's major rivers are contaminated.",
+      "id": "week12_extra_1776742668688_4"
+    },
+    {
+      "text": "Which of the following is listed as a solution for natural resource depletion in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing single-use plastics."
+        },
+        {
+          "letter": "B",
+          "text": "Treating wastewater before discharging."
+        },
+        {
+          "letter": "C",
+          "text": "Promoting unsustainable fishing growth."
+        },
+        {
+          "letter": "D",
+          "text": "Encouraging more driving."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Treating wastewater before discharging is listed as a solution for natural resource depletion.",
+      "id": "week12_extra_1776742668688_5"
+    },
+    {
+      "text": "What is the primary aim of SDG 12.3 by 2030?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To double per capita global food waste."
+        },
+        {
+          "letter": "B",
+          "text": "To halve per capita global food waste."
+        },
+        {
+          "letter": "C",
+          "text": "To eliminate all food losses along supply chains."
+        },
+        {
+          "letter": "D",
+          "text": "To increase food losses post-harvest."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Target 12.3 aims to halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses, by 2030.",
+      "id": "week12_extra_1776742668688_6"
+    },
+    {
+      "text": "What is considered one of the greatest global challenges in the context of environmental sustainability and economic growth?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing resource use efficiency without economic growth."
+        },
+        {
+          "letter": "B",
+          "text": "Decoupling environmental degradation from economic growth."
+        },
+        {
+          "letter": "C",
+          "text": "Promoting economic growth at the expense of environmental sustainability."
+        },
+        {
+          "letter": "D",
+          "text": "Achieving welfare independently of environmental factors."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The lecture states that one of the greatest global challenges is to integrate environmental sustainability with economic growth and welfare by decoupling environmental degradation from economic growth and doing more with less.",
+      "id": "week12_extra_1776742668688_7"
+    },
+    {
+      "text": "What is the estimated number of premature deaths globally in 2015 due to pollution?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Approximately 3 million."
+        },
+        {
+          "letter": "B",
+          "text": "An estimated 9 million."
+        },
+        {
+          "letter": "C",
+          "text": "Around 12 million."
+        },
+        {
+          "letter": "D",
+          "text": "Less than 1 million."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Pollution is responsible for an estimated 9 million premature deaths in 2015.",
+      "id": "week12_extra_1776742668688_8"
+    },
+    {
+      "text": "What has been the trend in the extraction of primary materials over the past four decades, according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It has remained constant."
+        },
+        {
+          "letter": "B",
+          "text": "It has halved."
+        },
+        {
+          "letter": "C",
+          "text": "It has tripled."
+        },
+        {
+          "letter": "D",
+          "text": "It has slightly decreased."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The extraction of primary materials has tripled in the past four decades.",
+      "id": "week12_extra_1776742668688_9"
+    },
+    {
+      "text": "Which international organization has been promoting the shift to Sustainable Consumption and Production (SCP) patterns for the past two decades?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The World Bank"
+        },
+        {
+          "letter": "B",
+          "text": "UN Environment Programme (UN Environment)"
+        },
+        {
+          "letter": "C",
+          "text": "International Monetary Fund (IMF)"
+        },
+        {
+          "letter": "D",
+          "text": "World Trade Organization (WTO)"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The UN Environment Programme (UN Environment) has been promoting the shift to SCP patterns for the past two decades.",
+      "id": "week12_extra_1776742668688_10"
+    },
+    {
+      "text": "What kind of questions should consumers ask themselves before buying products, according to the lecture, to promote responsible consumption?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is it the cheapest option available?"
+        },
+        {
+          "letter": "B",
+          "text": "Will it impress my friends?"
+        },
+        {
+          "letter": "C",
+          "text": "Do I really need it, and is it made from recyclable materials?"
+        },
+        {
+          "letter": "D",
+          "text": "Is it the latest model on the market?"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The lecture suggests asking questions like 'do I really need it' and 'is it made from recyclable materials' among others.",
+      "id": "week12_extra_1776742668688_11"
+    },
+    {
+      "text": "Which of the following is a benefit of responsible consumption mentioned in the lecture related to animal welfare?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It ensures animals are used for food production efficiently."
+        },
+        {
+          "letter": "B",
+          "text": "It allows for the expansion of animal testing for new products."
+        },
+        {
+          "letter": "C",
+          "text": "It helps conserve lives and good treatment of hundreds of species through eco-friendly products."
+        },
+        {
+          "letter": "D",
+          "text": "It guarantees access to animal products for all consumers."
+        }
+      ],
+      "answer": "C",
+      "feedback": "By buying eco-friendly, vegan and sustainable clothing, we are also helping to conserve the lives and good treatment of hundreds of species.",
+      "id": "week12_extra_1776742668688_12"
+    },
+    {
+      "text": "What is one of the key roles of business mentioned in the lecture regarding sustainable consumption and production?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To solely focus on profit maximization."
+        },
+        {
+          "letter": "B",
+          "text": "To transfer all environmental responsibility to consumers."
+        },
+        {
+          "letter": "C",
+          "text": "To use its innovative power to design solutions and inspire sustainable lifestyles."
+        },
+        {
+          "letter": "D",
+          "text": "To lobby governments against environmental regulations."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Business can use its innovative power to then design appropriate solutions that can both enable and inspire individuals to lead more sustainable lifestyles.",
+      "id": "week12_extra_1776742668688_13"
+    },
+    {
+      "text": "What is a key objective of applying 'modular design' in products for sustainable consumption?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To make products more complex and harder to repair."
+        },
+        {
+          "letter": "B",
+          "text": "To ensure products' constituent parts are easily separated for re-use or recycling."
+        },
+        {
+          "letter": "C",
+          "text": "To increase the cost of manufacturing new products."
+        },
+        {
+          "letter": "D",
+          "text": "To limit consumer choices and product variety."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Applying modular design means products’ constituent parts will be easily separated and either re-used without further processing, or easily recycled near the point of disposal.",
+      "id": "week12_extra_1776742668688_14"
+    },
+    {
+      "text": "What is the 'Future Food Together' initiative primarily focused on in the Global South?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promoting large-scale industrial farming."
+        },
+        {
+          "letter": "B",
+          "text": "Developing and implementing in-country solutions for food systems along the entire value chain."
+        },
+        {
+          "letter": "C",
+          "text": "Imposing top-down frameworks for food production."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusively researching new food technologies without implementation."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Future Food Together works with local experts to develop and implement in-country solutions along the entire value chain, translating research into actionable and scalable solutions.",
+      "id": "week12_extra_1776742668688_15"
+    },
+    {
+      "text": "What is the target for Official Development Assistance (ODA) as a percentage of gross national income for donor countries, as mentioned in the SDG 17 finance targets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1%"
+        },
+        {
+          "letter": "B",
+          "text": "0.7%"
+        },
+        {
+          "letter": "C",
+          "text": "1.0%"
+        },
+        {
+          "letter": "D",
+          "text": "2.0%"
+        }
+      ],
+      "answer": "B",
+      "feedback": "Donor countries should allocate 0.7% of their gross national income to development assistance, as per SDG 17 finance targets.",
+      "id": "week12_extra_1776742668688_16"
+    },
+    {
+      "text": "According to the lecture, what is the '2030 Agenda Partnership Accelerator'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A new funding mechanism for developing countries."
+        },
+        {
+          "letter": "B",
+          "text": "A collaborative initiative of UN DESA and The Partnering Initiative (TPI)."
+        },
+        {
+          "letter": "C",
+          "text": "A global competition for innovative SDG solutions."
+        },
+        {
+          "letter": "D",
+          "text": "A private sector consulting firm for SDG implementation."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The 2030 Agenda Partnership Accelerator is a collaborative initiative of United Nations Department of Economic and Social Affairs (UN DESA) and The Partnering Initiative (TPI).",
+      "id": "week12_extra_1776742668688_17"
+    },
+    {
+      "text": "What did Mahatma Gandhi's 'Khadi Movement' preeminently prototype?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Large-scale industrialization."
+        },
+        {
+          "letter": "B",
+          "text": "Small and cottage industries."
+        },
+        {
+          "letter": "C",
+          "text": "Foreign trade monopolies."
+        },
+        {
+          "letter": "D",
+          "text": "Urban development projects."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The 'Khadi Movement' initiated and spearheaded by Gandhi is the preeminent prototype of small and cottage industries.",
+      "id": "week12_extra_1776742668688_18"
+    },
+    {
+      "text": "Which SDG did Gandhi implicitly caution against, related to environmental crisis like climate change?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SDG-6 (Clean Water and Sanitation)"
+        },
+        {
+          "letter": "B",
+          "text": "SDG-9 (Industry, Innovation, and Infrastructure)"
+        },
+        {
+          "letter": "C",
+          "text": "SDG-13 (Climate Action)"
+        },
+        {
+          "letter": "D",
+          "text": "SDG-11 (Sustainable Cities and Communities)"
+        }
+      ],
+      "answer": "C",
+      "feedback": "As a visionary and sensitive environmentalist Gandhi was probably aware of and has cautioned against, without naming, the environmental crisis the world might face like climate change and has offered means to combat it (SDG-13).",
+      "id": "week12_extra_1776742668688_19"
+    },
+    {
+      "text": "According to the 2021 SDG Index Report by NITI Aayog, what challenge did Corona create for global cooperation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It led to a decrease in global co-operation."
+        },
+        {
+          "letter": "B",
+          "text": "It created new challenges for increasing co-operation at the global level."
+        },
+        {
+          "letter": "C",
+          "text": "It had no significant impact on global co-operation."
+        },
+        {
+          "letter": "D",
+          "text": "It made statistical methods easier to frame."
+        }
+      ],
+      "answer": "B",
+      "feedback": "In 2021's SDG Index Report, NITI provided some qualitative assessments, e.g. we need to increase the co-operation at the global level, Corona has created new challenges, etc.",
+      "id": "week12_extra_1776742668688_20"
+    },
+    {
+      "text": "What is the primary objective of UNESCO regarding peace, as stated in its constitution?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To establish peace through military alliances."
+        },
+        {
+          "letter": "B",
+          "text": "To ensure peace through economic dominance."
+        },
+        {
+          "letter": "C",
+          "text": "To found peace upon the intellectual and moral solidarity of mankind."
+        },
+        {
+          "letter": "D",
+          "text": "To promote peace through cultural homogeneity."
+        }
+      ],
+      "answer": "C",
+      "feedback": "UNESCO's constitution states that peace must therefore be founded if it is not to fail, upon the intellectual and moral solidarity of mankind.",
+      "id": "week12_extra_1776742668688_21"
+    },
+    {
+      "text": "How many individuals per hundred in India had fixed broadband connections according to 2019 data?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20.08"
+        },
+        {
+          "letter": "B",
+          "text": "1.4"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "25"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The lecture states that 1.4/100 have fixed broadband connections in India according to 2019 data.",
+      "id": "week12_extra_1776742668688_22"
+    },
+    {
+      "text": "Which of the following is NOT one of the '3 Simple Ways to Sustainable Happiness' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relax your nervous system."
+        },
+        {
+          "letter": "B",
+          "text": "Be tender with yourself."
+        },
+        {
+          "letter": "C",
+          "text": "Prioritize material possessions."
+        },
+        {
+          "letter": "D",
+          "text": "Practice happiness for other people's happiness."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Prioritizing material possessions is contrary to the spirit of sustainable happiness, which emphasizes non-material values.",
+      "id": "week12_extra_1776742668688_23"
+    },
+    {
+      "text": "What is Dr. Catherine O'Brien's definition of 'Sustainable Happiness'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happiness that comes from acquiring new goods and services."
+        },
+        {
+          "letter": "B",
+          "text": "Happiness that prioritizes individual well-being above all else."
+        },
+        {
+          "letter": "C",
+          "text": "Happiness that contributes to individual, community, or global well-being without exploiting other people, the environment, or future generations."
+        },
+        {
+          "letter": "D",
+          "text": "Happiness that is short-term and immediate, focusing on pleasure."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Dr. Catherine O'Brien defines Sustainable Happiness as 'Happiness that contributes to individual, community, or global well-being without exploiting other people, the environment, or future generations.'",
+      "id": "week12_extra_1776742668688_24"
+    },
+    {
+      "text": "Which of the following is a benefit of happiness related to physical health, as mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased blood pressure."
+        },
+        {
+          "letter": "B",
+          "text": "A weakened immune system."
+        },
+        {
+          "letter": "C",
+          "text": "A reduced inclination to seek out health information."
+        },
+        {
+          "letter": "D",
+          "text": "Lower blood pressure and more robust immune systems."
+        }
+      ],
+      "answer": "D",
+      "feedback": "The lecture states that happiness corresponds with positive health outcomes, including lower blood pressure and more robust immune systems.",
+      "id": "week12_extra_1776742668688_25"
+    },
+    {
+      "text": "In a consumer society, what do individuals often confuse the 'path to the good life' with?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The path to spiritual enlightenment."
+        },
+        {
+          "letter": "B",
+          "text": "The 'goods life'."
+        },
+        {
+          "letter": "C",
+          "text": "The path to community service."
+        },
+        {
+          "letter": "D",
+          "text": "The path to self-actualization."
+        }
+      ],
+      "answer": "B",
+      "feedback": "In a consumer society, where consumption and happiness are inextricably linked, individuals confuse the 'path to the good life' as the 'goods life'.",
+      "id": "week12_extra_1776742668688_26"
+    },
+    {
+      "text": "What does 'Mindfulness' as a Sustainable Happiness Skill primarily entail?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Focusing intensely on future plans and goals."
+        },
+        {
+          "letter": "B",
+          "text": "Being aware of one’s current thoughts, feelings, and surroundings without judging oneself."
+        },
+        {
+          "letter": "C",
+          "text": "Continuously comparing oneself to others for self-improvement."
+        },
+        {
+          "letter": "D",
+          "text": "Ignoring negative emotions to maintain a positive facade."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Mindfulness is defined as when one is aware of one’s current thoughts, feelings, and surroundings without judging oneself.",
+      "id": "week12_extra_1776742668688_27"
+    },
+    {
+      "text": "What is the definition of 'Resilience' in the context of the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ability of a system to completely avoid all disturbances."
+        },
+        {
+          "letter": "B",
+          "text": "The ability of a system to absorb disturbances and retain its basic function and structure."
+        },
+        {
+          "letter": "C",
+          "text": "The process of constantly changing a system's core functions."
+        },
+        {
+          "letter": "D",
+          "text": "The rate at which a system recovers to a previous, worse state."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Resilience is the ability of a system to absorb disturbances & retain its basic function and structure.",
+      "id": "week12_extra_1776742668688_28"
+    },
+    {
+      "text": "Which of the following is NOT listed as a way to improve resilience?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Developing a social network."
+        },
+        {
+          "letter": "B",
+          "text": "Building optimism."
+        },
+        {
+          "letter": "C",
+          "text": "Avoiding all change."
+        },
+        {
+          "letter": "D",
+          "text": "Developing goals and problem-solving skills."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Embrace change is listed as a way to improve resilience, not avoid it.",
+      "id": "week12_extra_1776742668688_29"
+    },
+    {
+      "text": "What is the central idea behind the 'Production-Consumption Chain' diagram shown in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Production and consumption are isolated processes."
+        },
+        {
+          "letter": "B",
+          "text": "Products move linearly from extraction to disposal with no feedback."
+        },
+        {
+          "letter": "C",
+          "text": "The relationship between production and consumption, indicating a circular or interconnected flow."
+        },
+        {
+          "letter": "D",
+          "text": "Consumption always leads to higher production without environmental costs."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The Production-Consumption Chain diagrams illustrate the interconnected nature of these processes, often implying feedback loops and interdependence.",
+      "id": "week12_extra_1776742668688_30"
+    },
+    {
+      "text": "What is the explicit purpose of Target 12.c regarding fossil-fuel subsidies?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To increase fossil-fuel subsidies to boost economic growth."
+        },
+        {
+          "letter": "B",
+          "text": "To rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption."
+        },
+        {
+          "letter": "C",
+          "text": "To promote the long-term use of fossil fuels globally."
+        },
+        {
+          "letter": "D",
+          "text": "To redirect all energy investments exclusively to fossil fuels."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Target 12.c aims to rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions.",
+      "id": "week12_extra_1776742668688_31"
+    },
+    {
+      "text": "Which of the following is a primary focus of UN Environment's work in promoting SCP patterns?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclusively focusing on private sector profits."
+        },
+        {
+          "letter": "B",
+          "text": "Engaging with Governments in their transition to SCP patterns and inclusive green economies."
+        },
+        {
+          "letter": "C",
+          "text": "Reducing international agreements on environmental management."
+        },
+        {
+          "letter": "D",
+          "text": "Discouraging consumer information dissemination."
+        }
+      ],
+      "answer": "B",
+      "feedback": "UN Environment's work focuses on engaging with Governments in their transition to SCP patterns and inclusive green economies.",
+      "id": "week12_extra_1776742668688_32"
+    },
+    {
+      "text": "What percentage of the world's final energy consumption in 2013 was from renewable sources?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3%"
+        },
+        {
+          "letter": "B",
+          "text": "20%"
+        },
+        {
+          "letter": "C",
+          "text": "22%"
+        },
+        {
+          "letter": "D",
+          "text": "66%"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The slide 'Facts of today’s world' states that 20% - One-fifth of the world’s final energy consumption in 2013 was from renewable sources.",
+      "id": "week12_extra_1776742668688_33"
+    },
+    {
+      "text": "What significant economic impact is associated with a quarter of the world's population depending on forest resources?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "US$120 billion annually."
+        },
+        {
+          "letter": "B",
+          "text": "23 million Metric Tons of fish consumed daily."
+        },
+        {
+          "letter": "C",
+          "text": "$33 trillion annually."
+        },
+        {
+          "letter": "D",
+          "text": "97,103,871 barrels of fuel consumed daily."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The lecture states that $33 trillion annually approximately is quarter of the world’s population depends on the forest resources.",
+      "id": "week12_extra_1776742668688_34"
+    },
+    {
+      "text": "According to the lecture, what is the 'essence of commerce' for Mahatma Gandhi regarding wealth generation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wealth generation should primarily be for personal indulgence."
+        },
+        {
+          "letter": "B",
+          "text": "The generated wealth should be used for the betterment of humanity."
+        },
+        {
+          "letter": "C",
+          "text": "Wealth should be concentrated in the hands of a few."
+        },
+        {
+          "letter": "D",
+          "text": "Commerce should be entirely separate from social responsibility."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The essence of commerce, for him, is that the wealth generation should not be at the cost of individual, the generated wealth should be used for the betterment of the humanity and not for personal indulgence.",
+      "id": "week12_extra_1776742668688_35"
+    },
+    {
+      "text": "Which of the following concepts took the name 'Corporate Social Responsibility' (CSR) according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The idea of laissez-faire economics."
+        },
+        {
+          "letter": "B",
+          "text": "The idea of trusteeship, where industrialists gave wealth for society's betterment."
+        },
+        {
+          "letter": "C",
+          "text": "The concept of unlimited personal wealth accumulation."
+        },
+        {
+          "letter": "D",
+          "text": "The principle of non-violence in political movements."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The idea of trusteeship was born and many industrialists gave their wealth for the betterment of society. This concept took the name of 'Corporate Social Responsibility' –CSR.",
+      "id": "week12_extra_1776742668688_36"
+    },
+    {
+      "text": "What is one of the ways societies can save money in their homes through sustainable consumption?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By increasing consumption of disposable goods."
+        },
+        {
+          "letter": "B",
+          "text": "By buying more luxury items."
+        },
+        {
+          "letter": "C",
+          "text": "By buying less and better, leading to financial savings and energy efficiency."
+        },
+        {
+          "letter": "D",
+          "text": "By reducing the use of household appliances."
+        }
+      ],
+      "answer": "C",
+      "feedback": "If we consume responsibly at home, we will buy less and better, and this will lead to financial savings. Sustainable consumption also pushes us towards greater energy efficiency.",
+      "id": "week12_extra_1776742668688_37"
+    },
+    {
+      "text": "What is highlighted as a 'crucial first step' in improving the environmental and social impact of systems?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Implementing global regulations without local input."
+        },
+        {
+          "letter": "B",
+          "text": "Identifying 'hot spots' within the value chain for interventions."
+        },
+        {
+          "letter": "C",
+          "text": "Waiting for technological breakthroughs."
+        },
+        {
+          "letter": "D",
+          "text": "Focusing solely on consumer demand."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Identifying “hot spots” within the value chain where interventions have the greatest potential to improve the environmental and social impact of the system as a whole is a crucial first step.",
+      "id": "week12_extra_1776742668688_38"
+    },
+    {
+      "text": "What is a characteristic of 'Engineering resilience' according to the '3 Facet of Resilience' table?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adaptive capacity and transformability."
+        },
+        {
+          "letter": "B",
+          "text": "Buffer capacity and ability to withstand shock."
+        },
+        {
+          "letter": "C",
+          "text": "Return time and efficiency, focusing on recovery and constancy."
+        },
+        {
+          "letter": "D",
+          "text": "Interplay of disturbance and reorganization."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Engineering resilience is characterized by return time, efficiency, and a focus on recovery and constancy.",
+      "id": "week12_extra_1776742668688_39"
+    },
+    {
+      "text": "What is a recommended 'Habit of Mind' to promote happiness, as per the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Being judgmental of others."
+        },
+        {
+          "letter": "B",
+          "text": "Constantly worrying about the future."
+        },
+        {
+          "letter": "C",
+          "text": "Being in the present moment."
+        },
+        {
+          "letter": "D",
+          "text": "Avoiding expressing gratitude."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Being in the present moment is listed as a habit of mind to promote happiness.",
+      "id": "week12_extra_1776742668688_40"
+    },
+    {
+      "text": "Which of the following is a 'Great Benefit of Mindfulness' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It expands the stress region in your brain."
+        },
+        {
+          "letter": "B",
+          "text": "It weakens your immune system."
+        },
+        {
+          "letter": "C",
+          "text": "It can make you more resilient."
+        },
+        {
+          "letter": "D",
+          "text": "It reduces working memory."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Mindfulness can make you more resilient is listed as a great benefit.",
+      "id": "week12_extra_1776742668688_41"
+    },
+    {
+      "text": "What is the overarching conclusion of the lecture regarding the union of sustainability, happiness, and well-being?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is an unattainable ideal for individuals and nations."
+        },
+        {
+          "letter": "B",
+          "text": "It will have minimal impact on global attitudes and behaviors."
+        },
+        {
+          "letter": "C",
+          "text": "It can transform individuals, communities, nations, and our planet, accelerating shifts in attitudes, policies, practice and behavior."
+        },
+        {
+          "letter": "D",
+          "text": "It is primarily a concern for developed countries, not developing ones."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The lecture concludes that the union of sustainability, happiness, and well-being can transform individuals, communities and nations, and our planet. It can accelerate shifts in attitudes, policies, practice and behavior.",
+      "id": "week12_extra_1776742668688_42"
+    },
+    {
+      "text": "What did India host at COP-25 with the theme '150 years of celebrating the Mahatma'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A new trade agreement."
+        },
+        {
+          "letter": "B",
+          "text": "The 'India Pavilion' to highlight sustainable living."
+        },
+        {
+          "letter": "C",
+          "text": "A summit on resource mobilization."
+        },
+        {
+          "letter": "D",
+          "text": "A demonstration of advanced military technology."
+        }
+      ],
+      "answer": "B",
+      "feedback": "India hosted 'India Pavilion' at COP-25 with the theme ‘150 years of celebrating the Mahatma' to highlight sustainable living.",
+      "id": "week12_extra_1776742668688_43"
+    },
+    {
+      "text": "What is the primary aim of the 'Partnership Journey to Action' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To identify individual financial gains from partnerships."
+        },
+        {
+          "letter": "B",
+          "text": "To guide the stages of developing and implementing a partnership for collective action."
+        },
+        {
+          "letter": "C",
+          "text": "To focus exclusively on resolving conflicts between partners."
+        },
+        {
+          "letter": "D",
+          "text": "To create competition among potential partners."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The Partnership Journey to Action outlines various stages, from understanding alignment to signing an agreement, indicating a structured approach to collaborative efforts.",
+      "id": "week12_extra_1776742668688_44"
+    },
+    {
+      "text": "How many Targets and Indicators has the UN defined for SDG 17?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 Targets and 15 Indicators"
+        },
+        {
+          "letter": "B",
+          "text": "19 Targets and 25 Indicators"
+        },
+        {
+          "letter": "C",
+          "text": "17 Targets and 17 Indicators"
+        },
+        {
+          "letter": "D",
+          "text": "25 Targets and 19 Indicators"
+        }
+      ],
+      "answer": "B",
+      "feedback": "The UN has defined 19 Targets and 25 Indicators for SDG 17.",
+      "id": "week12_extra_1776742668688_45"
+    },
+    {
+      "text": "What is a core sustainable competency related to understanding dynamic interdependencies and feedback loops?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Normative thinking."
+        },
+        {
+          "letter": "B",
+          "text": "Strategic thinking."
+        },
+        {
+          "letter": "C",
+          "text": "System Thinking."
+        },
+        {
+          "letter": "D",
+          "text": "Self-aware competency."
+        }
+      ],
+      "answer": "C",
+      "feedback": "System Thinking is a core sustainable competency focused on understanding how different parts of a system interact and influence each other.",
+      "id": "week12_extra_1776742668688_46"
+    },
+    {
+      "text": "What is a potential negative consequence of humanity using fresh (drinkable) water faster than nature can replenish it?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased availability of water for industrial use."
+        },
+        {
+          "letter": "B",
+          "text": "A surplus of drinkable water globally."
+        },
+        {
+          "letter": "C",
+          "text": "Water scarcity and depletion of this vital natural resource."
+        },
+        {
+          "letter": "D",
+          "text": "Improved ecological balance in aquatic ecosystems."
+        }
+      ],
+      "answer": "C",
+      "feedback": "The lecture points out that humans are using fresh (drinkable) water faster than nature can replenish it, implying scarcity.",
+      "id": "week12_extra_1776742668688_47"
+    },
+    {
+      "text": "Which of the following is a component of 'Happiness at Work' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limited autonomy and decision-making."
+        },
+        {
+          "letter": "B",
+          "text": "Financial security."
+        },
+        {
+          "letter": "C",
+          "text": "Rigid work-life separation."
+        },
+        {
+          "letter": "D",
+          "text": "Absence of social connections."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Financial Security is listed as one of the components of 'Happiness at Work'.",
+      "id": "week12_extra_1776742668688_48"
+    },
+    {
+      "text": "What does 'Resource decoupling' and 'impact decoupling' refer to in the context of sustainable consumption and production?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing resource use while decreasing environmental impact."
+        },
+        {
+          "letter": "B",
+          "text": "Using fewer resources and creating less environmental impact per unit of economic output."
+        },
+        {
+          "letter": "C",
+          "text": "Separating economic growth from social welfare."
+        },
+        {
+          "letter": "D",
+          "text": "Decoupling production from consumption."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Resource decoupling and impact decoupling are needed to promote sustainable consumption and production (SCP) patterns, implying using fewer resources and generating less impact while still achieving economic and social benefits.",
+      "id": "week12_extra_1776742668688_49"
+    },
+    {
+      "text": "What is one of the ways to promote 'responsible food' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing food waste in establishments."
+        },
+        {
+          "letter": "B",
+          "text": "Planning shopping well and opting for healthy, local food."
+        },
+        {
+          "letter": "C",
+          "text": "Solely relying on imported food products."
+        },
+        {
+          "letter": "D",
+          "text": "Avoiding creative new recipes to stick to traditional methods."
+        }
+      ],
+      "answer": "B",
+      "feedback": "We must plan our shopping well and opt for healthy, local food is listed as a way to promote responsible food.",
+      "id": "week12_extra_1776742668688_50"
+    },
+    {
+      "text": "What is meant by 'Global Citizenship' according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A legal status granted by international organizations."
+        },
+        {
+          "letter": "B",
+          "text": "Citizenship beyond borders, or citizenship beyond the nation-state."
+        },
+        {
+          "letter": "C",
+          "text": "A focus solely on national interests and self-preservation."
+        },
+        {
+          "letter": "D",
+          "text": "The exclusive development of cognitive skills for economic competition."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Global citizenship is interpreted as ‘citizenship beyond borders’, or ‘citizenship beyond the nation-state’.",
+      "id": "week12_extra_1776742668688_51"
+    },
+    {
+      "text": "What is the primary goal of the 'Education for International Understanding (EIU)' initiative?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To promote economic competition among nations."
+        },
+        {
+          "letter": "B",
+          "text": "To restrict cultural exchange between countries."
+        },
+        {
+          "letter": "C",
+          "text": "To promote international goodwill through education and foster a sense of global family."
+        },
+        {
+          "letter": "D",
+          "text": "To encourage cultural isolation and nationalistic ideologies."
+        }
+      ],
+      "answer": "C",
+      "feedback": "EIU promotes international goodwill through education and emphasizes that the whole world is one family, fostering a 'global culture'.",
+      "id": "week12_extra_1776742668688_52"
+    },
+    {
+      "text": "What is SDG Indicator 17.8.1 designed to measure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The global trade volume."
+        },
+        {
+          "letter": "B",
+          "text": "The proportion of individuals using the Internet."
+        },
+        {
+          "letter": "C",
+          "text": "The number of international partnerships."
+        },
+        {
+          "letter": "D",
+          "text": "The amount of foreign aid disbursed."
+        }
+      ],
+      "answer": "B",
+      "feedback": "SDG Indicator 17.8.1 measures the proportion of individuals using the Internet.",
+      "id": "week12_extra_1776742668688_53"
+    },
+    {
+      "text": "According to the lecture, what is the role of ICT in 'Sharing of Knowledge and Experiences Through International Cooperation'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ICT has no significant role in international cooperation."
+        },
+        {
+          "letter": "B",
+          "text": "ICT has enabled people to connect and interact with others around the globe anywhere, anytime."
+        },
+        {
+          "letter": "C",
+          "text": "ICT primarily restricts knowledge sharing to national borders."
+        },
+        {
+          "letter": "D",
+          "text": "ICT only supports one-way information dissemination from developed to developing countries."
+        }
+      ],
+      "answer": "B",
+      "feedback": "ICT have enabled people to connect and interact with others around the globe anywhere, anytime.",
+      "id": "week12_extra_1776742668688_54"
+    },
+    {
+      "text": "What is one of the 'Sustainable Wellbeing challenge activities' mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximizing personal wealth."
+        },
+        {
+          "letter": "B",
+          "text": "Social Connection."
+        },
+        {
+          "letter": "C",
+          "text": "Avoiding all physical activity."
+        },
+        {
+          "letter": "D",
+          "text": "Limiting lifelong learning."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Social Connection is listed as a Sustainable Wellbeing challenge activity.",
+      "id": "week12_extra_1776742668688_55"
+    },
+    {
+      "text": "What is the importance of 'Purpose' as a Sustainable Happiness Skill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It helps individuals focus solely on personal gratification."
+        },
+        {
+          "letter": "B",
+          "text": "Having a sense of purpose can assist in contributing to sustainable happiness."
+        },
+        {
+          "letter": "C",
+          "text": "It implies a lack of adaptability to new situations."
+        },
+        {
+          "letter": "D",
+          "text": "It leads to rigidity and resistance to change."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Having a sense of purpose can assist in contributing to sustainable happiness.",
+      "id": "week12_extra_1776742668688_56"
+    },
+    {
+      "text": "In Gibbs' Reflective Cycle, which stage immediately follows 'Feelings'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Action Plan"
+        },
+        {
+          "letter": "B",
+          "text": "Description"
+        },
+        {
+          "letter": "C",
+          "text": "Evaluation"
+        },
+        {
+          "letter": "D",
+          "text": "Conclusion"
+        }
+      ],
+      "answer": "C",
+      "feedback": "The Gibbs' Reflective Cycle diagram shows 'Evaluation' immediately following 'Feelings'.",
+      "id": "week12_extra_1776742668688_57"
+    },
+    {
+      "text": "What is one of the ways reflective thinking helps learners develop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lower-order cognitive skills."
+        },
+        {
+          "letter": "B",
+          "text": "Higher-order thinking."
+        },
+        {
+          "letter": "C",
+          "text": "Passive learning habits."
+        },
+        {
+          "letter": "D",
+          "text": "Reliance on external decision-making."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Reflective thinking helps learners develop higher-order thinking.",
+      "id": "week12_extra_1776742668688_58"
+    },
+    {
+      "text": "What is the focus of 'Ecological resilience' according to the '3 Facet of Resilience' table?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recovery and constancy."
+        },
+        {
+          "letter": "B",
+          "text": "Persistence and robustness in multiple equilibria."
+        },
+        {
+          "letter": "C",
+          "text": "Adaptive capacity and transformability."
+        },
+        {
+          "letter": "D",
+          "text": "Return time and efficiency."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Ecological resilience focuses on persistence, robustness, and is associated with multiple equilibria and stability landscapes.",
+      "id": "week12_extra_1776742668688_59"
+    },
+    {
+      "text": "What is the main idea behind 'Mindfulness' as explained in the lecture regarding current experience?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To suppress unpleasant thoughts and emotions."
+        },
+        {
+          "letter": "B",
+          "text": "To analyze and solve problems from the past."
+        },
+        {
+          "letter": "C",
+          "text": "To be present and attentive purposefully and non-judgmentally 'in the moment'."
+        },
+        {
+          "letter": "D",
+          "text": "To plan for future scenarios without considering the present."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Mindfulness is defined as being present and attentive purposefully and non-judgmentally 'in the moment'.",
+      "id": "week12_extra_1776742668688_60"
+    },
+    {
+      "text": "What is the first stage of Mindfulness practice mentioned in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitting, lying, or standing in a relaxing position."
+        },
+        {
+          "letter": "B",
+          "text": "Listening to some relaxing music and meditating."
+        },
+        {
+          "letter": "C",
+          "text": "Practice begins with pranayama."
+        },
+        {
+          "letter": "D",
+          "text": "Continues with Hatha Yoga."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Stage 1 of Mindfulness practice begins with pranayama.",
+      "id": "week12_extra_1776742668688_61"
+    },
+    {
+      "text": "According to the lecture, what transformation of business practices is required alongside public policies for sustainable consumption?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A minimal adjustment to existing business models."
+        },
+        {
+          "letter": "B",
+          "text": "A profound transformation along global value chains."
+        },
+        {
+          "letter": "C",
+          "text": "A shift towards centralized, government-controlled industries."
+        },
+        {
+          "letter": "D",
+          "text": "An increase in environmentally damaging practices for short-term gains."
+        }
+      ],
+      "answer": "B",
+      "feedback": "A profound transformation of business practices along global value chains is also required.",
+      "id": "week12_extra_1776742668688_62"
+    },
+    {
+      "text": "What is one of the core objectives of the 2030 Agenda for Sustainable Development, according to the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To intensify resource use and environmental degradation."
+        },
+        {
+          "letter": "B",
+          "text": "To decouple economic growth from resource use and environmental degradation."
+        },
+        {
+          "letter": "C",
+          "text": "To prioritize economic growth over environmental sustainability."
+        },
+        {
+          "letter": "D",
+          "text": "To halt all economic development to protect the environment."
+        }
+      ],
+      "answer": "B",
+      "feedback": "One of the core objectives of the 2030 Agenda for Sustainable Development is to decouple economic growth from resource use and environmental degradation, notably through improved resource efficiency.",
+      "id": "week12_extra_1776742668688_63"
+    },
+    {
+      "text": "What does the 'Accra Agenda' (2008) emphasize regarding development cooperation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excluding civil society and parliamentarians."
+        },
+        {
+          "letter": "B",
+          "text": "Upholding Paris Principles and emphasizing the role of emerging economies, civil society, and parliamentarians."
+        },
+        {
+          "letter": "C",
+          "text": "Centralizing all development decisions with donor countries."
+        },
+        {
+          "letter": "D",
+          "text": "Focusing solely on financial aid without other forms of support."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The Accra Agenda for Action upholds the Paris Principles, emphasizing the role of emerging economies, civil society organizations, and parliamentarians in development.",
+      "id": "week12_extra_1776742668688_64"
+    },
+    {
+      "text": "What is the concept of 'Satyagraha' associated with Mahatma Gandhi's techniques?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Armed rebellion against injustice."
+        },
+        {
+          "letter": "B",
+          "text": "Non-violent protest to combat social and environmental threats."
+        },
+        {
+          "letter": "C",
+          "text": "Economic sanctions against oppressors."
+        },
+        {
+          "letter": "D",
+          "text": "Passive acceptance of social inequalities."
+        }
+      ],
+      "answer": "B",
+      "feedback": "His techniques of 'satyagraha' (non-violent protest) carry the means to combat many a social and environmental threats.",
+      "id": "week12_extra_1776742668688_65"
+    },
+    {
+      "text": "What is the primary aim of the 'Green Fiscal Policy Network' established by UN Environment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To increase global fossil fuel consumption."
+        },
+        {
+          "letter": "B",
+          "text": "To support reform on green fiscal policy."
+        },
+        {
+          "letter": "C",
+          "text": "To centralize all financial decision-making in the UN."
+        },
+        {
+          "letter": "D",
+          "text": "To provide direct financial aid to businesses."
+        }
+      ],
+      "answer": "B",
+      "feedback": "In order to support reform on green fiscal policy, UN Environment has established the Green Fiscal Policy Network.",
+      "id": "week12_extra_1776742668688_66"
+    },
+    {
+      "text": "What did the 'Bogota Statement' (2010) commit to regarding South-South cooperation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing knowledge exchange."
+        },
+        {
+          "letter": "B",
+          "text": "Deepening knowledge exchange and mutual learning."
+        },
+        {
+          "letter": "C",
+          "text": "Imposing development models."
+        },
+        {
+          "letter": "D",
+          "text": "Limiting cooperation to financial aid only."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The Bogota Statement commits partners engaged in South–South cooperation to deepen knowledge exchange and mutual learning.",
+      "id": "week12_extra_1776742668688_67"
+    },
+    {
+      "text": "What is the core idea of 'Human Connection' as a Sustainable Happiness Skill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Focusing on self-reliance without external help."
+        },
+        {
+          "letter": "B",
+          "text": "The relationships that exist with significant others, friends, and peers; strong bonding/relationships are crucial to happiness and well-being."
+        },
+        {
+          "letter": "C",
+          "text": "Maintaining superficial relationships to avoid emotional investment."
+        },
+        {
+          "letter": "D",
+          "text": "Prioritizing online interactions over face-to-face contact."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Human Connection is described as the relationships that exists with significant others, friends, and peers; Strong bonding/relationships are crucial to happiness and well-being.",
+      "id": "week12_extra_1776742668688_68"
+    },
+    {
+      "text": "Which of the following is an example of 'Pedagogy & Practice of Sustainable Happiness'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rote memorization."
+        },
+        {
+          "letter": "B",
+          "text": "Deep Contemplation."
+        },
+        {
+          "letter": "C",
+          "text": "Unquestioning acceptance of information."
+        },
+        {
+          "letter": "D",
+          "text": "Individualistic learning without collaboration."
+        }
+      ],
+      "answer": "B",
+      "feedback": "Deep Contemplation is listed as part of the Pedagogy & Practice of Sustainable Happiness.",
+      "id": "week12_extra_1776742668688_69"
+    },
+    {
+      "text": "What is the purpose of the 'UN Interagency Task Team on Science, Technology and Innovation for SDGs'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To restrict access to scientific knowledge."
+        },
+        {
+          "letter": "B",
+          "text": "To promote coordination, coherence, and cooperation within the UN System on STI related matters."
+        },
+        {
+          "letter": "C",
+          "text": "To manage all global financial investments in technology."
+        },
+        {
+          "letter": "D",
+          "text": "To exclusively fund private sector innovation."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The UN Interagency Task Team on Science, Technology and Innovation for the SDGs will promote coordination, coherence, and cooperation within the UN System on STI related matters.",
+      "id": "week12_extra_1776742668688_70"
+    },
+    {
+      "text": "What is one aspect of 'Teaching Sustainability in Higher Education' that can make a difference?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Focusing solely on theoretical knowledge without practical application."
+        },
+        {
+          "letter": "B",
+          "text": "A pedagogical approach that transforms students' thinking and actions towards sustainability."
+        },
+        {
+          "letter": "C",
+          "text": "Minimizing engagement with students' prior knowledge and beliefs."
+        },
+        {
+          "letter": "D",
+          "text": "Adopting a rigid and non-substantive pedagogy."
+        }
+      ],
+      "answer": "B",
+      "feedback": "A paradox arises when educators approach a sustainability curriculum that has the potential to transform students' thinking and actions.",
+      "id": "week12_extra_1776742668688_71"
+    },
+    {
+      "text": "What is a dual role of ICT concerning green sustainability, as presented in the lecture?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is only a significant user of resources."
+        },
+        {
+          "letter": "B",
+          "text": "It is only an enabler of change to societal behavior."
+        },
+        {
+          "letter": "C",
+          "text": "It can both enable change to societal behavior and is a significant user of resources."
+        },
+        {
+          "letter": "D",
+          "text": "It is neither an enabler nor a user of resources."
+        }
+      ],
+      "answer": "C",
+      "feedback": "ICT has a dual role: as an enabler of change it can support changes to societal behaviour which can reduce the environmental impact of life, housing, work and leisure activities, but as a significant user of resources.",
+      "id": "week12_extra_1776742668688_72"
+    },
+    {
+      "text": "What was the prime objective of the African Union (AU) Flagship program 'Agenda 2063'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To increase military spending across Africa."
+        },
+        {
+          "letter": "B",
+          "text": "To address the root causes of conflicts and strengthen the capacity to prevent and resolve conflicts peacefully."
+        },
+        {
+          "letter": "C",
+          "text": "To promote economic isolation among African nations."
+        },
+        {
+          "letter": "D",
+          "text": "To restrict cultural practices and dialogue."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The prime objective is to 'Address the root causes of conflicts in Africa and strengthen the capacity to prevent and resolve conflicts peacefully in particular using African local values and endogenous practices of a culture of peace'.",
+      "id": "week12_extra_1776742668688_73"
+    },
+    {
+      "text": "Which milestone in the Global Journey from MDGs emphasized the importance of 'country ownership' of the development agenda?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Millennium Development Goals (2000)."
+        },
+        {
+          "letter": "B",
+          "text": "The Paris Declaration (2005)."
+        },
+        {
+          "letter": "C",
+          "text": "The Bogota Statement (2010)."
+        },
+        {
+          "letter": "D",
+          "text": "The Busan principles (2011)."
+        }
+      ],
+      "answer": "B",
+      "feedback": "The Paris Declaration establishes five principles for aid effectiveness: country ownership of the development agenda.",
+      "id": "week12_extra_1776742668688_74"
+    },
+    {
+      "text": "What is meant by 'Deeper inclusion' in the context of Global Partnerships for Impact?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prioritizing investments only for wealthy individuals."
+        },
+        {
+          "letter": "B",
+          "text": "Limiting investments to developed countries."
+        },
+        {
+          "letter": "C",
+          "text": "Prioritize investments where opportunity is expanded to include poorer and marginalized people, especially women and the rural poor."
+        },
+        {
+          "letter": "D",
+          "text": "Excluding specific demographics from partnership opportunities."
+        }
+      ],
+      "answer": "C",
+      "feedback": "Deeper inclusion means prioritizing investments where opportunity is expanded to include poorer and marginalized people, especially women and the rural poor.",
+      "id": "week12_extra_1776742668688_75"
+    },
+    {
+      "text": "What kind of partnership is described as a family business but with state-approval, where liabilities are limited?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A general partnership."
+        },
+        {
+          "letter": "B",
+          "text": "A limited partnership."
+        },
+        {
+          "letter": "C",
+          "text": "A joint venture."
+        },
+        {
+          "letter": "D",
+          "text": "A strategic alliance."
+        }
+      ],
+      "answer": "B",
+      "feedback": "A Limited Partnership is like a family business but with state-approval and limited liability.",
+      "id": "week12_extra_1776742668688_76"
+    }
+  ]
+}
