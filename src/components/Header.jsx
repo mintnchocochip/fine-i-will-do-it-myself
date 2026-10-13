@@ -2,7 +2,7 @@ import { useApp } from '../App.jsx'
 import { Globe, Sun, Moon, Brain } from 'lucide-react'
 
 export default function Header({ onLogout }) {
-  const { user, navigate, theme, toggleTheme, useExtra, toggleExtra } = useApp()
+  const { user, navigate, theme, toggleTheme, useExtra, toggleExtra, course, courses, changeCourse } = useApp()
 
   const initials = user?.name
     ? user.name.split(' ').map(w => w[0]).join('').toUpperCase().slice(0, 2)
@@ -13,18 +13,32 @@ export default function Header({ onLogout }) {
       <div className="header-inner">
         <button className="header-logo btn-ghost" onClick={() => navigate('home')}>
           <div className="header-logo-icon"><Globe size={20} /></div>
-          <span>Education for Sustainable Development</span>
+          <span>EduSus</span>
         </button>
 
+        <select
+          className="course-select"
+          value={course.id}
+          onChange={e => changeCourse(e.target.value)}
+          aria-label="Course"
+          title={course.name}
+        >
+          {courses.map(c => (
+            <option key={c.id} value={c.id}>{c.short}</option>
+          ))}
+        </select>
+
         <div className="header-right">
-          <button 
-            className={`btn-icon ${useExtra ? 'text-accent bg-accent/10' : 'btn-ghost'}`} 
-            onClick={toggleExtra} 
-            aria-label="Toggle extra AI questions"
-            title={useExtra ? "Pre-generated extra questions ON" : "Pre-generated extra questions OFF"}
-          >
-            <Brain size={18} />
-          </button>
+          {course.extras && (
+            <button 
+              className={`btn-icon ${useExtra ? 'text-accent bg-accent/10' : 'btn-ghost'}`} 
+              onClick={toggleExtra} 
+              aria-label="Toggle extra AI questions"
+              title={useExtra ? "Pre-generated extra questions ON" : "Pre-generated extra questions OFF"}
+            >
+              <Brain size={18} />
+            </button>
+          )}
           
           <button className="btn-icon btn-ghost" onClick={toggleTheme} aria-label="Toggle theme">
             {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}

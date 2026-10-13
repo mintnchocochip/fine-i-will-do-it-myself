@@ -19,7 +19,7 @@ export default function Login({ onLogin }) {
       <div className="login-card">
         <div className="login-logo"><Globe size={32} /></div>
         <h1>Education for Sustainable Development</h1>
-        <p>Test your knowledge across all 12 weeks</p>
+        <p>Practise your course assignments, week by week</p>
 
         <form className="demo-form" onSubmit={handleLogin} style={{ marginTop: 24 }}>
           <input

@@ -6,7 +6,7 @@ import QuestionCard from '../components/QuestionCard.jsx'
 import ProgressBar from '../components/ProgressBar.jsx'
 import Summary from '../components/Summary.jsx'
 import { getQuestionsByWeeks, buildResults } from '../utils/questionUtils.js'
-import { saveSessionResults } from '../utils/cookies.js'
+import { saveSessionResults, markQuestionsSeen, trackWrongAnswers } from '../utils/cookies.js'
 
 export default function StudyMode() {
   const { navigate, useExtra } = useApp()
@@ -21,6 +21,7 @@ export default function StudyMode() {
   function start() {
     if (!selectedWeeks.length) return
     const qs = getQuestionsByWeeks(selectedWeeks, useExtra)
+    markQuestionsSeen(qs.map(q => q.id))
     setQuestions(qs)
     setCurrentIdx(0)
     setAnswers({})
@@ -54,6 +55,7 @@ export default function StudyMode() {
   function finish() {
     const r = buildResults(questions, answers)
     saveSessionResults(r.map(x => ({ weekId: x.weekId, isCorrect: x.isCorrect })))
+    trackWrongAnswers(r)
     setResults(r)
     setDone(true)
   }

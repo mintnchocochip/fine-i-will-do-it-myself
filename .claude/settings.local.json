@@ -3,7 +3,18 @@
     "allow": [
       "Bash(npm install *)",
       "Bash(npm run *)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(node -e \"const d=require\\('./src/data/extraQuestions.json'\\); console.log\\('Keys:', Object.keys\\(d\\)\\); Object.keys\\(d\\).forEach\\(k=>console.log\\(k, ':', d[k].length, 'questions'\\)\\)\")",
+      "Bash(node -e ' *)",
+      "Bash(ls \"C:\\\\Users\\\\Shawf\\\\Downloads\\\\\" | grep -i \"Smart Heat\")",
+      "Bash(ls -la \"/c/Users/Shawf/Downloads/\" | grep -i \"Smart Heat\")",
+      "Bash(mkdir -p \"/c/Users/Shawf/AppData/Local/Temp/claude/A--fine-ill-do-it-myself/f347e1d3-7880-4587-a269-8b81cf587d79/scratchpad/pptx_work\")",
+      "Bash(cp \"/c/Users/Shawf/Downloads/Smart Heat Router - Patent Review.pptx\" \"/c/Users/Shawf/AppData/Local/Temp/claude/A--fine-ill-do-it-myself/f347e1d3-7880-4587-a269-8b81cf587d79/scratchpad/pptx_work/deck.pptx\")",
+      "Read(//c/Users/Shawf/AppData/Local/Temp/claude/A--fine-ill-do-it-myself/f347e1d3-7880-4587-a269-8b81cf587d79/scratchpad/pptx_work/**)",
+      "Bash(markitdown deck.pptx)",
+      "Bash(python -m markitdown deck.pptx)",
+      "Bash(python -c \"import pptx; print\\(pptx.__version__\\)\")",
+      "Bash(pip install *)"
     ]
   }
 }

@@ -1,0 +1,1631 @@
+{
+  "id": "ie",
+  "note": "Extra practice questions written from the UIE course lecture decks (Modules 1-12). Not official NPTEL questions.",
+  "weeks": [
+    {
+      "week": 0,
+      "questions": [
+        {
+          "text": "Which of the following best describes a 'unicorn' in the startup world?",
+          "options": [
+            "A startup that has never raised external funding",
+            "A privately held startup valued at over $1 billion",
+            "A startup that has filed more than 100 patents",
+            "A company listed on a stock exchange"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "What is the primary purpose of a business model?",
+          "options": [
+            "To list the legal obligations of the founders",
+            "To record all financial transactions for auditors",
+            "To describe how an organisation creates, delivers and captures value",
+            "To schedule the production calendar"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "In the context of a startup, what does 'bootstrapping' mean?",
+          "options": [
+            "Funding growth from personal savings and revenue rather than outside investors",
+            "Outsourcing the entire product development",
+            "Selling equity to employees",
+            "Raising venture capital in the first month"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which of the following best describes market research?",
+          "options": [
+            "Systematically gathering and analysing information about customers and competitors",
+            "Registering the company's trademark",
+            "Preparing the balance sheet for investors",
+            "Advertising a finished product to as many people as possible"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "What distinguishes a sole proprietorship from a private limited company?",
+          "options": [
+            "A sole proprietorship always has more than one owner",
+            "A private limited company cannot employ staff",
+            "A sole proprietorship must issue shares",
+            "A sole proprietorship has no separate legal identity from its owner"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which of the following is an example of a B2B business?",
+          "options": [
+            "A company selling enterprise software to other companies",
+            "A tailor stitching clothes for walk-in customers",
+            "A food delivery app serving individual diners",
+            "A grocery store selling vegetables to households"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "What does 'cash flow' refer to in a business?",
+          "options": [
+            "The equity held by the founders",
+            "The profit declared at the end of the financial year",
+            "The total value of assets owned by the company",
+            "The movement of money into and out of the business"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Why do businesses segment their market?",
+          "options": [
+            "To reduce the number of products they manufacture",
+            "To avoid paying taxes in multiple states",
+            "To comply with company law",
+            "To tailor products and messaging to groups with similar needs"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which of the following best describes a prototype?",
+          "options": [
+            "The final mass-produced version of a product",
+            "A legal document protecting an invention",
+            "An early model built to test and improve an idea",
+            "A marketing brochure for investors"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "What is the main purpose of a value proposition?",
+          "options": [
+            "To state clearly why a customer should choose your product over alternatives",
+            "To calculate the manufacturing cost of the product",
+            "To define the reporting structure of the company",
+            "To list the technologies used in the product"
+          ],
+          "answer": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "questions": [
+        {
+          "text": "The Lean Startup brings together three components. Which person is associated with Customer Development?",
+          "options": [
+            "Eric Ries",
+            "Steve Blank",
+            "Alexander Osterwalder",
+            "Ash Maurya"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which component of the Lean Startup is attributed to Alexander Osterwalder?",
+          "options": [
+            "Customer Development",
+            "Agile Engineering",
+            "Business Model Generation",
+            "Design Thinking"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "According to the analysis of startup post-mortems presented in the course, the single most common reason startups fail is:",
+          "options": [
+            "Poor technology choices",
+            "No market need",
+            "Weak advertising",
+            "Running out of cash"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which statement best captures the course definition of a startup?",
+          "options": [
+            "A research laboratory attached to a university",
+            "A profitable small enterprise with steady revenue",
+            "A small version of a large company",
+            "A temporary organisation searching for a scalable and repeatable business model"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "What is the stated purpose of adopting the Lean Startup approach?",
+          "options": [
+            "It reduces the odds of failure",
+            "It guarantees commercial success",
+            "It removes the need for customer research",
+            "It replaces the need for a team"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which of the following are the three questions the course says every innovation must answer?",
+          "options": [
+            "Who needs it and why? Can you deliver that value? Can you make enough money?",
+            "Is it patentable? Is it cheap? Is it fast?",
+            "Who funds it? Who builds it? Who sells it?",
+            "Is it new? Is it legal? Is it scalable?"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "In the Startup Story presented in Module 1, which stage immediately follows the Disruptive Idea?",
+          "options": [
+            "The Dream",
+            "The Launch",
+            "Team Building",
+            "Business Model"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "A scalable startup differs from a large company mainly because the startup:",
+          "options": [
+            "Operates in a fully known environment",
+            "Searches for unknown customers and unknown needs",
+            "Executes a known playbook efficiently",
+            "Needs mostly followers rather than searchers"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which of the following are common early mistakes made by founders, as listed in Module 1?",
+          "options": [
+            "Building a solution without talking to customers",
+            "Misjudging the urgency of the customer's need",
+            "Overestimating the number of potential customers",
+            "All of the above"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "In the MedGyor case, what evidence led the founder to abandon the original sterile-enclosure product?",
+          "options": [
+            "Investors refused to fund medical devices",
+            "The patent application was rejected",
+            "The technology could not be built",
+            "Surgeries in medical camps were banned and rural volumes were too low to be viable"
+          ],
+          "answer": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "questions": [
+        {
+          "text": "During customer discovery interviews, the course advises founders to:",
+          "options": [
+            "Ask leading questions that confirm the idea",
+            "Listen rather than talk about the product or idea",
+            "Explain the product in detail so customers understand it",
+            "Interview friends and family first"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which type of question should be used when interviewing potential customers?",
+          "options": [
+            "Leading questions",
+            "Yes or no questions",
+            "Questions about your proposed solution",
+            "Open-ended questions"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "According to Module 2, what is a 'problem' from the customer's point of view?",
+          "options": [
+            "Whatever the founder asks them about",
+            "The cheapest item on their wish list",
+            "The feature they request most politely",
+            "What they keep ranting about"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "The course states that money is not the cause of startup death. What is?",
+          "options": [
+            "Lack of product-market fit",
+            "Lack of advertising budget",
+            "Lack of patents",
+            "Lack of office infrastructure"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "How does the course suggest founders deal with customer inertia?",
+          "options": [
+            "By finding the right niche and identifying early adopters",
+            "By increasing advertising spend",
+            "By lowering the price until customers switch",
+            "By adding more features to the product"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Musthafa P.C., founder of iD Fresh Food, introduced which key innovation into his batter business?",
+          "options": [
+            "An imported packaging machine",
+            "Software to organise the supply chain",
+            "A franchise model for restaurants",
+            "A new fermentation chemical"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which venture, founded by a GDC entrepreneur, works on biodegradable packaging to replace styrofoam?",
+          "options": [
+            "Neodocs",
+            "CareNX",
+            "Roha Biotech",
+            "InfyU Labs"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "When should a startup pivot, according to Module 2?",
+          "options": [
+            "When the team wants a new challenge",
+            "When a competitor raises funding",
+            "After the first year of operation, as a rule",
+            "When the product is not fulfilling its purpose"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which of these statements about customers is emphasised in Module 2?",
+          "options": [
+            "Customers always know the solution they want",
+            "Customers prefer products with more features",
+            "Customers will not use a product even for free if there is no need",
+            "Customers care most about the technology used"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Steve Blank's quotation used in the course states that customer discovery:",
+          "options": [
+            "Translates the founder's mission into reality",
+            "Replaces the need for a business model",
+            "Is only required for consumer products",
+            "Guarantees a first round of funding"
+          ],
+          "answer": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "questions": [
+        {
+          "text": "In the 7 Concerns of Innovation, which concern refers to the resolve to solve a problem?",
+          "options": [
+            "The Cause",
+            "The Check",
+            "The Context",
+            "The Connection"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Arriving at design insights, such as realising that users want the convenience of cooking from indoors, corresponds to which of the 7 C's?",
+          "options": [
+            "The Check",
+            "The Comprehension",
+            "The Crafting",
+            "The Conception"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Creating a list of key checks that becomes the product brief corresponds to:",
+          "options": [
+            "The Crafting",
+            "The Connection",
+            "The Check",
+            "The Cause"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "The Vein Tracer developed at IDC IIT Bombay works on which principle?",
+          "options": [
+            "Ultrasound imaging",
+            "Near-infrared spectroscopy",
+            "Magnetic resonance",
+            "X-ray fluoroscopy"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Why was the India Post letterbox redesigned?",
+          "options": [
+            "People mistook the existing design for a dustbin",
+            "It was too expensive to manufacture",
+            "It was too small for parcels",
+            "It could not be mounted on walls"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "A prior art search is carried out mainly to establish:",
+          "options": [
+            "The market size for the product",
+            "Novelty and non-obviousness of the invention",
+            "The willingness of customers to pay",
+            "The manufacturing cost of the product"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "According to Dr. Rupesh Ghyar, what is the ideal minimum size of a startup team?",
+          "options": [
+            "At least four members",
+            "At least eight members",
+            "Two members",
+            "Three members"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "A well-written need statement is made up of which two elements?",
+          "options": [
+            "A vision and a mission",
+            "A budget and a timeline",
+            "A functional requirement and a user requirement",
+            "A problem and a proposed solution"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Which of the following statements about regulatory barriers is correct?",
+          "options": [
+            "They apply only to software products",
+            "They are internal company rules about product quality",
+            "They replace the need for product testing",
+            "They are standards and compliances that protect public health and can deter new entrants"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "The advice 'it is not about what stream you are from, it is what hat you are going to wear in the team' emphasises:",
+          "options": [
+            "Choosing teammates with identical backgrounds",
+            "Letting the most senior member decide everything",
+            "Taking a defined role and lowering your ego within a diverse team",
+            "Hiring only from one discipline"
+          ],
+          "answer": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "questions": [
+        {
+          "text": "Who is described in Module 4 as a 'visionary customer'?",
+          "options": [
+            "A customer with the largest purchasing budget",
+            "An industry analyst who forecasts trends",
+            "A customer whose need is so sharp that they try to solve the problem themselves",
+            "A customer who buys in bulk at a discount"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "In the toddler-feeding example used in the course, who is the customer and who is the user?",
+          "options": [
+            "Both are the toddler",
+            "Both are the parent",
+            "The customer is the parent and the user is the toddler",
+            "The customer is the toddler and the user is the parent"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Why does the course advise focusing on a single persona at the start?",
+          "options": [
+            "Because regulators require one target group",
+            "Because you cannot convince everyone at the beginning",
+            "Because manufacturing allows only one variant",
+            "Because investors fund only niche products"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which statement reflects the course's advice on presenting an idea to customers?",
+          "options": [
+            "Focus on the problem, not on the solution technology",
+            "Describe the patents filed so far",
+            "Lead with the technical specification of the product",
+            "Begin with the price and discount structure"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Prof. Love Sarin advises founders to start with:",
+          "options": [
+            "Writing the business plan rather than talking to users",
+            "Securing investors rather than customers",
+            "Filing a patent rather than prototyping",
+            "Building a good team rather than starting with the idea"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "In the solar oven case study, which channels were identified for reaching rural customers?",
+          "options": [
+            "Government renewable energy schemes",
+            "Krishi Vigyan Kendras",
+            "Institutes and NGOs",
+            "All of the above"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "The solar cooker case claims savings of roughly how much of a household's LPG expense?",
+          "options": [
+            "80-90%",
+            "40-50%",
+            "15-20%",
+            "5-10%"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which statement about value proposition is made in Module 4?",
+          "options": [
+            "Value proposition matters only for luxury products",
+            "Different users have different motivations, so value is not always speed, cost or good design",
+            "A good design always justifies a higher price",
+            "Value is always about being cheaper and faster"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Why does the course stress understanding the entire customer journey?",
+          "options": [
+            "To estimate the manufacturing cost",
+            "To select the right suppliers",
+            "To decide the legal structure of the company",
+            "To know where the design should intervene"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "When a product has multiple personas, Module 4 warns founders not to:",
+          "options": [
+            "Solve one group's problem using another group's data",
+            "Charge different prices to different groups",
+            "Interview more than one group",
+            "Build more than one prototype"
+          ],
+          "answer": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "questions": [
+        {
+          "text": "In the R.E.INV.ENT model, the academia side produces _____ while the society side produces _____.",
+          "options": [
+            "Products; knowledge",
+            "Knowledge; products",
+            "Patents; papers",
+            "Papers; prototypes"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "What is the correct order of the four Valleys of Death?",
+          "options": [
+            "Invention, Ideation, Innovation, Impaction",
+            "Ideation, Invention, Innovation, Impaction",
+            "Impaction, Innovation, Invention, Ideation",
+            "Ideation, Innovation, Invention, Impaction"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Crossing the Impaction valley, which involves business plans, mass production and distribution, is associated with funding of roughly:",
+          "options": [
+            "₹50,00,000",
+            "₹50,000",
+            "₹5,00,000",
+            "₹5,00,00,000"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Implants and pacemakers belong to which medical device risk class?",
+          "options": [
+            "Class III",
+            "Class IV",
+            "Class I",
+            "Class II"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "In the 4 D's of medical device innovation, which phase is owned by the doctor?",
+          "options": [
+            "Deliver",
+            "Develop",
+            "Deploy",
+            "Define"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Human clinical trials of a medical device are conducted to establish:",
+          "options": [
+            "Manufacturability and cost",
+            "Patentability and novelty",
+            "Safety, efficacy and accuracy",
+            "Market size and pricing"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Which of the following is NOT one of the four circles of the feasibility test?",
+          "options": [
+            "Committed team",
+            "Significant local need",
+            "Guaranteed government subsidy",
+            "Value proposition offering 5-10 times the benefit"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "In domain familiarisation, pathophysiology refers to:",
+          "options": [
+            "The regulatory classification of a device",
+            "The normal functioning of an organ",
+            "The surgical procedure used in treatment",
+            "The disease state, including causes and symptoms"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Concept generation in the medical device process relies on divergent thinking in order to:",
+          "options": [
+            "Break the creative thinking barrier before converging on a solution",
+            "Reduce the number of ideas as quickly as possible",
+            "Validate the final design with regulators",
+            "Estimate the cost of manufacturing"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Functional requirements, according to Module 5, should be framed as:",
+          "options": [
+            "Whatever competitors already offer",
+            "As many features as the technology allows",
+            "Whatever the investor asks for",
+            "Need to have, not nice to have"
+          ],
+          "answer": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "questions": [
+        {
+          "text": "According to the enterprise UX module, what do enterprise customers look for in a design partner?",
+          "options": [
+            "Proximity to their head office",
+            "The largest possible team",
+            "Low price above everything else",
+            "Trust, quality, speed and transparency"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "A good design brief, as defined by Shilpi Kumar, contains:",
+          "options": [
+            "A detailed bill of materials and a production schedule",
+            "A list of competitors and their prices",
+            "The founder's vision statement alone",
+            "The pain points of the user, the overall user journey, and how the solution fits the user's ecosystem"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Design thinking balances three lenses. Which trio is correct?",
+          "options": [
+            "Form, function and finish",
+            "Business viability, human desirability and technical feasibility",
+            "Cost, speed and quality",
+            "Research, design and marketing"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "In the WestJet case study, migrating the customer-care portal produced which measurable outcome?",
+          "options": [
+            "Ticket closure time reduced by 80%",
+            "Staff headcount halved",
+            "Revenue doubled within a year",
+            "Customer base tripled"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "What does the module say about framing a problem?",
+          "options": [
+            "Frame the problem around the solution you already have",
+            "Frame the problem to match available technology",
+            "Frame the problem so it can be solved within the budget",
+            "Frame the problem as a problem, not as a way to validate your own idea"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which questions are described as 'DO' or 'WHY' questions that researchers should avoid asking users?",
+          "options": [
+            "Questions about the user's daily routine",
+            "Questions about what the user is currently using",
+            "Questions about the user's environment",
+            "Questions that put users on the defensive or ask them to justify their behaviour"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which statement describes the enterprise software world discussed in Module 6?",
+          "options": [
+            "Short product cycles with casual users",
+            "Simple products with no legacy constraints",
+            "Consumer apps sold directly to individuals",
+            "Large-footprint software, serious users, legacy products and reluctance to shift"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "What benefit does a retainer engagement give a design studio and its client?",
+          "options": [
+            "A fixed one-time payment with no follow-up",
+            "A dedicated team, a deep dive into the core problem, and transparency of resources, time and cost",
+            "The ability to avoid user research",
+            "Exclusive ownership of the client's IP"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "The 'squiggly line of innovation' is used to illustrate that:",
+          "options": [
+            "The innovation process is messy and iterative rather than linear",
+            "Only large teams can innovate",
+            "Innovation always follows a fixed sequence of steps",
+            "Design can be completed in a single sprint"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which approach does the module recommend to move past jugaad or copy-paste solutions?",
+          "options": [
+            "Reduce the price until customers switch",
+            "Change the business aspiration, pursue a disruptive idea, reframe the problem and identify the capability gap",
+            "Increase the advertising budget",
+            "Copy the market leader more carefully"
+          ],
+          "answer": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "questions": [
+        {
+          "text": "A business model in which all parties benefit and there are no losers is called:",
+          "options": [
+            "Win-win",
+            "Perceived shortage",
+            "Double whammy",
+            "Fractional ownership"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Jawed Habib's Hair Xpress, where students pay to learn while customers pay a reduced fee, is an example of which model?",
+          "options": [
+            "Fractional ownership",
+            "Win-win",
+            "Double whammy",
+            "Perceived shortage"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Xiaomi's online-only flash sales and Zara's ninety-day fashion cycle are examples of:",
+          "options": [
+            "Perceived shortage",
+            "Double whammy",
+            "Win-win",
+            "Fractional ownership"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "The 'sweet spot' of a business model lies at the intersection of:",
+          "options": [
+            "Patents, prototypes and production",
+            "Price, promotion and place",
+            "User needs, operational or technological possibilities, and business goals",
+            "Investors, mentors and incubators"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Which of the following is one of the six questions in the 5H-1W business model innovation framework?",
+          "options": [
+            "When should we hire a CFO?",
+            "Where should the office be located?",
+            "How do we source our man-power?",
+            "How many patents should we file?"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "What is the correct sequence recommended in Module 7?",
+          "options": [
+            "Six questions, then a Lean Canvas per customer segment, then one Business Model Canvas",
+            "Business Model Canvas first, then the six questions",
+            "Business Model Canvas, then Lean Canvas, then the six questions",
+            "Lean Canvas, then the six questions, then the Business Model Canvas"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "How many Lean Canvases should a startup prepare?",
+          "options": [
+            "One per founder",
+            "One per product feature",
+            "One per financial year",
+            "One per customer segment"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "An early adopter is defined in Module 7 as a customer who has:",
+          "options": [
+            "A dire need and a willingness to experiment",
+            "The largest budget in the segment",
+            "A long-standing relationship with the brand",
+            "Technical training in the product domain"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "The three ways of thinking about channels are delivery, marketing and:",
+          "options": [
+            "Feedback",
+            "Logistics",
+            "Payment",
+            "Packaging"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Synectics, as explained in the Humanizing Technology session, is best described as:",
+          "options": [
+            "Ranking ideas by expected revenue",
+            "Taking direct and indirect analogies from other areas to generate new ideas",
+            "Breaking a product into modular components",
+            "Testing a prototype with users"
+          ],
+          "answer": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "questions": [
+        {
+          "text": "SINE, the incubator at IIT Bombay, sustains itself financially through:",
+          "options": [
+            "Donations from alumni only",
+            "Revenue and equity sharing by its incubatees",
+            "Government grants alone",
+            "Student tuition fees"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "What kind of startups does SINE deliberately avoid incubating?",
+          "options": [
+            "Hardware startups",
+            "Healthcare startups",
+            "Aggregator platforms and technologies with low entry barriers",
+            "IP-driven deep-tech startups"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "By default, intellectual property developed in an academic institution is owned by:",
+          "options": [
+            "The host institute",
+            "The student inventor",
+            "The research guide",
+            "The funding agency"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which source of funding is described as the first risk capital in the country, supporting high-risk innovation without expecting a return?",
+          "options": [
+            "Government",
+            "Family businesses",
+            "Venture capital funds",
+            "Angel investors"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which investor type cares about strategic or synergistic relevance rather than market sizing?",
+          "options": [
+            "Corporate strategic capital",
+            "Venture capital funds",
+            "Commercial banks",
+            "Angel investors"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "According to the spin-out discussion, what must a founders' agreement define?",
+          "options": [
+            "Commitment of money and work",
+            "Equity sharing and provision for proportional dilution",
+            "Roles and responsibilities",
+            "All of the above"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "The three traits of an entrepreneur listed in Module 8 are an entrepreneurial mindset, perseverance and:",
+          "options": [
+            "Deep technical specialisation",
+            "Charisma in public speaking",
+            "Flexibility, including the willingness to pivot",
+            "A large professional network"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Which is the correct order of the innovation adoption curve?",
+          "options": [
+            "Innovators, early majority, early adopters, late majority, laggards",
+            "Early adopters, innovators, early majority, laggards, late majority",
+            "Innovators, early adopters, early majority, late majority, laggards",
+            "Innovators, early adopters, late majority, early majority, laggards"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "In a Lean Canvas, the 'unfair advantage' or competitive landscape refers to:",
+          "options": [
+            "The current discount offered against competitors",
+            "The number of employees in the company",
+            "Advantages that cannot easily be copied or bought, such as IP, network effects or exclusive contracts",
+            "The size of the marketing budget"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Atomberg built its position in the fan market on which three levers?",
+          "options": [
+            "Imported components, licensing and franchising",
+            "Low price, mass advertising and retail discounts",
+            "Innovation, design and a digital-first distribution strategy",
+            "Government subsidies, exports and bulk orders"
+          ],
+          "answer": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "questions": [
+        {
+          "text": "In the Value Net framework discussed with the Nintendo case, which four players surround a business?",
+          "options": [
+            "Customers, suppliers, substitutes and complements",
+            "Founders, employees, investors and mentors",
+            "Price, place, promotion and product",
+            "Patents, products, processes and people"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "In the Nintendo case, companies such as EA that make games for the console are best described as:",
+          "options": [
+            "Suppliers",
+            "Customers",
+            "Substitutes",
+            "Complementors"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which pair correctly describes the two paths an idea can take, as presented in Module 9?",
+          "options": [
+            "Commercialisation, where the idea is transferred to industry, and entrepreneurship, where you own it yourself",
+            "Incubation and acceleration",
+            "Patenting and publishing",
+            "Prototyping and production"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "In the IITH entrepreneurship journey, at which stage is the startup formally registered?",
+          "options": [
+            "Pre-incubation",
+            "Incubation",
+            "Accelerator",
+            "Germination"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which IITH incubator focuses on fabless chip design and operates as a virtual incubator?",
+          "options": [
+            "i-TIC",
+            "FabCI",
+            "CfHE",
+            "NICE"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "The Centre for Healthcare Entrepreneurship (CfHE) at IIT Hyderabad is:",
+          "options": [
+            "Privately funded and focused on healthcare",
+            "A joint venture with NMDC focused on mining",
+            "Funded by DST and focused on deep tech",
+            "Funded by MeitY and focused on electronics"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "NIDHI PRAYAS is best described as:",
+          "options": [
+            "A patent filing subsidy scheme",
+            "An export promotion programme",
+            "An accelerator for companies with over ₹10 crore revenue",
+            "A pre-incubation initiative helping young innovators turn ideas into proof of concept and prototypes"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Which of the following startup descriptions would be accepted as having commercial potential, based on the examples given in Module 9?",
+          "options": [
+            "A study of material properties at high temperature",
+            "Catalysis and efficiency increase of some chemical",
+            "A water-triggered point-of-use heating device for trekkers",
+            "An AI-based image processing algorithm"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Dr. Nakul's description of entrepreneurs is that they:",
+          "options": [
+            "Focus mainly on cost reduction",
+            "Look ahead and build creative ways to solve a problem or a need",
+            "Follow established industry playbooks closely",
+            "Prefer to work alone on technical problems"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "In the Dell case study, the company's unique selling proposition was:",
+          "options": [
+            "The lowest component cost in the industry",
+            "The customisation facility offered to buyers",
+            "Ownership of chip manufacturing",
+            "Exclusive retail partnerships"
+          ],
+          "answer": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "questions": [
+        {
+          "text": "The Honey Bee Network gives grassroots innovators three things. Which trio is correct?",
+          "options": [
+            "Patents, publicity and profit",
+            "Training, tools and tenders",
+            "Funding, factory and franchise",
+            "Visibility, voice and velocity"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "The ART of Frugality requires frugality at which three levels?",
+          "options": [
+            "For design, for production and for marketing",
+            "For the customer, for the manufacturer and for the environment",
+            "For the investor, for the founder and for the employee",
+            "For cost, for time and for quality"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Why is the shampoo sachet described as inclusive but not frugal?",
+          "options": [
+            "Because it cannot be manufactured locally",
+            "Because the cost of collecting it back outweighs its affordability",
+            "Because it is too expensive for rural customers",
+            "Because it requires refrigeration"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Dynamite fishing is used in the course as an example of something that is:",
+          "options": [
+            "Sustainable but not frugal",
+            "Neither frugal nor inclusive",
+            "Both frugal and sustainable",
+            "Frugal but not sustainable"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Autopoiesis, as described by Prof. Anil Gupta, refers to:",
+          "options": [
+            "The liberty of a design to improve with usage through regeneration, repair, rejuvenation and bypasses",
+            "The self-funding of a social enterprise",
+            "The automatic renewal of a patent",
+            "The automation of a manufacturing line"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Under the Micro Venture Innovation Fund, a loan converts into a grant when:",
+          "options": [
+            "The innovator repays ahead of schedule",
+            "Sales cross a defined target",
+            "The innovator tried and failed",
+            "The product receives a patent"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "According to the Proof of Concept session, the first proof of concept is best described as:",
+          "options": [
+            "A physical sketch of the concept in your mind",
+            "A finished, beautiful model for customers",
+            "A detailed engineering drawing set",
+            "A certified production sample"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which set correctly lists the three broad types of prototypes given in Module 10?",
+          "options": [
+            "Idea prototypes, scale prototypes and working prototypes",
+            "Alpha, beta and release prototypes",
+            "Paper, plastic and metal prototypes",
+            "Internal, external and regulatory prototypes"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Clay, plaster of Paris and rubber are used in which category of prototyping method?",
+          "options": [
+            "Laser cutting",
+            "Additive methods",
+            "Subtractive methods",
+            "Forming methods"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Why does the spoon design case study begin with brainstorming rather than user study or web search?",
+          "options": [
+            "Because the budget did not permit field work",
+            "To break mental blocks before existing solutions constrain the ideas",
+            "Because user studies are not useful for small products",
+            "Because the brief did not allow research"
+          ],
+          "answer": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "questions": [
+        {
+          "text": "In the Value Proposition Canvas used in the pitch reviews, which three elements sit on the customer side?",
+          "options": [
+            "Customer jobs, gain creators and pain relievers",
+            "Product, gains and pains",
+            "Channels, revenue and costs",
+            "Segments, personas and journeys"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "The KPI framework used in the student pitches follows which sequence?",
+          "options": [
+            "See, think, do, care",
+            "Attract, convert, close, delight",
+            "Plan, build, test, ship",
+            "Reach, revenue, retention, referral"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "In the See-Think-Do-Care framework, repeat purchase rate is the output KPI of which stage?",
+          "options": [
+            "Care",
+            "See",
+            "Think",
+            "Do"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which sequence describes the pitch structure used across the module?",
+          "options": [
+            "Idea, investor, incorporation, income",
+            "Team, problem, customer, solution, canvases, feedback, pitch",
+            "Pitch, team, product, price, promotion",
+            "Problem, patent, prototype, production, profit"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "When designing assistive products, the course emphasises two outcomes above all. Which pair?",
+          "options": [
+            "Reducing cost and increasing margins",
+            "Maximising features and specifications",
+            "Shortening development time and time to market",
+            "Making users independent and fostering social integration"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Why is user-centred design the preferred approach for products aimed at specially-abled users?",
+          "options": [
+            "Because it avoids the need for regulatory approval",
+            "Because needs vary widely between individuals and must be observed directly",
+            "Because it reduces the number of prototypes needed",
+            "Because it allows the use of cheaper materials"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "A reviewer's advice to 'be clear on who pays for the product' highlights the distinction between:",
+          "options": [
+            "The founder and the investor",
+            "The supplier and the manufacturer",
+            "The customer and the user",
+            "The channel and the market"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Supporting slides in the student pitches included evidence from customer discovery. Which item belongs there?",
+          "options": [
+            "The office lease agreement",
+            "The founders' academic transcripts",
+            "The patent office receipt",
+            "The number of interviews conducted and the questions asked"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "Why should a startup study existing alternatives in its pitch?",
+          "options": [
+            "To justify a larger marketing budget",
+            "To show competitors' funding, advantages and limitations and position its own value",
+            "To satisfy a legal requirement for incorporation",
+            "To copy the market leader's pricing"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Which approach to serving several departments or segments with different needs was suggested by the reviewers?",
+          "options": [
+            "A separate company for each segment",
+            "A single subscription-based platform configurable for each segment",
+            "One premium product priced for the largest segment",
+            "Serving only the segment with the highest margin"
+          ],
+          "answer": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "questions": [
+        {
+          "text": "A reviewer's advice to 'get specific and narrow, choose one or two segments' corresponds to which concept?",
+          "options": [
+            "Mass market penetration",
+            "Entering through a beachhead market",
+            "Horizontal diversification",
+            "Perceived shortage"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "What do investors most want to understand from a pitch, according to the Module 12 reviewers?",
+          "options": [
+            "How large the engineering team is",
+            "How many patents the team has filed",
+            "How they will make money, with one or two concrete examples",
+            "Which incubator the startup belongs to"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "A reviewer told one team to choose between two problems and take 'the one which has larger attraction with the audience'. This advice is about:",
+          "options": [
+            "Selecting the problem with the least competition",
+            "Picking the problem that suits the existing prototype",
+            "Focusing on the larger business opportunity rather than the founder's preference",
+            "Choosing the cheaper problem to solve"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "'Gamification is not the right answer, focus on how you will solve it' is feedback warning teams against:",
+          "options": [
+            "Building a prototype too early",
+            "Leading with a mechanism instead of the value delivered",
+            "Using digital products at all",
+            "Targeting young users"
+          ],
+          "answer": [
+            1
+          ]
+        },
+        {
+          "text": "Why did a reviewer ask a team to validate a proposed product range with consumer research?",
+          "options": [
+            "Because the manufacturing partner demanded it",
+            "Because research is required before filing a patent",
+            "Because investors fund only researched products",
+            "Because the range was built on assumptions that had not been tested with customers"
+          ],
+          "answer": [
+            3
+          ]
+        },
+        {
+          "text": "When pitching, the solution slide should primarily make clear:",
+          "options": [
+            "How the product addresses the specific problem identified",
+            "How many iterations the prototype went through",
+            "The academic background of each founder",
+            "Which technologies were considered and rejected"
+          ],
+          "answer": [
+            0
+          ]
+        },
+        {
+          "text": "Which combination best describes a lean marketing strategy suited to an early-stage startup?",
+          "options": [
+            "Unfocused experimentation across every platform",
+            "Expensive mass-media campaigns for maximum reach",
+            "Innovative, low-cost and targeted at a defined segment",
+            "Short aggressive discounting across all channels"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Modular and customisable product design, as seen in the Atomberg and student pitch examples, mainly helps a business by:",
+          "options": [
+            "Eliminating after-sales service",
+            "Guaranteeing a lower unit cost in small volumes",
+            "Serving varied customer needs efficiently from a common platform",
+            "Reducing the need for customer research"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Networking is most effective for an early-stage founder when it is used to:",
+          "options": [
+            "Stay within a circle of close friends",
+            "Replace formal customer discovery",
+            "Build targeted connections that reach customers, mentors and investors",
+            "Collect as many contacts as possible regardless of relevance"
+          ],
+          "answer": [
+            2
+          ]
+        },
+        {
+          "text": "Identifying the problem clearly and early in the design process helps a business mainly because it:",
+          "options": [
+            "Provides a well-defined direction for development",
+            "Removes the need for prototyping",
+            "Fixes the specification so it never needs revisiting",
+            "Guarantees investor interest"
+          ],
+          "answer": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

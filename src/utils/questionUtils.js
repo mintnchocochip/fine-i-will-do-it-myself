@@ -1,36 +1,35 @@
-import { weeks } from '../data/questions.js'
-import extraQuestionsMap from '../data/extraQuestions.json'
+import { getActiveCourse } from '../data/courses.js'
+import { getSeenQuestionIds, getWrongQuestionIds } from './cookies.js'
 
 export function getWeeks() {
-  return weeks.map(w => ({ id: w.id, label: w.label, topic: w.topic }))
+  return getActiveCourse().weeks.map(w => ({ id: w.id, label: w.label, topic: w.topic }))
 }
 
 export function getQuestionsByWeeks(weekIds, useExtra = false) {
+  const { weeks, extraMap } = getActiveCourse()
   let selected = weeks
     .filter(w => weekIds.includes(w.id))
     .flatMap(w => w.questions.map(q => ({ ...q, weekId: w.id, weekLabel: w.label })))
-    
-  if (useExtra) {
-     weekIds.forEach(wid => {
-        const extra = extraQuestionsMap[wid] || []
-        const label = weeks.find(w => w.id === wid)?.label || wid
-        const mapped = extra.map(q => ({ ...q, weekId: wid, weekLabel: label }))
-        selected = selected.concat(mapped)
-     })
-  }
 
+  if (useExtra) {
+    weekIds.forEach(wid => {
+      const extra = extraMap[wid] || []
+      const label = weeks.find(w => w.id === wid)?.label || wid
+      selected = selected.concat(extra.map(q => ({ ...q, weekId: wid, weekLabel: label })))
+    })
+  }
   return selected
 }
 
 export function getAllQuestions(useExtra = false) {
+  const { weeks, extraMap } = getActiveCourse()
   let all = weeks.flatMap(w => w.questions.map(q => ({ ...q, weekId: w.id, weekLabel: w.label })))
-  
+
   if (useExtra) {
-    Object.keys(extraQuestionsMap).forEach(wid => {
-       const extra = extraQuestionsMap[wid] || []
-       const label = weeks.find(w => w.id === wid)?.label || wid
-       const mapped = extra.map(q => ({ ...q, weekId: wid, weekLabel: label }))
-       all = all.concat(mapped)
+    weeks.forEach(({ id: wid }) => {
+      const extra = extraMap[wid] || []
+      const label = weeks.find(w => w.id === wid)?.label || wid
+      all = all.concat(extra.map(q => ({ ...q, weekId: wid, weekLabel: label })))
     })
   }
   return all
@@ -42,12 +41,35 @@ export function getRandomQuestions(count, useExtra = false) {
   return shuffled.slice(0, Math.min(count, all.length))
 }
 
+export function getUnseenQuestions(useExtra = false) {
+  const seen = new Set(getSeenQuestionIds())
+  return getAllQuestions(useExtra).filter(q => !seen.has(q.id))
+}
+
+export function getWrongQuestions(useExtra = false) {
+  const wrongIds = new Set(getWrongQuestionIds())
+  if (wrongIds.size === 0) return []
+  return getAllQuestions(useExtra).filter(q => wrongIds.has(q.id))
+}
+
+// Renders a stored answer ('C' or 'A,C') as "C. option text", multi answers joined.
+export function formatAnswer(options, answer) {
+  if (!answer) return ''
+  return answer
+    .split(',')
+    .map(l => `${l}. ${options.find(o => o.letter === l)?.text ?? ''}`)
+    .join('  |  ')
+}
+
+// 'week3' and 'ie-week3' both read as 'Week 3'.
+export function formatWeekId(weekId) {
+  return weekId.replace(/^.*week/, 'Week ')
+}
+
 export function shuffle(arr) {
   return [...arr].sort(() => Math.random() - 0.5)
 }
 
-// Build flat results array from user answers map { questionId: letter }
-// and the ordered questions array
 export function buildResults(questions, answers) {
   return questions.map(q => ({
     weekId: q.weekId,
@@ -59,10 +81,10 @@ export function buildResults(questions, answers) {
     userAnswer: answers[q.id] || null,
     isCorrect: answers[q.id] === q.answer,
     feedback: q.feedback,
+    isNew: q._isNew || false,
   }))
 }
 
-// Group results by week, returns array sorted by accuracy asc
 export function groupResultsByWeek(results) {
   const map = {}
   results.forEach(r => {

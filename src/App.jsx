@@ -1,5 +1,6 @@
 import { useState, useEffect, createContext, useContext } from 'react'
 import { getUser, saveUser, clearUser } from './utils/cookies.js'
+import { courses, getActiveCourseId, setActiveCourseId } from './data/courses.js'
 import Login from './components/Login.jsx'
 import Header from './components/Header.jsx'
 import Home from './pages/Home.jsx'
@@ -15,6 +16,7 @@ export default function App() {
   const [page, setPage] = useState('home')
   const [pageProps, setPageProps] = useState({})
   const [useExtra, setUseExtra] = useState(false)
+  const [courseId, setCourseId] = useState(getActiveCourseId)
   const [theme, setTheme] = useState(() => {
     return localStorage.getItem('theme') || 'light'
   })
@@ -59,7 +61,20 @@ export default function App() {
     setUseExtra(e => !e)
   }
 
-  const ctx = { user, navigate, pageProps, theme, toggleTheme, useExtra, toggleExtra }
+  // Switching course changes the whole question pool, so drop any in-progress session.
+  function changeCourse(id) {
+    setActiveCourseId(id)
+    setCourseId(id)
+    navigate('home')
+  }
+
+  const course = courses.find(c => c.id === courseId) || courses[0]
+
+  const ctx = {
+    user, navigate, pageProps, theme, toggleTheme,
+    useExtra: useExtra && course.extras, toggleExtra,
+    course, courses, changeCourse,
+  }
 
   if (!user) {
     return (

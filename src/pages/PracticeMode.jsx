@@ -4,25 +4,34 @@ import { useApp } from '../App.jsx'
 import WeekSelector from '../components/WeekSelector.jsx'
 import QuestionCard from '../components/QuestionCard.jsx'
 import Summary from '../components/Summary.jsx'
-import { getQuestionsByWeeks, buildResults } from '../utils/questionUtils.js'
-import { saveSessionResults } from '../utils/cookies.js'
+import { getQuestionsByWeeks, buildResults, getWrongQuestions, shuffle } from '../utils/questionUtils.js'
+import { saveSessionResults, markQuestionsSeen, trackWrongAnswers } from '../utils/cookies.js'
 
 export default function PracticeMode() {
   const { navigate, pageProps, useExtra } = useApp()
   const [selectedWeeks, setSelectedWeeks] = useState(pageProps?.preselect || [])
+  const [wrongMode, setWrongMode] = useState(pageProps?.wrongMode || false)
   const [questions, setQuestions] = useState(null)
   const [answers, setAnswers] = useState({})
   const [submitted, setSubmitted] = useState(false)
   const [results, setResults] = useState(null)
 
-  // Apply preselect from navigation (e.g., "Practice Weak Weeks" from Summary)
+  const wrongCount = getWrongQuestions(useExtra).length
+
   useEffect(() => {
     if (pageProps?.preselect) setSelectedWeeks(pageProps.preselect)
+    if (pageProps?.wrongMode) setWrongMode(true)
   }, [pageProps])
 
   function start() {
-    if (!selectedWeeks.length) return
-    const qs = getQuestionsByWeeks(selectedWeeks, useExtra)
+    let qs
+    if (wrongMode) {
+      qs = shuffle(getWrongQuestions(useExtra))
+    } else {
+      if (!selectedWeeks.length) return
+      qs = getQuestionsByWeeks(selectedWeeks, useExtra)
+    }
+    markQuestionsSeen(qs.map(q => q.id))
     setQuestions(qs)
     setAnswers({})
     setSubmitted(false)
@@ -37,37 +46,79 @@ export default function PracticeMode() {
   function handleSubmit() {
     const r = buildResults(questions, answers)
     saveSessionResults(r.map(x => ({ weekId: x.weekId, isCorrect: x.isCorrect })))
+    trackWrongAnswers(r)
     setResults(r)
     setSubmitted(true)
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
-  function retry() {
-    start()
-  }
+  function retry() { start() }
 
   const answeredCount = Object.keys(answers).length
 
   // ── Config ──
   if (!questions) {
+    const canStart = wrongMode ? wrongCount > 0 : selectedWeeks.length > 0
+
     return (
       <div className="page fade-in">
         <div className="mode-header">
           <button className="btn btn-ghost btn-sm" onClick={() => navigate('home')}>← Back</button>
           <h1><Pencil className="inline mr-2" size={28}/> Practice Mode</h1>
-          <p>Select one or more weeks. Answer all questions, then submit to see your results.</p>
+          <p>Select one or more weeks, or drill your previously wrong answers.</p>
         </div>
-        <div className="config-card">
-          <h3>Choose weeks to practise</h3>
-          <WeekSelector selected={selectedWeeks} onChange={setSelectedWeeks} multi={true} />
+
+        {/* Wrong questions card */}
+        <div
+          className={`config-card wrong-mode-card ${wrongMode ? 'wrong-mode-active' : ''}`}
+          style={{ marginBottom: 16, cursor: 'pointer' }}
+          onClick={() => { setWrongMode(true); setSelectedWeeks([]) }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div>
+              <div style={{ fontWeight: 600, fontSize: 15, marginBottom: 4 }}>
+                Drill wrong answers
+                {wrongCount > 0 && (
+                  <span className="wrong-count-badge">{wrongCount}</span>
+                )}
+              </div>
+              <div style={{ fontSize: 13, color: 'var(--text-dim)' }}>
+                {wrongCount > 0
+                  ? `Practice the ${wrongCount} question${wrongCount !== 1 ? 's' : ''} you've previously answered incorrectly`
+                  : 'No wrong answers recorded yet — attempt a quiz first'}
+              </div>
+            </div>
+            <div className={`mode-radio ${wrongMode ? 'selected' : ''}`} />
+          </div>
         </div>
+
+        {/* Week selector card */}
+        <div
+          className={`config-card ${!wrongMode ? 'week-mode-active' : ''}`}
+          style={{ cursor: 'pointer' }}
+          onClick={() => setWrongMode(false)}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 16 }}>
+            <h3 style={{ margin: 0 }}>Choose weeks to practise</h3>
+            <div className={`mode-radio ${!wrongMode ? 'selected' : ''}`} />
+          </div>
+          {!wrongMode && (
+            <WeekSelector selected={selectedWeeks} onChange={setSelectedWeeks} multi={true} />
+          )}
+          {wrongMode && (
+            <div style={{ color: 'var(--text-dim)', fontSize: 13 }}>Click to switch to week selection</div>
+          )}
+        </div>
+
         <div className="action-row-end">
           <button
             className="btn btn-primary btn-lg"
             onClick={start}
-            disabled={!selectedWeeks.length}
+            disabled={!canStart}
           >
-            Start Practice ({selectedWeeks.length} week{selectedWeeks.length !== 1 ? 's' : ''}) →
+            {wrongMode
+              ? `Drill Wrong Answers (${wrongCount}) →`
+              : `Start Practice (${selectedWeeks.length} week${selectedWeeks.length !== 1 ? 's' : ''}) →`}
           </button>
         </div>
       </div>
@@ -83,9 +134,12 @@ export default function PracticeMode() {
   return (
     <div className="page fade-in">
       <div className="mode-header">
-        <button className="btn btn-ghost btn-sm" onClick={() => setQuestions(null)}>← Change weeks</button>
+        <button className="btn btn-ghost btn-sm" onClick={() => setQuestions(null)}>← Change</button>
         <h1><Pencil className="inline mr-2" size={28}/> Practice Mode</h1>
-        <p>{questions.length} questions · Answer all, then submit</p>
+        <p>
+          {questions.length} questions ·{' '}
+          {wrongMode ? 'Drilling your wrong answers' : 'Answer all, then submit'}
+        </p>
       </div>
 
       <div className="questions-list">

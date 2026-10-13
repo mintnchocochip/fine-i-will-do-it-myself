@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useApp } from '../App.jsx'
-import { groupResultsByWeek } from '../utils/questionUtils.js'
+import { groupResultsByWeek, getWeeks, formatAnswer, formatWeekId } from '../utils/questionUtils.js'
 import { getScores } from '../utils/cookies.js'
 import { Trophy, PartyPopper, ThumbsUp, BookOpen, AlertTriangle } from 'lucide-react'
 
@@ -39,13 +39,16 @@ function ScoreCircle({ pct }) {
   )
 }
 
-export default function Summary({ results, mode, onRetry, onHome }) {
+export default function Summary({ results, mode, onRetry, newCount }) {
   const { navigate } = useApp()
   const correct = results.filter(r => r.isCorrect).length
   const total = results.length
   const pct = Math.round((correct / total) * 100)
   const byWeek = groupResultsByWeek(results)
   const historicalScores = getScores()
+
+  const outOf100 = pct
+  const outOf75 = Math.round((correct / total) * 75)
 
   const message =
     pct === 100 ? <div className="flex items-center justify-center gap-2"><Trophy size={28}/> Perfect score!</div> :
@@ -59,14 +62,18 @@ export default function Summary({ results, mode, onRetry, onHome }) {
 
   const weakWeeks = byWeek.filter(w => w.accuracy < 0.7)
 
-  const historicalEntries = Object.entries(historicalScores).map(([weekId, d]) => ({
-    weekId,
-    weekLabel: weekId.replace('week', 'Week '),
-    accuracy: d.correct / d.total,
-    attempts: d.attempts,
-    correct: d.correct,
-    total: d.total,
-  }))
+  // Scores span every course; the table only covers the one being practised.
+  const courseWeekIds = getWeeks().map(w => w.id)
+  const historicalEntries = Object.entries(historicalScores)
+    .filter(([weekId]) => courseWeekIds.includes(weekId))
+    .map(([weekId, d]) => ({
+      weekId,
+      weekLabel: formatWeekId(weekId),
+      accuracy: d.correct / d.total,
+      attempts: d.attempts,
+      correct: d.correct,
+      total: d.total,
+    }))
 
   return (
     <div className="page fade-in">
@@ -74,6 +81,30 @@ export default function Summary({ results, mode, onRetry, onHome }) {
         <ScoreCircle pct={pct} />
         <h2>{message}</h2>
         <p>{correct} / {total} correct answers</p>
+
+        {mode === 'exam' && (
+          <div className="exam-score-row">
+            <div className="exam-score-chip">
+              <span className="exam-score-num" style={{ color: pct >= 80 ? 'var(--green)' : pct >= 60 ? 'var(--yellow)' : 'var(--red)' }}>
+                {outOf100}
+              </span>
+              <span className="exam-score-denom">/ 100</span>
+              <span className="exam-score-label">marks</span>
+            </div>
+            <div className="exam-score-divider">→</div>
+            <div className="exam-score-chip">
+              <span className="exam-score-num" style={{ color: outOf75 >= 60 ? 'var(--green)' : outOf75 >= 45 ? 'var(--yellow)' : 'var(--red)' }}>
+                {outOf75}
+              </span>
+              <span className="exam-score-denom">/ 75</span>
+              <span className="exam-score-label">marks</span>
+            </div>
+          </div>
+        )}
+
+        {newCount > 0 && (
+          <div className="new-badge-summary">{newCount} new question{newCount !== 1 ? 's' : ''} included</div>
+        )}
       </div>
 
       {/* Week breakdown */}
@@ -116,22 +147,30 @@ export default function Summary({ results, mode, onRetry, onHome }) {
 
       {/* Historical performance */}
       {historicalEntries.length > 0 && (
-        <div className="card" style={{ marginBottom: 16 }}>
+        <div className="card" style={{ marginBottom: 16, overflowX: 'auto' }}>
           <div className="section-title">All-Time Performance</div>
-          <div className="history-grid">
-            {historicalEntries.map(w => (
-              <div key={w.weekId} className="history-card">
-                <div className="history-card-label">{w.weekLabel}</div>
-                <div
-                  className="history-card-pct"
-                  style={{ color: barColor(w.accuracy) }}
-                >
-                  {Math.round(w.accuracy * 100)}%
-                </div>
-                <div className="history-card-sub">{w.correct}/{w.total} · {w.attempts} attempt{w.attempts > 1 ? 's' : ''}</div>
-              </div>
-            ))}
-          </div>
+          <table className="performance-table">
+            <thead>
+              <tr>
+                <th>Week</th>
+                <th>Score</th>
+                <th>Correct</th>
+                <th>Attempts</th>
+              </tr>
+            </thead>
+            <tbody>
+              {historicalEntries.map(w => (
+                <tr key={w.weekId}>
+                  <td className="font-medium">{w.weekLabel}</td>
+                  <td style={{ color: barColor(w.accuracy), fontWeight: 600 }}>
+                    {Math.round(w.accuracy * 100)}%
+                  </td>
+                  <td className="text-muted">{w.correct} / {w.total}</td>
+                  <td className="text-muted">{w.attempts}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
       )}
 
@@ -142,12 +181,15 @@ export default function Summary({ results, mode, onRetry, onHome }) {
           <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
             {results.filter(r => !r.isCorrect).map(r => (
               <div key={r.questionId} style={{ padding: '12px 0', borderBottom: '1px solid var(--border)' }}>
-                <div style={{ fontSize: 14, fontWeight: 600, marginBottom: 6 }}>{r.questionText}</div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 6 }}>
+                  {r.isNew && <span className="new-badge-inline">New</span>}
+                  <div style={{ fontSize: 14, fontWeight: 600 }}>{r.questionText}</div>
+                </div>
                 <div style={{ fontSize: 13, color: 'var(--red)' }}>
-                  Your answer: {r.userAnswer ? `${r.userAnswer}. ${r.options.find(o => o.letter === r.userAnswer)?.text}` : 'Not answered'}
+                  Your answer: {r.userAnswer ? formatAnswer(r.options, r.userAnswer) : 'Not answered'}
                 </div>
                 <div style={{ fontSize: 13, color: 'var(--green)', marginTop: 2 }}>
-                  Correct: {r.correctAnswer}. {r.options.find(o => o.letter === r.correctAnswer)?.text}
+                  Correct: {formatAnswer(r.options, r.correctAnswer)}
                 </div>
                 {r.feedback && (
                   <div style={{ fontSize: 12, color: 'var(--text-dim)', marginTop: 4 }}>{r.feedback}</div>
