@@ -18,7 +18,7 @@ export default function Login({ onLogin }) {
     <div className="login-screen fade-in">
       <div className="login-card">
         <div className="login-logo"><Globe size={32} /></div>
-        <h1>Education for Sustainable Development</h1>
+        <h1>Swotter</h1>
         <p>Practise your course assignments, week by week</p>
 
         <form className="demo-form" onSubmit={handleLogin} style={{ marginTop: 24 }}>
@@ -40,6 +40,10 @@ export default function Login({ onLogin }) {
           </button>
         </form>
       </div>
+
+      <a className="made-by" href="https://github.com/mintnchocochip" target="_blank" rel="noreferrer">
+        made by mintnchocochip
+      </a>
     </div>
   )
 }

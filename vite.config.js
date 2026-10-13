@@ -10,9 +10,9 @@ export default defineConfig({
       devOptions: { enabled: true },
       includeAssets: ['icon-192.svg', 'icon-512.svg'],
       manifest: {
-        name: 'EduSus',
-        short_name: 'EduSus',
-        description: 'Practise SDG knowledge — works fully offline on mobile',
+        name: 'Swotter',
+        short_name: 'Swotter',
+        description: 'Week-by-week quiz practice for your courses — works fully offline on mobile',
         theme_color: '#8EE3B1',
         background_color: '#F3F1ED',
         display: 'standalone',

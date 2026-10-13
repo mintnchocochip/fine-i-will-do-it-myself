@@ -13,7 +13,7 @@ export default function Header({ onLogout }) {
       <div className="header-inner">
         <button className="header-logo btn-ghost" onClick={() => navigate('home')}>
           <div className="header-logo-icon"><Globe size={20} /></div>
-          <span>EduSus</span>
+          <span>Swotter</span>
         </button>
 
         <select

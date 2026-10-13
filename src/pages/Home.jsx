@@ -203,6 +203,10 @@ export default function Home() {
           </div>
         )}
       </div>
+
+      <a className="made-by" href="https://github.com/mintnchocochip" target="_blank" rel="noreferrer">
+        made by mintnchocochip
+      </a>
     </div>
   )
 }
