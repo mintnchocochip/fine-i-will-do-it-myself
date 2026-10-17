@@ -5,12 +5,13 @@ import { weeks as sdgWeeks } from './questions.js'
 import sdgExtra from './extraQuestions.json'
 import ieData from './incubation.json'
 import ieExtra from './incubationExtra.json'
+import ieWhy from './incubationWhy.json'
 
 const LETTERS = 'ABCDEFGH'
 const COURSE_KEY = 'course'
 
 // One question of the NPTEL-style export (options as plain strings, answers as indices) → app shape.
-function mapQuestion(q, id, note) {
+function mapQuestion(q, id, note, why) {
   const answerIdx = [...q.answer].sort((a, b) => a - b)
   const letters = answerIdx.map(idx => LETTERS[idx])
   return {
@@ -19,6 +20,7 @@ function mapQuestion(q, id, note) {
     options: q.options.map((text, oi) => ({ letter: LETTERS[oi], text })),
     answer: letters.join(','),
     multi: letters.length > 1,
+    why: why && why[id],
     feedback:
       `Ans. ${letters.join(', ')} = ${answerIdx.map(idx => q.options[idx]).join(' | ')}` +
       (note ? ` — ${note}` : ''),
@@ -34,7 +36,7 @@ function mapWeeks(data) {
     topic: w.topic,
     questions: w.questions.map((q, i) =>
       mapQuestion(q, `${data.id}w${w.week}q${i + 1}`,
-        w.unofficial ? 'unofficial answer, not published by NPTEL' : '')),
+        w.unofficial ? 'unofficial answer, not published by NPTEL' : '', ieWhy)),
   }))
 }
 

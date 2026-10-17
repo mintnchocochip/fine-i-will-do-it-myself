@@ -7,6 +7,32 @@ import { formatAnswer } from '../utils/questionUtils.js'
 
 const split = v => (v ? v.split(',') : [])
 
+// Pre-written explanations: why your wrong pick is wrong, why the answer is right.
+// The remaining options sit in a native <details> so the box stays short.
+function Why({ question, picked, correct }) {
+  const why = question.why
+  if (!why) return null
+  const line = l => (
+    <div key={l} className="why-line">
+      <span className="why-letter">{l}</span>
+      <span>{why[l]}</span>
+    </div>
+  )
+  const shown = [...picked.filter(l => !correct.includes(l)), ...correct]
+  const rest = question.options.map(o => o.letter).filter(l => !shown.includes(l))
+  return (
+    <div className="why-box">
+      {shown.map(line)}
+      {rest.length > 0 && (
+        <details className="why-rest">
+          <summary>Why not the others?</summary>
+          {rest.map(line)}
+        </details>
+      )}
+    </div>
+  )
+}
+
 export default function QuestionCard({
   question,
   questionNumber,
@@ -96,6 +122,7 @@ export default function QuestionCard({
           {question.feedback && (
             <div className="feedback-detail">{question.feedback}</div>
           )}
+          <Why question={question} picked={picked} correct={correct} />
         </div>
       )}
 
@@ -104,6 +131,7 @@ export default function QuestionCard({
         <div className="feedback-box incorrect">
           <span className="feedback-icon mt-1"><Minus size={18}/></span>
           <strong>Not answered. Correct: {answerSummary}</strong>
+          <Why question={question} picked={[]} correct={correct} />
         </div>
       )}
     </div>

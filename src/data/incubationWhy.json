@@ -1,0 +1,782 @@
+{
+  "iew0q1": {
+    "A": "Correct. IPO = Initial Public Offering — the first sale of a company's shares to the public, turning a private company into a listed one.",
+    "B": "Invented term. Profit optimisation is an internal finance activity and has no standard 'IPO' abbreviation.",
+    "C": "Invented term. No such standard business abbreviation exists.",
+    "D": "Invented term. A portfolio overview is an investor's report, not a company event."
+  },
+  "iew0q2": {
+    "A": "That is a sole proprietorship — one owner, no separate legal identity.",
+    "B": "Correct. A partnership is two or more people sharing ownership, profits, liabilities and responsibilities.",
+    "C": "That is a public sector undertaking or state-owned enterprise, not a partnership.",
+    "D": "Every partnership rests on an ownership agreement; 'no formal structure' describes an informal arrangement, not a legal form."
+  },
+  "iew0q3": {
+    "A": "Market trend analysis is a research activity that uses data, not the creative techniques listed.",
+    "B": "Correct. Problem-solving, critical thinking and idea generation are the standard toolkit for enhancing creativity and innovation.",
+    "C": "Brand awareness is a marketing outcome, built through communication rather than ideation techniques.",
+    "D": "Streamlining production is an operations and process-efficiency concern."
+  },
+  "iew0q4": {
+    "A": "'Treat' is a near-miss spelling designed to catch a rushed reader.",
+    "B": "Correct. SWOT = Strengths, Weaknesses, Opportunities, Threats. Strengths and weaknesses are internal; opportunities and threats are external.",
+    "C": "Not part of the framework.",
+    "D": "Tactics are what you do after the analysis, not a quadrant of it."
+  },
+  "iew0q5": {
+    "A": "A sole proprietorship is a legal business structure — one owner.",
+    "B": "A partnership is a legal business structure — shared ownership.",
+    "C": "A corporation is a legal business structure — a separate legal entity.",
+    "D": "Correct. A trademark is a form of intellectual property protecting a brand name or mark. It says nothing about how the business is owned."
+  },
+  "iew0q6": {
+    "A": "Close but wrong expansion — a KPI measures performance against a goal, not a process step.",
+    "B": "Correct. KPI = Key Performance Indicator, a measurable value showing how effectively an objective is being met.",
+    "C": "Invented expansion. Productivity and knowledge are things a KPI might measure, not what the letters stand for.",
+    "D": "Invented term. Profit is one possible KPI, not what the letters mean."
+  },
+  "iew0q7": {
+    "A": "True but incomplete — a target market alone does not start a business.",
+    "B": "True but incomplete — a plan without a market or funding goes nowhere.",
+    "C": "True but incomplete — funding without a market or plan is the classic failure mode the course warns about.",
+    "D": "Correct. All three are necessary together; each option alone is insufficient."
+  },
+  "iew0q8": {
+    "A": "Reducing quality is a harm, never a benefit.",
+    "B": "Correct. Social media's distinctive value is a direct two-way channel to customers, which builds engagement and brand loyalty.",
+    "C": "Social media complements a website; it does not replace the channel you own.",
+    "D": "Restricting feedback destroys the main advantage of the channel."
+  },
+  "iew0q9": {
+    "A": "Their models differ — OYO aggregates hotel rooms, Swiggy delivers food.",
+    "B": "Both are tech-enabled, but this is true of thousands of companies and is not what links these two specifically.",
+    "C": "Correct. Both crossed the $1 billion valuation mark, making them unicorns — the shared trait the question is testing.",
+    "D": "No business model is free from financial risk; both have absorbed heavy losses."
+  },
+  "iew0q10": {
+    "A": "Copying is imitation, the opposite of the value-creating activity entrepreneurship describes.",
+    "B": "Correct. Of the options offered, starting and running a business venture is the definition of entrepreneurship.",
+    "C": "That describes research and academic work, which may precede a venture but is not entrepreneurship.",
+    "D": "Profit is a possible outcome, not the activity itself."
+  },
+  "iew1q1": {
+    "A": "Avoiding collaboration removes the very feedback that turns a failure into a lesson.",
+    "B": "Correct. The course treats failure as data: the lessons and insights you extract are what make the attempt worth something.",
+    "C": "Jumping away immediately means the learning is never captured.",
+    "D": "Blaming external factors blocks the honest analysis that produces the lesson."
+  },
+  "iew1q2": {
+    "A": "Cost-versus-quality balance matters operationally but is not the characteristic the course names for success.",
+    "B": "Ignoring customer feedback is the behaviour the entire course argues against.",
+    "C": "Correct. Strategic planning plus adaptability to market change is the pairing the course identifies — plan, then adjust as evidence arrives.",
+    "D": "'Solely' on profit ignores customers and market fit, the stated causes of failure."
+  },
+  "iew1q3": {
+    "A": "Correct. The purpose of selling is to identify a real customer and market need and fulfil it — everything else follows from that.",
+    "B": "Aggressive pricing is a tactic, and profit maximisation is an outcome, not the objective of the exchange.",
+    "C": "Promotion communicates value; it does not create the need the product serves.",
+    "D": "Discounting is a sales lever, not the reason the product exists."
+  },
+  "iew1q4": {
+    "A": "Maintaining the status quo is the opposite of disruption.",
+    "B": "Imitation competes inside existing norms rather than challenging them.",
+    "C": "Correct. A disruptive idea changes the rules of the market — it challenges existing norms rather than competing on them.",
+    "D": "Strict adherence to standards is conventional, not disruptive."
+  },
+  "iew1q5": {
+    "A": "'Without innovation' removes the mechanism by which entrepreneurship creates new value.",
+    "B": "Customer validation is a method inside entrepreneurship, not how it drives an economy.",
+    "C": "Correct. Entrepreneurs grow an economy by identifying real market problems and solving them, which creates value, jobs and new markets.",
+    "D": "Market isolation avoids the competition that drives productivity."
+  },
+  "iew1q6": {
+    "A": "Degrees are explicitly not a prerequisite — the course makes this point directly.",
+    "B": "Rigid execution of the original plan is what Lean Startup replaces.",
+    "C": "Lean Startup is about validated learning, not financial optimisation.",
+    "D": "Correct. The method's core is continuous learning validated by customer feedback, through Build–Measure–Learn."
+  },
+  "iew1q7": {
+    "A": "Correct. The two objectives are validating the customer and developing iteratively, so each version is tested against evidence.",
+    "B": "Company building without market analysis is the premature-scaling failure Lean Startup exists to prevent.",
+    "C": "Rapid scaling before product–market fit is the opposite of the method.",
+    "D": "Agile engineering is one of the three components, but 'without customer feedback' removes the point of it."
+  },
+  "iew1q8": {
+    "A": "Correct. Institutions add value by bridging academic research to real market applications — this is the stated mission of centres like GDC.",
+    "B": "Exclusively theoretical research never reaches the market.",
+    "C": "Isolation from the marketplace removes the translation step entirely.",
+    "D": "Discouraging experimentation suppresses innovation."
+  },
+  "iew1q9": {
+    "A": "Correct. Validated learning through continuous experimentation and data is a core part of the definition.",
+    "B": "Correct. Build–Measure–Learn is the cycle that operationalises it.",
+    "C": "Correct. Deciding on empirical evidence rather than assumption is the defining shift.",
+    "D": "Correct. Regular customer engagement is how the evidence is gathered. All four describe the same practice — this is a select-all question where every option is right."
+  },
+  "iew1q10": {
+    "A": "Adopting Lean Startup is the remedy the course prescribes, not a mistake.",
+    "B": "Correct. Over-focusing on the product while neglecting the market is the classic founder error.",
+    "C": "Correct. Building a solution without engaging potential customers is the other classic error — it produces a product nobody needs.",
+    "D": "Writing a business plan and sizing the market is sound practice, not a mistake."
+  },
+  "iew2q1": {
+    "A": "Correct. 'No market need' is the single most common cause of startup failure in the post-mortem analysis the course cites.",
+    "B": "A skilled team is an asset; its absence is a cause of failure, not its presence.",
+    "C": "Sufficient funding helps — and the course notes money alone never saves a startup, but it is not a cause of failure.",
+    "D": "A user-friendly product is a strength."
+  },
+  "iew2q2": {
+    "A": "Individual achievement can pull a team apart when it is not tied to a common goal.",
+    "B": "Lack of diversity narrows the perspectives available; the course argues diverse teams perform better.",
+    "C": "Frequent disagreement corrodes unity rather than creating it.",
+    "D": "Correct. A shared vision and common ideology is what holds a founding team together through a long, uncertain journey."
+  },
+  "iew2q3": {
+    "A": "Entering the market without validation is the behaviour the course warns against.",
+    "B": "Correct. Founders launch to learn: iterate the product while learning from customers.",
+    "C": "Long-term planning without short-term feedback removes the evidence loop.",
+    "D": "Internal team building matters, but exploring the market is what a launch is for."
+  },
+  "iew2q4": {
+    "A": "True — direct feedback on the product is one contribution.",
+    "B": "True — uncovering pain points and preferences is another.",
+    "C": "True — validating assumptions is the third.",
+    "D": "Correct. All three are genuine contributions of customer interaction, so the catch-all is right."
+  },
+  "iew2q5": {
+    "A": "Broad marketing comes later; early adopters are too few to be a distribution channel.",
+    "B": "Correct. Early adopters matter because they give critical feedback that refines the product while it can still change cheaply.",
+    "C": "Production capacity is an operations concern, not something customers expand.",
+    "D": "Early adopters buy the product; they are not a funding source."
+  },
+  "iew2q6": {
+    "A": "Correct. 'Funding guarantees success' is the named misconception — the course states money is not why startups die, product–market fit is.",
+    "B": "Scaling the team strategically is sound practice.",
+    "C": "Prioritising customer needs is exactly what the course recommends.",
+    "D": "Team-building is useful; the trap option is the funding one."
+  },
+  "iew2q7": {
+    "A": "The founder's belief drives the venture but cannot validate it — that is the inventor-syndrome trap.",
+    "B": "Investors validate the business case, not whether the product solves a real need.",
+    "C": "Correct. Only customers validate a product, by using it and paying for it.",
+    "D": "Marketing teams communicate value; they do not confirm it exists."
+  },
+  "iew2q8": {
+    "A": "Correct. Stagnation is a signal to re-examine the strategy and pivot if the evidence says the current path is not working.",
+    "B": "Spending more on marketing a product nobody needs amplifies the problem.",
+    "C": "Ignoring it wastes the remaining runway.",
+    "D": "Cost-cutting extends runway but does not address why progress stalled."
+  },
+  "iew2q9": {
+    "A": "Correct. Strong leadership and a clear vision are essential for the long haul.",
+    "B": "Correct. Effective communication and collaboration keep a diverse team functioning.",
+    "C": "Ignoring customer feedback contradicts the central lesson of the course.",
+    "D": "Limited market research plus an advertising focus is the failure pattern, not a success characteristic."
+  },
+  "iew2q10": {
+    "A": "Correct. Conviction in the vision is what carries founders through the long uncertain stretch — the course's 'be bold and be perseverant'.",
+    "B": "Chasing endless funding is the misconception the course calls out.",
+    "C": "Speed of development is useful but not the essential founder quality.",
+    "D": "Programming skill is a role-specific ability, not a founder requirement."
+  },
+  "iew3q1": {
+    "A": "Aesthetics are a styling outcome; empathy operates at the level of understanding needs.",
+    "B": "Cost reduction comes from engineering and manufacturing choices.",
+    "C": "Empathy is directed at users, not at rival designers.",
+    "D": "Correct. Empathy is what makes design user-centred — it is why the Vein Tracer began with hospital visits and no product in mind."
+  },
+  "iew3q2": {
+    "A": "Correct. A varied skill set and diverse perspectives is what the course prescribes — different disciplines, backgrounds, even languages.",
+    "B": "A single domain expertise leaves blind spots across the rest of the problem.",
+    "C": "Limited experience and poor collaboration are weaknesses, not criteria.",
+    "D": "Homogeneous teams reproduce the same assumptions."
+  },
+  "iew3q3": {
+    "A": "Correct. Thinking in product categories gives you Plan B, C and D — it diversifies risk and keeps you adaptable if one product fails.",
+    "B": "Cost-cutting is unrelated to the category-versus-product choice.",
+    "C": "The category approach widens customer engagement rather than reducing it.",
+    "D": "It expands market exploration; the single-product approach is what narrows it."
+  },
+  "iew3q4": {
+    "A": "True — flexibility and willingness to adapt is one of the named qualities.",
+    "B": "True — lowering ego and collaborating is explicitly advised.",
+    "C": "True — taking a defined role is the third.",
+    "D": "Correct. All three are named together in the team-building session."
+  },
+  "iew3q5": {
+    "A": "Correct. A design brief, or need statement, is built from the functional requirement plus the user requirement.",
+    "B": "Budget and audience are project context, not the core of the brief.",
+    "C": "Timeline and brand vision are management and marketing inputs.",
+    "D": "Full technical specifications come later; the brief defines what is needed, not how to build it."
+  },
+  "iew3q6": {
+    "A": "Correct. Collaborative design pools resources and integrates expertise from different disciplines — 'without collaboration, innovation cannot move forward'.",
+    "B": "Manufacturing efficiency is a production concern.",
+    "C": "Aesthetic appeal is one possible output, not the reason to collaborate.",
+    "D": "Administrative simplification is not a design outcome."
+  },
+  "iew3q7": {
+    "A": "Regulation adds administrative work rather than simplifying it.",
+    "B": "Regulation constrains innovation to safe forms; it does not make it unrestricted.",
+    "C": "Correct. Regulatory barriers exist to protect public health and ensure legal compliance — and as a side effect they deter new entrants, which can protect your position.",
+    "D": "Regulation formalises the market, the opposite of informal practice."
+  },
+  "iew3q8": {
+    "A": "A solution inside the problem statement closes off the exploration before it starts.",
+    "B": "Correct. The essential element is defining the problem clearly — the course reframes vague statements into specific ones before solving.",
+    "C": "A budget is a project constraint, not part of the problem definition.",
+    "D": "Leading with team capability biases the problem toward what you can already do."
+  },
+  "iew3q9": {
+    "A": "Strict procedural compliance suppresses the experimentation innovation needs.",
+    "B": "Internal competition fragments the knowledge sharing that innovation depends on.",
+    "C": "Correct. Interdisciplinary collaboration is the crucial factor — innovation comes from combining perspectives across fields.",
+    "D": "Money helps but does not generate innovation by itself."
+  },
+  "iew3q10": {
+    "A": "Correct. Prior art is the term for previously granted patents and published applications, searched to establish novelty and non-obviousness.",
+    "B": "A generic phrase with no standing in patent law.",
+    "C": "Past literature is broader and not the patent-specific term.",
+    "D": "Invented term with no standing in patent law — it sounds official, which is the whole trap."
+  },
+  "iew4q1": {
+    "A": "Addressing pain points effectively is what prevents failure.",
+    "B": "Prioritising customer satisfaction is protective, not a cause of failure.",
+    "C": "Correct. An innovative product still fails when the team has not understood what customers actually need — innovation does not substitute for understanding.",
+    "D": "Regular feedback is the safeguard against this exact failure."
+  },
+  "iew4q2": {
+    "A": "Correct. Outside-in thinking starts from outside the company — the customer's requirements — and works inward to the product.",
+    "B": "Improving internal processes is inside-out thinking.",
+    "C": "Over-engineering is what happens when the technical team leads instead of the customer.",
+    "D": "Disregarding feedback is the opposite of taking an outside-in view."
+  },
+  "iew4q3": {
+    "A": "Scaling quickly is a later-stage problem, and premature scaling is a mistake rather than an early challenge.",
+    "B": "Correct. Assembling a skilled, cohesive team is the hard early-stage problem — the course puts team before idea.",
+    "C": "Venture capital is not easily acquired early; the wording makes this false.",
+    "D": "Marketing strategy becomes pressing once you have a product and a validated market."
+  },
+  "iew4q4": {
+    "A": "Urban-targeted social media misses the rural audience entirely.",
+    "B": "Correct. Government schemes already reach rural households and carry the trust and distribution a startup cannot build alone.",
+    "C": "Digital platforms assume connectivity and digital habits that may not be present.",
+    "D": "Door-to-door selling in urban regions targets the wrong geography."
+  },
+  "iew4q5": {
+    "A": "Correct. Partnerships and influential figures lend reach and credibility.",
+    "B": "'Solely relying' on MLM and digital ads is the exclusionary option — the word 'solely' makes it wrong.",
+    "C": "Correct. Interactive demonstrations let people experience an unfamiliar product.",
+    "D": "Correct. Building and educating communities creates durable awareness."
+  },
+  "iew4q6": {
+    "A": "True — cutting intermediaries lowers the final price.",
+    "B": "True — subsidies for eco-friendly products improve affordability.",
+    "C": "True — bulk institutional orders improve unit economics.",
+    "D": "Correct. All three pricing levers were used in the solar oven case."
+  },
+  "iew4q7": {
+    "A": "Correct. Investors back evidence of a real, solvable problem — the course frames this as the first thing to demonstrate.",
+    "B": "Ignoring competition signals that the market has not been studied.",
+    "C": "'Solely futuristic technology' with no present problem is exactly what investors avoid.",
+    "D": "Vague or exaggerated claims destroy credibility."
+  },
+  "iew4q8": {
+    "A": "Correct. A new market has its own cultural and economic conditions, and understanding them comes before entering.",
+    "B": "Skipping research and going on instinct is the failure mode.",
+    "C": "Ignoring local regulation invites legal and compliance failure.",
+    "D": "Unadapted products are the standard way foreign entrants fail."
+  },
+  "iew4q9": {
+    "A": "Ignoring the problem is the unaware end of the scale.",
+    "B": "Correct. An urgent or active problem means the person recognises it and is already searching for a solution — the best customers to approach.",
+    "C": "Recognising but refusing to act is passive, not active.",
+    "D": "Adjusting without solving is coping, which signals the need is not urgent."
+  },
+  "iew4q10": {
+    "A": "No awareness at all is the stage below passive.",
+    "B": "Correct. Passive means the person knows the problem exists but has no motivation to change — aware, but not moving.",
+    "C": "Motivation without understanding is not what passive describes.",
+    "D": "Being unable to act is a capability constraint; passive is about missing motivation, not ability. This is the distractor most people pick."
+  },
+  "iew5q1": {
+    "A": "Obstacles block translation; the question asks what enables it.",
+    "B": "Correct. Industry partnership is the bridge that turns lab research into products society actually uses — the core argument of the R.E.INV.ENT model.",
+    "C": "Confidentiality has a role in patenting, but keeping results closed prevents societal benefit.",
+    "D": "Rivalry with industry removes the collaboration the translation depends on."
+  },
+  "iew5q2": {
+    "A": "High margins would attract investors, not repel them.",
+    "B": "Correct. Medical devices have poor success rates — long development, clinical trials and certification mean most never reach market, which makes investors wary.",
+    "C": "Growing demand is a reason to invest.",
+    "D": "Medical device R&D cycles are long, not short; the statement is false as well as unpersuasive."
+  },
+  "iew5q3": {
+    "A": "Correct. Everything starts with identifying the problem and understanding the functional requirements — 'need to have, not nice to have'.",
+    "B": "Marketing comes after there is something worth marketing.",
+    "C": "Training and resourcing are execution concerns, not the first design step.",
+    "D": "IPR matters, but it protects a solution you have already defined."
+  },
+  "iew5q4": {
+    "A": "Telemedicine lowered cost and extended reach; the claim is simply false.",
+    "B": "Correct. By handling consultations remotely it reduced the load on physical facilities when they were overwhelmed.",
+    "C": "It removed access barriers rather than creating them.",
+    "D": "It simplified delivery for routine care."
+  },
+  "iew5q5": {
+    "A": "Marketing content is not what a pilot run produces.",
+    "B": "Correct. Pilot production exists to test the design in realistic conditions and adapt features based on user feedback before committing to mass production.",
+    "C": "Patents should already be filed before this stage.",
+    "D": "Controlled lab research happens earlier, at proof-of-concept."
+  },
+  "iew5q6": {
+    "A": "At idea conception there is often nothing specific enough to patent.",
+    "B": "A working prototype is a reasonable moment, but the binding deadline is commercialisation.",
+    "C": "Correct. Secure IPR before commercialising — once the product is public, disclosure can destroy novelty and the right to patent.",
+    "D": "By the time it is widely available, protection is likely lost."
+  },
+  "iew5q7": {
+    "A": "Start-ups can license, but so can others — 'only' makes this wrong.",
+    "B": "Industry can license, but again not exclusively.",
+    "C": "NGOs can license, including for non-profit deployment.",
+    "D": "Correct. Start-ups, industry and NGOs are all eligible licensees; technology licensing is not restricted to one kind of body."
+  },
+  "iew5q8": {
+    "A": "Correct. TRL = Technology Readiness Levels, the 1–9 scale running from concept through proof-of-concept, prototype and product to market.",
+    "B": "Invented expansion. 'Research limits' has nothing to do with measuring how close a technology is to deployment.",
+    "C": "Invented expansion — plausible-sounding, which is the trap.",
+    "D": "Invented expansion. Testing and reliability are activities within development, not the name of the 1-9 maturity scale."
+  },
+  "iew5q9": {
+    "A": "Correct. A PoC exists to show the concept actually works — functional feasibility. It is not expected to be scalable, pretty or finished.",
+    "B": "Industrial scalability belongs to the later product and pilot stages.",
+    "C": "Patents may follow, but they are not what a PoC demonstrates.",
+    "D": "Ideas without implementation are not a proof of anything."
+  },
+  "iew5q10": {
+    "A": "Correct. Functional requirements come from the people who will use and be affected by the product, so thorough stakeholder interviews are the best practice.",
+    "B": "Relying on assumptions instead of users is the failure mode the course warns about.",
+    "C": "Developer convenience optimises the wrong thing.",
+    "D": "Ignoring scope and timeline produces requirements nobody can deliver."
+  },
+  "iew6q1": {
+    "A": "Lean methods are useful tools but they are not what makes an approach human-centred.",
+    "B": "Correct. Human-centred work rests on building empathy and doing real user research before deciding anything.",
+    "C": "Traditional marketing pushes a message outward rather than learning from users.",
+    "D": "'Solely on product ideas' is exactly the inward focus human-centred design corrects."
+  },
+  "iew6q2": {
+    "A": "Correct. Iterative testing and feedback loops are how you find out whether the product actually matches what customers expect.",
+    "B": "Aesthetics over functionality inverts the priority.",
+    "C": "Ignoring competitors removes useful context.",
+    "D": "Skipping prototyping removes the cheapest way to test expectations."
+  },
+  "iew6q3": {
+    "A": "Correct. Together they connect day-to-day business operations with innovation — design stops being decoration and becomes a strategic function.",
+    "B": "Mock-ups are an output of the process, not its organisational benefit.",
+    "C": "'Only' creative ideas understates what strategic planning and research contribute.",
+    "D": "Quick decisions without research is the opposite of what these disciplines provide."
+  },
+  "iew6q4": {
+    "A": "'Solely' the core idea ignores feasibility and the business.",
+    "B": "Correct. The designer's job is to balance all three: what users need, what technology permits, and what the business requires.",
+    "C": "Letting customer experience override business goals breaks the balance in the other direction.",
+    "D": "Prioritising feasibility over desirability produces something buildable that nobody wants."
+  },
+  "iew6q5": {
+    "A": "Complex, detailed questions confuse people and shut them down.",
+    "B": "Opening on a secondary objective wastes the interviewee's attention.",
+    "C": "Correct. People share honestly once they trust you — build rapport first, then probe at the right moment.",
+    "D": "A rigid formal structure prevents the unexpected disclosures that make interviews valuable."
+  },
+  "iew6q6": {
+    "A": "Technical specifications and timelines belong to the project plan, not the brief.",
+    "B": "Marketing strategy is downstream of the design brief.",
+    "C": "Budget estimates are commercial context.",
+    "D": "Correct. A robust brief identifies user pain points, maps the user journey and ensures the solution fits the user's wider ecosystem."
+  },
+  "iew6q7": {
+    "A": "Lateral thinking is a creativity technique, not a management discipline.",
+    "B": "Overseeing teams and timelines is project management.",
+    "C": "Stakeholder collaboration is part of it but does not define it.",
+    "D": "Correct. Design management is a structured process for achieving business objectives through design."
+  },
+  "iew6q8": {
+    "A": "High fees are a client cost, never a thing clients seek.",
+    "B": "Correct. Quality, speed and transparency are the three named in the enterprise UX session.",
+    "C": "Extended timelines are a drawback, not a quality sought.",
+    "D": "Minimal interaction is the opposite of the collaboration clients want."
+  },
+  "iew6q9": {
+    "A": "Timeline and budget are planning artefacts.",
+    "B": "Competitor benchmarking informs strategy but is not the brief's core.",
+    "C": "Correct. Specific user personas and their pain points are what make a brief actionable for designers.",
+    "D": "Finalised marketing plans come after the product is defined."
+  },
+  "iew6q10": {
+    "A": "Marketing success is a downstream result, not why empathy for both sides matters.",
+    "B": "Prioritising aesthetics is not a balance at all.",
+    "C": "Correct. Holding both perspectives keeps creative ideas tethered to objectives that the business can realistically meet.",
+    "D": "Empathy for two constituencies adds complexity rather than reducing it."
+  },
+  "iew7q1": {
+    "A": "Economic stability is a condition, not an approach to innovation.",
+    "B": "Correct. Design thinking is defined by collaboration, iteration and a non-linear process — the 'squiggly line'.",
+    "C": "Complacency prevents innovation.",
+    "D": "Short-term focus works against the iteration design thinking requires."
+  },
+  "iew7q2": {
+    "A": "Brainstorming generates volume but does not specifically work by linking unrelated domains.",
+    "B": "Correct. Synectics is the method built on analogy — direct, personal, symbolic and fantasy — to connect unrelated concepts.",
+    "C": "Mind mapping organises ideas you already have.",
+    "D": "SWOT is a strategic analysis tool, not an ideation method."
+  },
+  "iew7q3": {
+    "A": "Correct. Market need, technical feasibility and business viability — the same three lenses as desirability, feasibility and viability.",
+    "B": "Advertising, packaging and distribution are go-to-market details.",
+    "C": "Plausible-sounding but not the triad taught.",
+    "D": "Profit and headcount are outcomes and resources, not the decision factors."
+  },
+  "iew7q4": {
+    "A": "Correct. The Business Model Canvas puts the whole model on one page as a visual, which is why it works as a communication tool for investors and mentors.",
+    "B": "A balance sheet shows financial position, not the business model.",
+    "C": "A P&L shows performance over a period.",
+    "D": "An org chart shows reporting lines."
+  },
+  "iew7q5": {
+    "A": "Scaling before measuring is premature scaling.",
+    "B": "Patents are a parallel legal track, not a stage of the loop.",
+    "C": "Correct. Build → Measure → Learn: after building the MVP you measure customer response and learn from it.",
+    "D": "Financial statements are not part of the cycle."
+  },
+  "iew7q6": {
+    "A": "True — collaboration gives access to resources you could not afford alone.",
+    "B": "True — it opens networks.",
+    "C": "True — it creates a community of peers.",
+    "D": "Correct. All three benefits are named together."
+  },
+  "iew7q7": {
+    "A": "Correct. Fractional ownership splits a high-value physical asset among many owners — NetJets selling shares of private jets.",
+    "B": "Digital goods can be copied infinitely, so there is no scarcity to divide.",
+    "C": "IP licensing is a different model.",
+    "D": "Leasing transfers use for a period without transferring any ownership share."
+  },
+  "iew7q8": {
+    "A": "High investment, large workforce and expensive marketing are costs, not criteria for success.",
+    "B": "Correct. A clear value proposition, scalability and sustainable revenue streams are what make a model work.",
+    "C": "'Minimal effort' is wishful rather than a criterion.",
+    "D": "A single revenue source and a limited market are fragilities."
+  },
+  "iew7q9": {
+    "A": "Correct. Revenue growth, customer acquisition and customer retention are the three metric families the course names.",
+    "B": "Useful operational measures, but not the headline set for business success.",
+    "C": "Brand and social reach are vanity-adjacent and indirect.",
+    "D": "Mixes one real metric with spend and aesthetics."
+  },
+  "iew7q10": {
+    "A": "Lean Canvas is not a fundraising instrument.",
+    "B": "A five-year financial plan is the opposite of lean — too speculative to be useful early.",
+    "C": "Correct. Its value is speed: it lets you lay out and test business-model assumptions quickly, one customer segment at a time.",
+    "D": "Organisational structure is not what the canvas describes."
+  },
+  "iew8q1": {
+    "A": "Early adopters create advantage, not disadvantage.",
+    "B": "Correct. They validate that real demand exists, early enough that the feedback can still change the product cheaply.",
+    "C": "Early adopters typically accelerate first revenue.",
+    "D": "Marketing effort is not the point of identifying them."
+  },
+  "iew8q2": {
+    "A": "True — an entrepreneurial mindset is the first named trait.",
+    "B": "True — adaptability and resilience carry founders through pivots.",
+    "C": "True — ethics and values are explicitly included.",
+    "D": "Correct. All three are named together as the characteristics to develop."
+  },
+  "iew8q3": {
+    "A": "Operational detail is not what an investor pitch turns on.",
+    "B": "Correct. Investors need to see a model that scales and makes money — the reviewers put it bluntly: any VC wants to know how they will make money.",
+    "C": "Market size is one supporting slide, not the essential element.",
+    "D": "Industry trends are context, not the business case."
+  },
+  "iew8q4": {
+    "A": "An MVP exists precisely to validate, so 'without validation' contradicts it.",
+    "B": "Correct. The MVP attracts early-adopter customers and validates the product idea with the smallest feature set that can be used.",
+    "C": "Short-term revenue is not its purpose.",
+    "D": "An MVP deliberately sacrifices polish for learning speed."
+  },
+  "iew8q5": {
+    "A": "True — identifying target customers and users comes first.",
+    "B": "True — listing their top three problems is the next step.",
+    "C": "True — developing a solution for each problem follows.",
+    "D": "Correct. All three are the opening steps of a Lean Canvas, done in that order."
+  },
+  "iew8q6": {
+    "A": "Correct. Competitiveness is sustained by continuous improvement and innovation — Atomberg's position came from exactly this.",
+    "B": "Raising prices incrementally does not make a product more competitive.",
+    "C": "Deliberately limiting scalability caps growth.",
+    "D": "Low-impact trends produce low-impact products."
+  },
+  "iew8q7": {
+    "A": "Physical property covers tangible assets like land and equipment.",
+    "B": "Correct. Intellectual property is the legal protection for creations of the mind — it prevents unauthorised use of original works.",
+    "C": "'Commercial asset' is a generic accounting phrase.",
+    "D": "Industrial design is one specific type of IP, not the umbrella term."
+  },
+  "iew8q8": {
+    "A": "Real estate is physical property.",
+    "B": "Correct. The four IPR types are patents, copyrights, trademarks and trade secrets.",
+    "C": "Financial records are business documents.",
+    "D": "Equipment is a tangible asset."
+  },
+  "iew8q9": {
+    "A": "Correct. Customer acquisition is about bringing in new customers efficiently and at sustainable cost — the cost per acquisition is what matters.",
+    "B": "Maximising short-term revenue can mean acquiring customers at a loss.",
+    "C": "Ignoring feedback undermines retention and therefore acquisition economics.",
+    "D": "Word of mouth alone is not a strategy you can control or scale."
+  },
+  "iew8q10": {
+    "A": "Correct. A strong UVP states clearly how you meet customer needs better than the alternatives, which is what attracts customers and keeps them.",
+    "B": "'Solely' financial metrics with no customer consideration is not a value proposition.",
+    "C": "Infrastructure over customer needs inverts the priority.",
+    "D": "Cutting quality to cut price weakens the proposition rather than sharpening it."
+  },
+  "iew9q1": {
+    "A": "True — self-doubt about your own skills is one of the named barriers.",
+    "B": "True — fear of negative feedback stops people showing the idea to anyone.",
+    "C": "True — funding difficulty is the third.",
+    "D": "Correct. All three barriers sit between having an idea and acting on it."
+  },
+  "iew9q2": {
+    "A": "Funders matter, but the course is explicit that money is not what determines survival.",
+    "B": "Correct. The target customer is the relationship that decides whether the startup lives — customers validate, pay and tell you what to build next.",
+    "C": "Infrastructure is a resource, not a relationship.",
+    "D": "Market needs are a thing you study, not a relationship you manage."
+  },
+  "iew9q3": {
+    "A": "Correct. Government grants are the first risk capital available to early ventures and expect no return.",
+    "B": "Correct. Seed funding and crowdfunding are the other typical early sources.",
+    "C": "High-interest long-term loans are inappropriate for a pre-revenue startup with no cash flow to service them.",
+    "D": "Equity funds come later, once the business is scalable enough for an investor to model an exit."
+  },
+  "iew9q4": {
+    "A": "True — when education is aimed solely at getting a job, few graduates attempt ventures.",
+    "B": "True — resource abundance can remove the pressure that drives innovation.",
+    "C": "True — discouraging policy suppresses new venture formation.",
+    "D": "Correct. All three explain why some regions lag."
+  },
+  "iew9q5": {
+    "A": "Correct. Incubation is where the idea becomes a business: build the plan, secure resources, register the company, move prototype toward viable product.",
+    "B": "Taking an idea to industry through IP or technology transfer is commercialisation, a different path.",
+    "C": "Advanced R&D belongs to the research stage before incubation.",
+    "D": "Scaling for global markets is the accelerator stage, after incubation."
+  },
+  "iew9q6": {
+    "A": "Too harsh on both — it reduces entrepreneurs to profit-seekers and strips innovators of any goal.",
+    "B": "Correct. The difference is framing: an entrepreneur sees a problem as a business opportunity, while an innovator is satisfied by solving it.",
+    "C": "Working alone versus in teams is not the distinction; both do both.",
+    "D": "Formal education is not required of either."
+  },
+  "iew9q7": {
+    "A": "Administrative training is not why an engineer sits in a hospital.",
+    "B": "Correct. Clinical immersion means observing diagnosis, treatment and follow-up with consent, to find unmet needs you would never learn about from outside.",
+    "C": "Marketing strategy comes much later.",
+    "D": "Financial planning is unrelated to being present in the clinic."
+  },
+  "iew9q8": {
+    "A": "Correct. Execution improves when you know precisely whose need you are meeting and what gap exists in the market.",
+    "B": "Advertising cannot rescue an idea aimed at an undefined need.",
+    "C": "Office infrastructure is irrelevant to execution quality.",
+    "D": "Rigid adherence to the original plan prevents the pivots evidence demands."
+  },
+  "iew9q9": {
+    "A": "Entrepreneurship is owning and building the venture yourself — the other path.",
+    "B": "Correct. Commercialisation is handing the idea to industry via intellectual property or technology transfer.",
+    "C": "Enterprise development is a general term for growing businesses.",
+    "D": "Incubation is support given to a startup you are building yourself."
+  },
+  "iew9q10": {
+    "A": "Correct. The Idea Generation stage is where the startup idea is first created and developed — germination, before any prototype exists.",
+    "B": "Research investigates feasibility after there is an idea to test.",
+    "C": "Incubation turns an existing idea into a viable product.",
+    "D": "Scaling is the last stage, where a proven business grows — not where the idea is first formed."
+  },
+  "iew10q1": {
+    "A": "Fantasy analogy is wish-fulfilment that ignores physics — 'the spoon feeds the child itself'.",
+    "B": "Correct. Personal analogy is imagining yourself as part of the problem or object: 'if I were the spoon in a child's hand'.",
+    "C": "Symbolic analogy compresses the essence into a short, often paradoxical phrase.",
+    "D": "There is no such thing as a 'CAD analogy' — it is an invented option."
+  },
+  "iew10q2": {
+    "A": "Additive is real — building up with clay, plaster of Paris or rubber, and 3D printing as the machine version.",
+    "B": "Subtractive is real — cutting away from a block of styrene, styrofoam or PU foam; CNC machining is the powered version.",
+    "C": "Forming is real — reshaping a sheet without adding or removing material, as in vacuum forming.",
+    "D": "Correct. Lateral thinking is an ideation technique, not a way of physically making a prototype. That is why it is the odd one out."
+  },
+  "iew10q3": {
+    "A": "Correct. Ideation → Concept Generation → Prototyping → Testing → Market Launch. Ideas first, launch last, testing before launch.",
+    "B": "Puts ideation after testing, which is impossible — you cannot test what has not been conceived.",
+    "C": "Ends with ideation, after the product has already launched.",
+    "D": "Launches before prototyping or testing, the worst possible order."
+  },
+  "iew10q4": {
+    "A": "Abductive reasoning infers the most likely explanation for an observation.",
+    "B": "Deductive reasoning goes the other way — from a general rule to a specific case.",
+    "C": "Correct. Inductive reasoning builds a general conclusion out of specific observations, which is how user research produces insight.",
+    "D": "Analytical reasoning is a broad label, not one of the three types named in the course."
+  },
+  "iew10q5": {
+    "A": "Increasing costs is the opposite of frugality.",
+    "B": "Correct. Frugal innovation minimises waste and uses resources efficiently, which lowers cost without lowering usefulness.",
+    "C": "Aesthetics over function is unrelated to frugality.",
+    "D": "Scaling without cost discipline is the opposite again."
+  },
+  "iew10q6": {
+    "A": "Correct. A PoC validates that the idea is feasible and viable — that it can actually work — before resources go into building the real thing.",
+    "B": "The final product comes much later, after prototyping and pilot production.",
+    "C": "Funding may follow a successful PoC but is not its purpose.",
+    "D": "Prototypes for user feedback are the next stage; a PoC proves the principle first."
+  },
+  "iew10q7": {
+    "A": "Finalising for immediate release skips the learning prototyping exists for.",
+    "B": "Correct. Prototyping builds models to test and improve design, functionality and usability — and it is a communication tool as much as a physical one.",
+    "C": "Large-scale production units are manufacturing, not prototyping.",
+    "D": "Prototyping is inherently iterative; avoiding iteration defeats it."
+  },
+  "iew10q8": {
+    "A": "Correct. Synectics exists to break conventional thinking and widen exploration — 'put the watchman in your mind to sleep'.",
+    "B": "Converging on one perfect solution is the opposite of what it does.",
+    "C": "Quick consensus suppresses the divergence the method needs.",
+    "D": "Detailed technical analysis refines ideas; Synectics generates them."
+  },
+  "iew10q9": {
+    "A": "Mutual franchising is one mechanism mentioned, but it is not the general answer and does not cover distributed production.",
+    "B": "Correct. Entrepreneurs collaborate by pooling resources and distributing production — pooled inventory, single bid with multiple suppliers, distributed manufacturing as with the Etikoppaka artisans.",
+    "C": "Competing in the same segment is rivalry, not collaboration — and its presence is why the catch-all is wrong here.",
+    "D": "This is the one question in the set where 'All of the above' is incorrect, because option C is not collaboration."
+  },
+  "iew10q10": {
+    "A": "Correct. Prototypes surface design flaws while they are still cheap to fix — far cheaper than discovering them after deployment.",
+    "B": "A prototype is explicitly not the final version; the course says to state that when showing one.",
+    "C": "Prototyping supplements market research, it does not replace it.",
+    "D": "Aesthetics without user input is the opposite of what prototyping tests."
+  },
+  "iew11q1": {
+    "A": "Correct. Needs vary enormously between individuals with disabilities, so the design has to start from observing actual users — user-centred design.",
+    "B": "Exclusivity narrows who the product can serve, the opposite of the goal.",
+    "C": "Profit maximisation is a business objective, not a design approach.",
+    "D": "Cost reduction matters but does not determine whether the product meets the need."
+  },
+  "iew11q2": {
+    "A": "Awareness of digital alternatives is a communications activity, not a design aim.",
+    "B": "Correct. The two aims are making the user independent and helping them integrate socially — dignity as well as function.",
+    "C": "Redesigning existing products is a method, not the aim.",
+    "D": "Exclusive and expensive solutions exclude the people assistive technology is for."
+  },
+  "iew11q3": {
+    "A": "Trendy and common means undifferentiated — easily copied, quickly forgotten.",
+    "B": "Correct. A product succeeds by being relevant (it meets a real need) and differentiated (it is distinguishable from alternatives).",
+    "C": "Cheap and generic competes only on price, which is the weakest position.",
+    "D": "Expensive and complex adds cost and friction without necessarily adding value."
+  },
+  "iew11q4": {
+    "A": "Guaranteed returns are unrealistic and destroy credibility with any serious investor.",
+    "B": "Correct. What persuades is a genuinely unique and differentiated offering — something that cannot simply be bought elsewhere.",
+    "C": "A vague value proposition is the most common reason a pitch fails.",
+    "D": "Low cost with limited functionality gives neither investors nor customers a reason to choose you."
+  },
+  "iew11q5": {
+    "A": "Material choice has little to do with production time, and speed would not justify the risk.",
+    "B": "Correct. In B2C, cheap materials come back as returns, warranty claims and servicing — the saving is more than cancelled out downstream.",
+    "C": "Cheap materials damage brand reputation.",
+    "D": "They typically worsen appearance and feel, not improve it."
+  },
+  "iew11q6": {
+    "A": "Strong loyalty and retention reduce risk.",
+    "B": "Correct. Depending on a handful of corporate clients means losing one can take a large share of revenue — concentration risk.",
+    "C": "Falling operating costs improve viability.",
+    "D": "Brand recognition is an asset."
+  },
+  "iew11q7": {
+    "A": "Speed is an AI advantage, so this does not answer what human interaction contributes.",
+    "B": "Correct. Direct human contact builds empathy and an understanding of individual needs that a model working from aggregate data does not reach.",
+    "C": "Machine learning improvement is again an AI advantage.",
+    "D": "Breadth of capability is not the point of comparison here."
+  },
+  "iew11q8": {
+    "A": "Correct. Interactive games that involve physical movement and coordination develop cognitive, motor and analytical skills together.",
+    "B": "'Solely' aesthetic and trendy design delivers no developmental benefit.",
+    "C": "Technology used purely for entertainment does not build skills.",
+    "D": "Cost-efficiency over engagement loses the child's attention, and an unengaged child learns nothing."
+  },
+  "iew11q9": {
+    "A": "Correct. Evidence-based development means knowing exactly who the customer is and then measuring whether the solution actually had the intended impact.",
+    "B": "Brand recognition and competitor analysis are market activities, not evidence about your solution's effect.",
+    "C": "Advertising budgets and technical specs are downstream decisions.",
+    "D": "Packaging and pricing come after the solution is shown to work."
+  },
+  "iew11q10": {
+    "A": "Cost reduction is not why alignment with customer needs matters.",
+    "B": "Correct. A product matched to real needs produces satisfaction that lasts, and satisfied customers stay — loyalty is the long-term payoff.",
+    "C": "Following trends exclusively ignores the actual customer.",
+    "D": "Manufacturing simplicity is an internal benefit."
+  },
+  "iew12q1": {
+    "A": "Early identification narrows focus usefully; it does not cause unhealthy fixation.",
+    "B": "Correct. A clearly identified problem gives the whole development effort a defined direction, so the team is not designing in the dark.",
+    "C": "Nothing about early identification assumes problems are static — you revisit them as evidence arrives.",
+    "D": "Identifying the problem properly requires user insight rather than overlooking it."
+  },
+  "iew12q2": {
+    "A": "Correct. Modularity lets one platform serve varied customer needs, which raises satisfaction while keeping production efficient — Atomberg's modular attachment design is the course example.",
+    "B": "Modularity generally improves scalability by reusing common parts.",
+    "C": "Customisation increases customer engagement rather than reducing it.",
+    "D": "Minimal options is the opposite of customisable."
+  },
+  "iew12q3": {
+    "A": "Spreading resources thinly is precisely what a beachhead strategy avoids.",
+    "B": "Correct. A beachhead is one focused segment you can win first, establishing a base before expanding — the reviewers' advice to 'get specific, narrow, choose one or two segments'.",
+    "C": "It depends on customer research rather than skipping it.",
+    "D": "It is an application of segmentation, not an avoidance of it."
+  },
+  "iew12q4": {
+    "A": "Friends are the people the course tells founders not to rely on for feedback or reach.",
+    "B": "Correct. Networking pays off when connections are targeted — reaching the specific customers, mentors and investors who matter to your venture.",
+    "C": "Avoiding industry events removes the main venue for building a network.",
+    "D": "Unstructured effort produces contacts but no outcomes."
+  },
+  "iew12q5": {
+    "A": "Higher development costs are a disadvantage, never an advantage.",
+    "B": "Correct. The inverted pyramid flips the usual hierarchy so the customer sits at the top, which forces the organisation to prioritise customer needs in its decisions.",
+    "C": "Complex descriptions for a wider audience is the opposite of clarity.",
+    "D": "This is the trap, and the most commonly chosen wrong answer. Concise messaging with a clear audience focus is the journalism sense of the inverted pyramid — most important information first — not the business model the course means."
+  },
+  "iew12q6": {
+    "A": "Correct. Identifying the target customer segment is the step everything else depends on; get it wrong and the best-executed design still misses.",
+    "B": "Ignoring user feedback is the failure mode, not a step.",
+    "C": "Skipping competitor analysis to save time loses the market context.",
+    "D": "Overlooking market research to focus on production builds the wrong thing efficiently."
+  },
+  "iew12q7": {
+    "A": "Expensive extravagant campaigns are exactly what a cash-constrained startup cannot afford.",
+    "B": "Short-term aggressive advertising buys attention without building anything durable.",
+    "C": "Correct. Lean, innovative marketing fits a startup's budget and lets you test channels with small bets before committing.",
+    "D": "Random, unfocused effort wastes the little budget there is."
+  },
+  "iew12q8": {
+    "A": "Personal opinions substituted for user evidence is inventor syndrome.",
+    "B": "Correct. Customer needs and preferences are the design input that matters — the single most repeated point in the whole course.",
+    "C": "Excessive technical detail with low usability is over-engineering.",
+    "D": "Low-impact trends chosen to reduce risk produce low-impact products."
+  },
+  "iew12q9": {
+    "A": "Irrelevant features confuse the audience about what the product is for.",
+    "B": "Overemphasising minor segments misrepresents the opportunity.",
+    "C": "Correct. The solution slide must make clear exactly how the product addresses the specific problem you just established — the reviewers kept pressing teams on this.",
+    "D": "Overambitious goals damage credibility with investors who have heard them before."
+  },
+  "iew12q10": {
+    "A": "A vague concept is the fastest way to lose an investor's attention.",
+    "B": "Avoiding market potential removes the thing investors most want to size.",
+    "C": "Correct. Clearly articulating the value proposition and the market fit is the essential pitch element — any VC wants to understand how the business makes money.",
+    "D": "Deliberately weak projections signal that you do not believe in the business."
+  }
+}
